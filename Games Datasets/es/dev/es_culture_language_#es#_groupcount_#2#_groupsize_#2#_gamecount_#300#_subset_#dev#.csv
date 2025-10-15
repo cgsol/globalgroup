@@ -1,0 +1,601 @@
+,Game #,True Topic,Tag 1,Tag 2,Tag 3,Word 1,Word 2
+0,0,Metales,Everyday,Objects,,Platino,Rodio
+1,0,Verduras,Everyday,Food,,Papa,Zanahoria
+0,1,___tar,Linguistic,Fill in the blank,,Encan,Orien
+1,1,Nombres,Everyday,,,Margarita,Rosa
+0,2,___tar,Linguistic,Fill in the blank,,Agi,Dormi
+1,2,Vichos,Everyday,Animals,,Mosquito,Mariquita
+0,3,Juegos Infantiles,Pop culture,Sports,,Escondite,Rayuela
+1,3,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Embuste,Patraña
+0,4,Celebraciones Mexicanas,Pop culture,,,Magos,Muertos
+1,4,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Embuste,Patraña
+0,5,Cantantes Latinoamericanos,Pop culture,Music,,Iglesias,Martin
+1,5,Animales,Everyday,Animals,,Raton,Caballo
+0,6,Celebraciones Mexicanas,Pop culture,,,Magos,Niño
+1,6,Bailes,Pop culture,,,Samba,Jive
+0,7,Artistas,Pop culture,,,Kahlo,Orozco
+1,7,Partes de Zapatos,Everyday,Objects,,Suela,Agujeta
+0,8,Directores de Cine,Pop culture,TV & Movies,,Toro,Llosa
+1,8,Artistas,Pop culture,,,Kahlo,Rivera
+0,9,Vichos,Everyday,Animals,,Mariquita,Mariposa
+1,9,___bol,Linguistic,Fill in the blank,,Ár,Béis
+0,10,Poetas Latinoamericanos,Pop culture,Literature,,Neruda,Acevedo
+1,10,Cantantes Latinoamericanos,Pop culture,Music,,Santana,Selena
+0,11,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Dinero,Lucas
+1,11,Actores Españoles,Pop culture,TV & Movies,,Bardem,Mollà
+0,12,Bandas Latinoamericanas,Pop culture,Music,,Lobos,Enanitos
+1,12,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Pedo,Lío
+0,13,___tro,Linguistic,Fill in the blank,,Cilan,Secues
+1,13,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Plata,Dinero
+0,14,Verduras,Everyday,Food,,Apio,Zanahoria
+1,14,Poetas Latinoamericanos,Pop culture,Literature,,Martí,Neruda
+0,15,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Gamba,Plata
+1,15,Bandas Latinoamericanas,Pop culture,Music,,Enanitos,Maná
+0,16,Comida Mexicana,Everyday,Food,,Pambazo,Chapulin
+1,16,Bandas Latinoamericanas,Pop culture,Music,,Lobos,Tacuba
+0,17,Flores,Everyday,World/Nature,,Nochebuena,Azahar
+1,17,Partes de Zapatos,Everyday,Objects,,Agujeta,Suela
+0,18,Géneros,Pop culture,Literature,,Romance,Misterio
+1,18,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Embuste,Patraña
+0,19,Parientes,Everyday,,,Mama,Hermana
+1,19,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Rico,Sabroso
+0,20,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Sabroso,Excelente
+1,20,Comida Mexicana,Everyday,Food,,Chapulin,Pambazo
+0,21,Cantantes Latinoamericanos,Pop culture,Music,,Iglesias,Selena
+1,21,Vichos,Everyday,Animals,,Mariquita,Mariposa
+0,22,___bol,Linguistic,Fill in the blank,,Ár,Básquet
+1,22,Poetas Latinoamericanos,Pop culture,Literature,,Mistral,Neruda
+0,23,Deportes Culturales,Pop culture,Sports,,Charrería,Rodeo
+1,23,Géneros,Pop culture,Literature,,Poema,Romance
+0,24,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Lío
+1,24,Bailes,Pop culture,,,Jive,Samba
+0,25,Flores,Everyday,World/Nature,,Nochebuena,Lirio
+1,25,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Embuste,Trampa
+0,26,Cuerpos de Agua,Everyday,World/Nature,,Oceano,Rio
+1,26,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Tajo,Chamba
+0,27,Puestos Catolicos,Everyday,Religion,,Cardinal,Arzobispo
+1,27,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Quico
+0,28,___tar,Linguistic,Fill in the blank,,Dormi,Agi
+1,28,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Atasco,Embotellamiento
+0,29,Cuerpos de Agua,Everyday,World/Nature,,Oceano,Lago
+1,29,Poetas Latinoamericanos,Pop culture,Literature,,Acevedo,Mistral
+0,30,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Sabroso,Rico
+1,30,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Trafico,Embotellamiento
+0,31,Artistas,Pop culture,,,Kahlo,Izquierdo
+1,31,Personajes de Don Quixote,Pop culture,Literature,,Sancho,Sansón
+0,32,Partes de Zapatos,Everyday,Objects,,Tacon,Agujeta
+1,32,Barrios En Latinoamerica,Everyday,World/Nature,,La Boca,El Dorado
+0,33,Directores de Cine,Pop culture,TV & Movies,,Iñárritu,Llosa
+1,33,Géneros,Pop culture,Literature,,Misterio,Romance
+0,34,Homófonos,Linguistic,Homophones,,Tasa,Coser
+1,34,Futbolistas,Pop culture,Sports,,Suárez,Figueroa
+0,35,Equipos de La Liga,Pop culture,Sports,,Madrid,Sociedad
+1,35,Futbolistas,Pop culture,Sports,,Messi,Figueroa
+0,36,Directores de Cine,Pop culture,TV & Movies,,Toro,Cuarón
+1,36,___tar,Linguistic,Fill in the blank,,Encan,Orien
+0,37,Homófonos,Linguistic,Homophones,,Tasa,Coser
+1,37,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Padre,Macizo
+0,38,Metales,Everyday,Objects,,Alpaca,Rodio
+1,38,Parientes,Everyday,,,Sobrina,Hermana
+0,39,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Pedo
+1,39,Animales Aquaticos,Everyday,Animals,,Morsa,Castor
+0,40,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Quico,Chilindrina
+1,40,Puestos Catolicos,Everyday,Religion,,Sacerdote,Cardinal
+0,41,Parientes,Everyday,,,Tio,Hermana
+1,41,Tipos de Pan,Everyday,Food,,Polvoron,Concha
+0,42,Puestos Catolicos,Everyday,Religion,,Arzobispo,Cardinal
+1,42,Tipos de Pan,Everyday,Food,,Mantecada,Concha
+0,43,Nombres,Everyday,,,Eugenia,Margarita
+1,43,Apodos,Linguistic,,,Lucha,Chava
+0,44,Animales Aquaticos,Everyday,Animals,,Morsa,Castor
+1,44,___tar,Linguistic,Fill in the blank,,Encan,Agi
+0,45,Vichos,Everyday,Animals,,Mariposa,Mariquita
+1,45,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Pedo,Bardo
+0,46,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Atasco,Taco
+1,46,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Padre,Chido
+0,47,Bandas Latinoamericanas,Pop culture,Music,,Maná,Tacuba
+1,47,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Laburo,Chamba
+0,48,Partes de Zapatos,Everyday,Objects,,Tacon,Suela
+1,48,Celebraciones Mexicanas,Pop culture,,,Independencia,Muertos
+0,49,Géneros,Pop culture,Literature,,Poema,Romance
+1,49,Futbolistas,Pop culture,Sports,,Messi,Figueroa
+0,50,Nombres,Everyday,,,Margarita,Marta
+1,50,Comida Mexicana,Everyday,Food,,Chapulin,Enchilada
+0,51,Flores,Everyday,World/Nature,,Nochebuena,Azahar
+1,51,Géneros,Pop culture,Literature,,Misterio,Poema
+0,52,Tipos de Pan,Everyday,Food,,Polvoron,Mantecada
+1,52,Juegos Infantiles,Pop culture,Sports,,Canicas,Ranita
+0,53,Animales Aquaticos,Everyday,Animals,,Castor,Morsa
+1,53,Verbos,Linguistic,,,Salto,Canto
+0,54,Cantantes Latinoamericanos,Pop culture,Music,,Martin,Selena
+1,54,___tro,Linguistic,Fill in the blank,,Cilan,Demues
+0,55,Puestos Catolicos,Everyday,Religion,,Arzobispo,Cardinal
+1,55,Animales Aquaticos,Everyday,Animals,,Caracol de Mar,Tortuga
+0,56,Partes de Arbol,Everyday,World/Nature,,Hoja,Tronco
+1,56,Puestos Catolicos,Everyday,Religion,,Arzobispo,Sacerdote
+0,57,Verbos,Linguistic,,,Canto,Grito
+1,57,Géneros,Pop culture,Literature,,Poema,Misterio
+0,58,Animales Aquaticos,Everyday,Animals,,Caracol de Mar,Tortuga
+1,58,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Quico
+0,59,Nombres,Everyday,,,Eugenia,Rosa
+1,59,Artistas,Pop culture,,,Izquierdo,Rivera
+0,60,Flores,Everyday,World/Nature,,Azahar,Nochebuena
+1,60,Tipos de Pan,Everyday,Food,,Bolillo,Polvoron
+0,61,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Laburo,Tajo
+1,61,Utiles Escolares,Everyday,,,Pluma,Sobre
+0,62,Juegos Infantiles,Pop culture,Sports,,Ranita,Escondite
+1,62,Comida Mexicana,Everyday,Food,,Flautas,Chapulin
+0,63,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Embuste,Trampa
+1,63,Cantantes Latinoamericanos,Pop culture,Music,,Santana,Selena
+0,64,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Plata,Lucas
+1,64,Apodos,Linguistic,,,Toño,Lucha
+0,65,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Embotellamiento,Taco
+1,65,Equipos de La Liga,Pop culture,Sports,,Sociedad,Barcelona
+0,66,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Embotellamiento,Atasco
+1,66,Partes de Zapatos,Everyday,Objects,,Suela,Tacon
+0,67,Utiles Escolares,Everyday,,,Borrador,Sobre
+1,67,Verduras,Everyday,Food,,Papa,Zanahoria
+0,68,Verbos,Linguistic,,,Canto,Grito
+1,68,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Fantasmas,Apariciones
+0,69,Parientes,Everyday,,,Tio,Hermana
+1,69,Partes de Zapatos,Everyday,Objects,,Lengua,Suela
+0,70,Animales Aquaticos,Everyday,Animals,,Castor,Morsa
+1,70,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Excelente,Sabroso
+0,71,Partes de Zapatos,Everyday,Objects,,Tacon,Agujeta
+1,71,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Rico,Excelente
+0,72,Flores,Everyday,World/Nature,,Iris,Nochebuena
+1,72,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Taco,Embotellamiento
+0,73,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Quico,Chilindrina
+1,73,___tro,Linguistic,Fill in the blank,,Cilan,Arbi
+0,74,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Laburo,Tajo
+1,74,Cantantes Latinoamericanos,Pop culture,Music,,Selena,Martin
+0,75,Vichos,Everyday,Animals,,Mosquito,Mariposa
+1,75,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Atasco,Taco
+0,76,Vichos,Everyday,Animals,,Langosta,Mariquita
+1,76,Parientes,Everyday,,,Sobrina,Tio
+0,77,Tipos de Pan,Everyday,Food,,Bolillo,Mantecada
+1,77,Utiles Escolares,Everyday,,,Lapiz,Pluma
+0,78,Apodos,Linguistic,,,Lucha,Chucho
+1,78,Partes de Arbol,Everyday,World/Nature,,Hoja,Raiz
+0,79,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Chido,Molón
+1,79,Juegos Infantiles,Pop culture,Sports,,Rayuela,Canicas
+0,80,Comida Mexicana,Everyday,Food,,Pambazo,Chapulin
+1,80,Utiles Escolares,Everyday,,,Pluma,Borrador
+0,81,___tar,Linguistic,Fill in the blank,,Agi,Encan
+1,81,Actores Españoles,Pop culture,TV & Movies,,Mollà,Bardem
+0,82,Animales Aquaticos,Everyday,Animals,,Ornitorrinco,Morsa
+1,82,Cantantes Latinoamericanos,Pop culture,Music,,Santana,Selena
+0,83,Comida Mexicana,Everyday,Food,,Flautas,Pambazo
+1,83,Utiles Escolares,Everyday,,,Borrador,Pluma
+0,84,Artistas,Pop culture,,,Izquierdo,Kahlo
+1,84,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Molón,Chido
+0,85,Partes de Zapatos,Everyday,Objects,,Suela,Tacon
+1,85,Artistas,Pop culture,,,Orozco,Izquierdo
+0,86,Deportes Culturales,Pop culture,Sports,,Bochas,Pato
+1,86,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Chido,Macizo
+0,87,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Ramón
+1,87,Poetas Latinoamericanos,Pop culture,Literature,,Mistral,Acevedo
+0,88,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Trafico,Atasco
+1,88,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Laburo,Empleo
+0,89,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Tajo,Laburo
+1,89,Apodos,Linguistic,,,Toño,Chava
+0,90,Deportes Culturales,Pop culture,Sports,,Charrería,Rodeo
+1,90,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Gamba,Lucas
+0,91,Barrios En Latinoamerica,Everyday,World/Nature,,La Mariposa,El Dorado
+1,91,Actores Españoles,Pop culture,TV & Movies,,Maura,Mollà
+0,92,Homófonos,Linguistic,Homophones,,Taza,Coser
+1,92,Verbos,Linguistic,,,Lloro,Salto
+0,93,Comida Mexicana,Everyday,Food,,Enchilada,Flautas
+1,93,Utiles Escolares,Everyday,,,Borrador,Sobre
+0,94,Celebraciones Mexicanas,Pop culture,,,Independencia,Magos
+1,94,Nombres,Everyday,,,Rosa,Eugenia
+0,95,Géneros,Pop culture,Literature,,Poema,Romance
+1,95,Comida Mexicana,Everyday,Food,,Enchilada,Pambazo
+0,96,Equipos de La Liga,Pop culture,Sports,,Madrid,Mallorca
+1,96,___tro,Linguistic,Fill in the blank,,Arbi,Demues
+0,97,Bailes,Pop culture,,,Samba,Mambo
+1,97,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Chamba,Laburo
+0,98,Animales,Everyday,Animals,,Gato,Perro
+1,98,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Embuste,Trampa
+0,99,Personajes de Don Quixote,Pop culture,Literature,,Sancho,Sansón
+1,99,Animales Aquaticos,Everyday,Animals,,Pulpo,Delfin
+0,100,Vichos,Everyday,Animals,,Langosta,Mariposa
+1,100,Utiles Escolares,Everyday,,,Sobre,Pluma
+0,101,Animales Aquaticos,Everyday,Animals,,Morsa,Ajolote
+1,101,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Espantos,Apariciones
+0,102,Cuerpos de Agua,Everyday,World/Nature,,Charco,Oceano
+1,102,Equipos de La Liga,Pop culture,Sports,,Sociedad,Barcelona
+0,103,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Lucas,Dinero
+1,103,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Macizo,Molón
+0,104,Nombres,Everyday,,,Eugenia,Rosa
+1,104,Barrios En Latinoamerica,Everyday,World/Nature,,La Boca,La Mariposa
+0,105,Futbolistas,Pop culture,Sports,,Maradona,Figueroa
+1,105,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chavo
+0,106,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Espantos,Fantasmas
+1,106,Apodos,Linguistic,,,Chucho,Lucha
+0,107,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Quico,Chavo
+1,107,Tipos de Pan,Everyday,Food,,Mantecada,Bolillo
+0,108,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bardo,Pedo
+1,108,Puestos Catolicos,Everyday,Religion,,Cardinal,Arzobispo
+0,109,Nombres,Everyday,,,Marta,Eugenia
+1,109,Animales Aquaticos,Everyday,Animals,,Tortuga,Caracol de Mar
+0,110,___tar,Linguistic,Fill in the blank,,Dormi,Agi
+1,110,Partes de Arbol,Everyday,World/Nature,,Raiz,Hoja
+0,111,Juegos Infantiles,Pop culture,Sports,,Canicas,Ranita
+1,111,Actores Españoles,Pop culture,TV & Movies,,Maura,Banderas
+0,112,Géneros,Pop culture,Literature,,Misterio,Romance
+1,112,Directores de Cine,Pop culture,TV & Movies,,Iñárritu,Llosa
+0,113,Verbos,Linguistic,,,Lloro,Salto
+1,113,Flores,Everyday,World/Nature,,Nochebuena,Iris
+0,114,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Fantasmas,Apariciones
+1,114,Comida Mexicana,Everyday,Food,,Enchilada,Chapulin
+0,115,Homófonos,Linguistic,Homophones,,Coser,Cocer
+1,115,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Lío
+0,116,Celebraciones Mexicanas,Pop culture,,,Magos,Independencia
+1,116,___tro,Linguistic,Fill in the blank,,Secues,Demues
+0,117,Homófonos,Linguistic,Homophones,,Tasa,Taza
+1,117,Partes de Zapatos,Everyday,Objects,,Agujeta,Lengua
+0,118,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Chamba,Laburo
+1,118,Partes de Arbol,Everyday,World/Nature,,Rama,Raiz
+0,119,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Trampa,Bulo
+1,119,___tar,Linguistic,Fill in the blank,,Encan,Agi
+0,120,___bol,Linguistic,Fill in the blank,,Ár,Béis
+1,120,Equipos de La Liga,Pop culture,Sports,,Sociedad,Barcelona
+0,121,Animales,Everyday,Animals,,Perro,Raton
+1,121,Barrios En Latinoamerica,Everyday,World/Nature,,El Dorado,La Mariposa
+0,122,Parientes,Everyday,,,Tio,Mama
+1,122,Verduras,Everyday,Food,,Zanahoria,Brocoli
+0,123,Cantantes Latinoamericanos,Pop culture,Music,,Iglesias,Selena
+1,123,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Lío,Bronca
+0,124,Animales,Everyday,Animals,,Gato,Raton
+1,124,Homófonos,Linguistic,Homophones,,Coser,Cocer
+0,125,Artistas,Pop culture,,,Izquierdo,Orozco
+1,125,Bandas Latinoamericanas,Pop culture,Music,,Enanitos,Lobos
+0,126,___bol,Linguistic,Fill in the blank,,Ár,Béis
+1,126,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Atasco,Trafico
+0,127,Directores de Cine,Pop culture,TV & Movies,,Iñárritu,Toro
+1,127,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Chamba,Empleo
+0,128,Flores,Everyday,World/Nature,,Nochebuena,Iris
+1,128,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Chavo,Quico
+0,129,Actores Españoles,Pop culture,TV & Movies,,Mollà,Maura
+1,129,Animales Aquaticos,Everyday,Animals,,Pulpo,Caracol de Mar
+0,130,___tar,Linguistic,Fill in the blank,,Dormi,Agi
+1,130,Apodos,Linguistic,,,Toño,Chava
+0,131,Cuerpos de Agua,Everyday,World/Nature,,Rio,Charco
+1,131,Deportes Culturales,Pop culture,Sports,,Pato,Rodeo
+0,132,Partes de Zapatos,Everyday,Objects,,Suela,Tacon
+1,132,Parientes,Everyday,,,Mama,Tio
+0,133,Animales Aquaticos,Everyday,Animals,,Delfin,Tortuga
+1,133,Partes del Cuerpo,Everyday,Bodily,,Brazo,Cabeza
+0,134,Nombres,Everyday,,,Eugenia,Margarita
+1,134,Barrios En Latinoamerica,Everyday,World/Nature,,La Mariposa,La Boca
+0,135,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Chavo,Ramón
+1,135,Partes de Zapatos,Everyday,Objects,,Agujeta,Lengua
+0,136,Partes del Cuerpo,Everyday,Bodily,,Nariz,Brazo
+1,136,Deportes Culturales,Pop culture,Sports,,Pato,Charrería
+0,137,Flores,Everyday,World/Nature,,Azahar,Iris
+1,137,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Tajo,Empleo
+0,138,Celebraciones Mexicanas,Pop culture,,,Muertos,Niño
+1,138,Cantantes Latinoamericanos,Pop culture,Music,,Selena,Santana
+0,139,Actores Españoles,Pop culture,TV & Movies,,Banderas,Bardem
+1,139,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Plata,Gamba
+0,140,Verduras,Everyday,Food,,Zanahoria,Papa
+1,140,Verbos,Linguistic,,,Salto,Grito
+0,141,Actores Españoles,Pop culture,TV & Movies,,Mollà,Maura
+1,141,___tro,Linguistic,Fill in the blank,,Cilan,Demues
+0,142,___tro,Linguistic,Fill in the blank,,Arbi,Cilan
+1,142,___tel,Linguistic,Fill in the blank,,Cóc,Pas
+0,143,Actores Españoles,Pop culture,TV & Movies,,Maura,Bardem
+1,143,Deportes Culturales,Pop culture,Sports,,Rodeo,Bochas
+0,144,___tro,Linguistic,Fill in the blank,,Arbi,Demues
+1,144,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Molón,Padre
+0,145,Deportes Culturales,Pop culture,Sports,,Bochas,Rodeo
+1,145,Personajes de Don Quixote,Pop culture,Literature,,Sancho,Sansón
+0,146,Poetas Latinoamericanos,Pop culture,Literature,,Neruda,Acevedo
+1,146,Barrios En Latinoamerica,Everyday,World/Nature,,La Mariposa,El Dorado
+0,147,___tro,Linguistic,Fill in the blank,,Secues,Cilan
+1,147,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chilindrina
+0,148,Animales Aquaticos,Everyday,Animals,,Pulpo,Tortuga
+1,148,Celebraciones Mexicanas,Pop culture,,,Magos,Muertos
+0,149,Bailes,Pop culture,,,Rumba,Jive
+1,149,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Ánimas,Apariciones
+0,150,Poetas Latinoamericanos,Pop culture,Literature,,Neruda,Martí
+1,150,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Embuste,Bulo
+0,151,Partes de Arbol,Everyday,World/Nature,,Hoja,Rama
+1,151,Flores,Everyday,World/Nature,,Lirio,Azahar
+0,152,Cantantes Latinoamericanos,Pop culture,Music,,Iglesias,Selena
+1,152,Utiles Escolares,Everyday,,,Borrador,Lapiz
+0,153,Poetas Latinoamericanos,Pop culture,Literature,,Martí,Acevedo
+1,153,Comida Mexicana,Everyday,Food,,Enchilada,Flautas
+0,154,Flores,Everyday,World/Nature,,Iris,Lirio
+1,154,Animales Aquaticos,Everyday,Animals,,Morsa,Ornitorrinco
+0,155,Juegos Infantiles,Pop culture,Sports,,Rayuela,Canicas
+1,155,Partes de Zapatos,Everyday,Objects,,Suela,Lengua
+0,156,Apodos,Linguistic,,,Chucho,Lucha
+1,156,Utiles Escolares,Everyday,,,Sobre,Pluma
+0,157,___bol,Linguistic,Fill in the blank,,Ár,Básquet
+1,157,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Dinero,Plata
+0,158,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Pedo,Lío
+1,158,Homófonos,Linguistic,Homophones,,Tasa,Cocer
+0,159,Actores Españoles,Pop culture,TV & Movies,,Banderas,Mollà
+1,159,Personajes de Don Quixote,Pop culture,Literature,,Sansón,Sancho
+0,160,Partes de Arbol,Everyday,World/Nature,,Rama,Raiz
+1,160,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chavo
+0,161,Animales,Everyday,Animals,,Gato,Raton
+1,161,Animales Aquaticos,Everyday,Animals,,Delfin,Pulpo
+0,162,Celebraciones Mexicanas,Pop culture,,,Niño,Magos
+1,162,Puestos Catolicos,Everyday,Religion,,Cardinal,Monja
+0,163,Partes del Cuerpo,Everyday,Bodily,,Brazo,Boca
+1,163,Verbos,Linguistic,,,Lloro,Salto
+0,164,Puestos Catolicos,Everyday,Religion,,Cardinal,Monja
+1,164,Directores de Cine,Pop culture,TV & Movies,,Toro,Iñárritu
+0,165,Puestos Catolicos,Everyday,Religion,,Sacerdote,Monja
+1,165,Partes de Arbol,Everyday,World/Nature,,Tronco,Raiz
+0,166,Verbos,Linguistic,,,Grito,Canto
+1,166,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Embotellamiento,Taco
+0,167,___tel,Linguistic,Fill in the blank,,Cóc,Pas
+1,167,Partes de Zapatos,Everyday,Objects,,Suela,Lengua
+0,168,Comida Mexicana,Everyday,Food,,Flautas,Pambazo
+1,168,Géneros,Pop culture,Literature,,Misterio,Romance
+0,169,___tar,Linguistic,Fill in the blank,,Agi,Encan
+1,169,Actores Españoles,Pop culture,TV & Movies,,Maura,Banderas
+0,170,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Excelente,Sabroso
+1,170,Puestos Catolicos,Everyday,Religion,,Monja,Arzobispo
+0,171,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Empleo,Laburo
+1,171,Cantantes Latinoamericanos,Pop culture,Music,,Santana,Martin
+0,172,Bailes,Pop culture,,,Jive,Rumba
+1,172,Metales,Everyday,Objects,,Alpaca,Rodio
+0,173,___tro,Linguistic,Fill in the blank,,Secues,Demues
+1,173,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Fantasmas,Apariciones
+0,174,___bol,Linguistic,Fill in the blank,,Ár,Béis
+1,174,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Quico
+0,175,Actores Españoles,Pop culture,TV & Movies,,Bardem,Banderas
+1,175,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Riquisimo,Sabroso
+0,176,Cuerpos de Agua,Everyday,World/Nature,,Lago,Charco
+1,176,Animales Aquaticos,Everyday,Animals,,Ornitorrinco,Castor
+0,177,Nombres,Everyday,,,Eugenia,Marta
+1,177,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Trafico,Taco
+0,178,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Chido,Molón
+1,178,Cantantes Latinoamericanos,Pop culture,Music,,Santana,Iglesias
+0,179,Celebraciones Mexicanas,Pop culture,,,Muertos,Magos
+1,179,___tar,Linguistic,Fill in the blank,,Encan,Dormi
+0,180,Verbos,Linguistic,,,Canto,Lloro
+1,180,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+0,181,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Fantasmas,Apariciones
+1,181,Comida Mexicana,Everyday,Food,,Pambazo,Enchilada
+0,182,Juegos Infantiles,Pop culture,Sports,,Escondite,Ranita
+1,182,Animales,Everyday,Animals,,Perro,Caballo
+0,183,___tel,Linguistic,Fill in the blank,,Ho,Man
+1,183,Verbos,Linguistic,,,Salto,Lloro
+0,184,Flores,Everyday,World/Nature,,Azahar,Nochebuena
+1,184,Animales,Everyday,Animals,,Gato,Caballo
+0,185,Utiles Escolares,Everyday,,,Sobre,Pluma
+1,185,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Pedo
+0,186,Celebraciones Mexicanas,Pop culture,,,Muertos,Magos
+1,186,Partes de Zapatos,Everyday,Objects,,Agujeta,Lengua
+0,187,Flores,Everyday,World/Nature,,Azahar,Lirio
+1,187,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Embotellamiento,Taco
+0,188,Cuerpos de Agua,Everyday,World/Nature,,Charco,Rio
+1,188,Barrios En Latinoamerica,Everyday,World/Nature,,La Mariposa,Coyoacan
+0,189,Bandas Latinoamericanas,Pop culture,Music,,Tacuba,Maná
+1,189,Metales,Everyday,Objects,,Rodio,Oro
+0,190,Futbolistas,Pop culture,Sports,,Figueroa,Maradona
+1,190,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chilindrina
+0,191,Directores de Cine,Pop culture,TV & Movies,,Llosa,Toro
+1,191,Géneros,Pop culture,Literature,,Historia,Misterio
+0,192,Vichos,Everyday,Animals,,Mosquito,Langosta
+1,192,Comida Mexicana,Everyday,Food,,Enchilada,Pambazo
+0,193,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Macizo,Padre
+1,193,Actores Españoles,Pop culture,TV & Movies,,Banderas,Maura
+0,194,Utiles Escolares,Everyday,,,Pluma,Lapiz
+1,194,Animales Aquaticos,Everyday,Animals,,Pulpo,Delfin
+0,195,Actores Españoles,Pop culture,TV & Movies,,Bardem,Maura
+1,195,Flores,Everyday,World/Nature,,Azahar,Lirio
+0,196,Animales Aquaticos,Everyday,Animals,,Ornitorrinco,Morsa
+1,196,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Lío
+0,197,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Quico,Chavo
+1,197,Parientes,Everyday,,,Hermana,Sobrina
+0,198,Homófonos,Linguistic,Homophones,,Coser,Taza
+1,198,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Rico,Sabroso
+0,199,___tel,Linguistic,Fill in the blank,,Man,Pas
+1,199,Bandas Latinoamericanas,Pop culture,Music,,Tacuba,Lobos
+0,200,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Pedo,Lío
+1,200,Celebraciones Mexicanas,Pop culture,,,Niño,Muertos
+0,201,Comida Mexicana,Everyday,Food,,Enchilada,Pambazo
+1,201,Poetas Latinoamericanos,Pop culture,Literature,,Martí,Mistral
+0,202,Partes de Zapatos,Everyday,Objects,,Agujeta,Tacon
+1,202,Animales Aquaticos,Everyday,Animals,,Ornitorrinco,Ajolote
+0,203,Verbos,Linguistic,,,Lloro,Salto
+1,203,Animales Aquaticos,Everyday,Animals,,Tortuga,Caracol de Mar
+0,204,Verbos,Linguistic,,,Canto,Grito
+1,204,___bol,Linguistic,Fill in the blank,,Ár,Béis
+0,205,Animales,Everyday,Animals,,Raton,Caballo
+1,205,Bailes,Pop culture,,,Samba,Rumba
+0,206,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chavo
+1,206,Personajes de Don Quixote,Pop culture,Literature,,Alonso,Dulcinea
+0,207,Tipos de Pan,Everyday,Food,,Bolillo,Polvoron
+1,207,___tro,Linguistic,Fill in the blank,,Cilan,Demues
+0,208,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Embotellamiento,Atasco
+1,208,Directores de Cine,Pop culture,TV & Movies,,Cuarón,Iñárritu
+0,209,Cantantes Latinoamericanos,Pop culture,Music,,Martin,Iglesias
+1,209,Partes de Arbol,Everyday,World/Nature,,Rama,Tronco
+0,210,Partes de Arbol,Everyday,World/Nature,,Rama,Tronco
+1,210,Comida Mexicana,Everyday,Food,,Pambazo,Enchilada
+0,211,Partes de Arbol,Everyday,World/Nature,,Rama,Hoja
+1,211,Futbolistas,Pop culture,Sports,,Messi,Maradona
+0,212,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Chavo
+1,212,___tel,Linguistic,Fill in the blank,,Man,Pas
+0,213,Personajes de Don Quixote,Pop culture,Literature,,Alonso,Sancho
+1,213,___bol,Linguistic,Fill in the blank,,Ár,Fút
+0,214,Vichos,Everyday,Animals,,Mariposa,Mosquito
+1,214,Géneros,Pop culture,Literature,,Historia,Misterio
+0,215,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Molón,Padre
+1,215,Verbos,Linguistic,,,Salto,Canto
+0,216,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Gamba,Lucas
+1,216,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Quico
+0,217,Deportes Culturales,Pop culture,Sports,,Bochas,Charrería
+1,217,Juegos Infantiles,Pop culture,Sports,,Ranita,Canicas
+0,218,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Espantos,Fantasmas
+1,218,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Bardo
+0,219,Animales Aquaticos,Everyday,Animals,,Castor,Ajolote
+1,219,Poetas Latinoamericanos,Pop culture,Literature,,Acevedo,Mistral
+0,220,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Pedo,Bardo
+1,220,"Palabras Para ""Genial""",Linguistic,Fill in the blank,,Chido,Molón
+0,221,Tipos de Pan,Everyday,Food,,Mantecada,Bolillo
+1,221,Personajes de Don Quixote,Pop culture,Literature,,Alonso,Sansón
+0,222,Futbolistas,Pop culture,Sports,,Figueroa,Maradona
+1,222,Juegos Infantiles,Pop culture,Sports,,Rayuela,Ranita
+0,223,___tar,Linguistic,Fill in the blank,,Encan,Agi
+1,223,Animales Aquaticos,Everyday,Animals,,Delfin,Caracol de Mar
+0,224,Futbolistas,Pop culture,Sports,,Suárez,Figueroa
+1,224,Cuerpos de Agua,Everyday,World/Nature,,Charco,Rio
+0,225,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Lío
+1,225,___tar,Linguistic,Fill in the blank,,Orien,Agi
+0,226,Juegos Infantiles,Pop culture,Sports,,Canicas,Rayuela
+1,226,Utiles Escolares,Everyday,,,Lapiz,Pluma
+0,227,Animales Aquaticos,Everyday,Animals,,Tortuga,Delfin
+1,227,Futbolistas,Pop culture,Sports,,Figueroa,Suárez
+0,228,Equipos de La Liga,Pop culture,Sports,,Barcelona,Mallorca
+1,228,Deportes Culturales,Pop culture,Sports,,Pato,Bochas
+0,229,Cantantes Latinoamericanos,Pop culture,Music,,Iglesias,Martin
+1,229,Personajes de Don Quixote,Pop culture,Literature,,Sansón,Alonso
+0,230,Barrios En Latinoamerica,Everyday,World/Nature,,La Boca,El Dorado
+1,230,Tipos de Pan,Everyday,Food,,Bolillo,Polvoron
+0,231,Barrios En Latinoamerica,Everyday,World/Nature,,La Boca,Coyoacan
+1,231,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Excelente,Riquisimo
+0,232,Cuerpos de Agua,Everyday,World/Nature,,Rio,Oceano
+1,232,Homófonos,Linguistic,Homophones,,Coser,Taza
+0,233,Utiles Escolares,Everyday,,,Pluma,Lapiz
+1,233,Cuerpos de Agua,Everyday,World/Nature,,Oceano,Charco
+0,234,Juegos Infantiles,Pop culture,Sports,,Ranita,Canicas
+1,234,___tar,Linguistic,Fill in the blank,,Orien,Dormi
+0,235,Metales,Everyday,Objects,,Oro,Alpaca
+1,235,Homófonos,Linguistic,Homophones,,Taza,Tasa
+0,236,___bol,Linguistic,Fill in the blank,,Básquet,Béis
+1,236,Actores Españoles,Pop culture,TV & Movies,,Mollà,Maura
+0,237,Animales,Everyday,Animals,,Caballo,Raton
+1,237,Bailes,Pop culture,,,Mambo,Jive
+0,238,Nombres,Everyday,,,Marta,Rosa
+1,238,Verbos,Linguistic,,,Canto,Lloro
+0,239,Comida Mexicana,Everyday,Food,,Enchilada,Chapulin
+1,239,"Palabras Para ""Problema""",Linguistic,Slang/Synonyms,,Bronca,Pedo
+0,240,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Espantos,Fantasmas
+1,240,Verbos,Linguistic,,,Grito,Salto
+0,241,Animales Aquaticos,Everyday,Animals,,Castor,Morsa
+1,241,Apodos,Linguistic,,,Chava,Lucha
+0,242,Equipos de La Liga,Pop culture,Sports,,Barcelona,Madrid
+1,242,Utiles Escolares,Everyday,,,Lapiz,Sobre
+0,243,Cuerpos de Agua,Everyday,World/Nature,,Oceano,Rio
+1,243,Personajes de Don Quixote,Pop culture,Literature,,Sansón,Sancho
+0,244,Verduras,Everyday,Food,,Apio,Brocoli
+1,244,Nombres,Everyday,,,Rosa,Marta
+0,245,Verduras,Everyday,Food,,Zanahoria,Brocoli
+1,245,Personajes de Don Quixote,Pop culture,Literature,,Sancho,Alonso
+0,246,Cuerpos de Agua,Everyday,World/Nature,,Lago,Rio
+1,246,Apodos,Linguistic,,,Toño,Chucho
+0,247,Directores de Cine,Pop culture,TV & Movies,,Iñárritu,Cuarón
+1,247,Futbolistas,Pop culture,Sports,,Suárez,Messi
+0,248,Verduras,Everyday,Food,,Papa,Apio
+1,248,Animales Aquaticos,Everyday,Animals,,Pulpo,Caracol de Mar
+0,249,Utiles Escolares,Everyday,,,Sobre,Lapiz
+1,249,Celebraciones Mexicanas,Pop culture,,,Muertos,Niño
+0,250,Cuerpos de Agua,Everyday,World/Nature,,Lago,Oceano
+1,250,Poetas Latinoamericanos,Pop culture,Literature,,Mistral,Martí
+0,251,Flores,Everyday,World/Nature,,Iris,Azahar
+1,251,Poetas Latinoamericanos,Pop culture,Literature,,Mistral,Martí
+0,252,Verbos,Linguistic,,,Lloro,Grito
+1,252,Poetas Latinoamericanos,Pop culture,Literature,,Mistral,Neruda
+0,253,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Empleo,Chamba
+1,253,Actores Españoles,Pop culture,TV & Movies,,Mollà,Banderas
+0,254,Bandas Latinoamericanas,Pop culture,Music,,Lobos,Enanitos
+1,254,Verbos,Linguistic,,,Salto,Canto
+0,255,Apodos,Linguistic,,,Chucho,Toño
+1,255,Verduras,Everyday,Food,,Papa,Zanahoria
+0,256,Partes de Zapatos,Everyday,Objects,,Lengua,Tacon
+1,256,Tipos de Pan,Everyday,Food,,Polvoron,Mantecada
+0,257,Poetas Latinoamericanos,Pop culture,Literature,,Acevedo,Mistral
+1,257,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Embotellamiento,Trafico
+0,258,Tipos de Pan,Everyday,Food,,Bolillo,Polvoron
+1,258,Animales,Everyday,Animals,,Gato,Raton
+0,259,Metales,Everyday,Objects,,Rodio,Oro
+1,259,Vichos,Everyday,Animals,,Mariposa,Mosquito
+0,260,Futbolistas,Pop culture,Sports,,Messi,Figueroa
+1,260,Actores Españoles,Pop culture,TV & Movies,,Banderas,Maura
+0,261,Barrios En Latinoamerica,Everyday,World/Nature,,El Dorado,La Boca
+1,261,Personajes de Don Quixote,Pop culture,Literature,,Alonso,Sancho
+0,262,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Laburo,Empleo
+1,262,Partes de Zapatos,Everyday,Objects,,Lengua,Suela
+0,263,___tel,Linguistic,Fill in the blank,,Man,Cóc
+1,263,___bol,Linguistic,Fill in the blank,,Ár,Béis
+0,264,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Taco,Trafico
+1,264,Cuerpos de Agua,Everyday,World/Nature,,Oceano,Charco
+0,265,Verbos,Linguistic,,,Grito,Salto
+1,265,Comida Mexicana,Everyday,Food,,Enchilada,Chapulin
+0,266,Partes de Zapatos,Everyday,Objects,,Agujeta,Suela
+1,266,Flores,Everyday,World/Nature,,Iris,Lirio
+0,267,___bol,Linguistic,Fill in the blank,,Béis,Ár
+1,267,Comida Mexicana,Everyday,Food,,Flautas,Enchilada
+0,268,"Palabras Para ""Mentira""",Linguistic,Slang/Synonyms,,Trampa,Bulo
+1,268,Homófonos,Linguistic,Homophones,,Coser,Tasa
+0,269,Actores Españoles,Pop culture,TV & Movies,,Banderas,Maura
+1,269,Homófonos,Linguistic,Homophones,,Tasa,Taza
+0,270,Homófonos,Linguistic,Homophones,,Cocer,Coser
+1,270,___tel,Linguistic,Fill in the blank,,Man,Cóc
+0,271,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Gamba,Lucas
+1,271,Directores de Cine,Pop culture,TV & Movies,,Toro,Llosa
+0,272,___tar,Linguistic,Fill in the blank,,Orien,Agi
+1,272,Flores,Everyday,World/Nature,,Lirio,Iris
+0,273,Homófonos,Linguistic,Homophones,,Cocer,Coser
+1,273,___tar,Linguistic,Fill in the blank,,Orien,Dormi
+0,274,Verduras,Everyday,Food,,Papa,Brocoli
+1,274,Parientes,Everyday,,,Sobrina,Tio
+0,275,Actores Españoles,Pop culture,TV & Movies,,Maura,Bardem
+1,275,Verbos,Linguistic,,,Canto,Lloro
+0,276,Verduras,Everyday,Food,,Brocoli,Zanahoria
+1,276,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Chavo,Chilindrina
+0,277,Apodos,Linguistic,,,Chucho,Lucha
+1,277,Futbolistas,Pop culture,Sports,,Messi,Suárez
+0,278,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Ánimas,Apariciones
+1,278,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Quico
+0,279,Equipos de La Liga,Pop culture,Sports,,Sociedad,Madrid
+1,279,Puestos Catolicos,Everyday,Religion,,Cardinal,Sacerdote
+0,280,Tipos de Pan,Everyday,Food,,Mantecada,Concha
+1,280,Puestos Catolicos,Everyday,Religion,,Arzobispo,Monja
+0,281,Animales,Everyday,Animals,,Gato,Caballo
+1,281,Juegos Infantiles,Pop culture,Sports,,Escondite,Rayuela
+0,282,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Atasco,Embotellamiento
+1,282,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+0,283,___tro,Linguistic,Fill in the blank,,Secues,Demues
+1,283,Poetas Latinoamericanos,Pop culture,Literature,,Martí,Neruda
+0,284,Puestos Catolicos,Everyday,Religion,,Cardinal,Sacerdote
+1,284,Nombres,Everyday,,,Eugenia,Rosa
+0,285,Comida Mexicana,Everyday,Food,,Chapulin,Flautas
+1,285,Cantantes Latinoamericanos,Pop culture,Music,,Selena,Martin
+0,286,Animales Aquaticos,Everyday,Animals,,Pulpo,Delfin
+1,286,Personajes de Don Quixote,Pop culture,Literature,,Alonso,Dulcinea
+0,287,"Palabras  para ""Espíritu""",Linguistic,Slang/Synonyms,,Espantos,Apariciones
+1,287,Flores,Everyday,World/Nature,,Lirio,Nochebuena
+0,288,Poetas Latinoamericanos,Pop culture,Literature,,Acevedo,Mistral
+1,288,Cuerpos de Agua,Everyday,World/Nature,,Oceano,Charco
+0,289,___bol,Linguistic,Fill in the blank,,Básquet,Béis
+1,289,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Plata,Gamba
+0,290,Metales,Everyday,Objects,,Oro,Rodio
+1,290,Partes de Arbol,Everyday,World/Nature,,Raiz,Hoja
+0,291,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Lucas,Plata
+1,291,"Palabras para ""Delicioso""",Linguistic,Slang/Synonyms,,Riquisimo,Excelente
+0,292,Personajes de Don Quixote,Pop culture,Literature,,Sancho,Dulcinea
+1,292,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Lucas,Gamba
+0,293,Personajes de El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Quico
+1,293,Artistas,Pop culture,,,Orozco,Kahlo
+0,294,Palabras Para Trafico,Linguistic,Slang/Synonyms,,Embotellamiento,Atasco
+1,294,Comida Mexicana,Everyday,Food,,Enchilada,Flautas
+0,295,Homófonos,Linguistic,Homophones,,Coser,Cocer
+1,295,Comida Mexicana,Everyday,Food,,Flautas,Chapulin
+0,296,Nombres,Everyday,,,Marta,Margarita
+1,296,___tar,Linguistic,Fill in the blank,,Encan,Dormi
+0,297,Directores de Cine,Pop culture,TV & Movies,,Cuarón,Llosa
+1,297,"Palabras Para ""Trabajo""",Linguistic,Slang/Synonyms,,Tajo,Chamba
+0,298,Palabras Para Dinero,Linguistic,Slang/Synonyms,,Dinero,Gamba
+1,298,___tel,Linguistic,Fill in the blank,,Man,Cóc
+0,299,Metales,Everyday,Objects,,Alpaca,Platino
+1,299,Homófonos,Linguistic,Homophones,,Tasa,Cocer

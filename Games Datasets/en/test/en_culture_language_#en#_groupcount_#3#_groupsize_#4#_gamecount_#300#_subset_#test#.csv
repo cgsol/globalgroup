@@ -1,0 +1,901 @@
+,Game #,True Topic,Tag 1,Tag 2,Tag 3,Word 1,Word 2,Word 3,Word 4
+0,0,Professions,Everyday,,,Scientist,Teacher,Doctor,Engineer
+1,0,US National Parks,Everyday,World/Nature,,Yellowstone,Yosemite,Zion,Glacier
+2,0,Senses,Everyday,Bodily,,Taste,Hearing,Sight,Smell
+0,1,Places to Swim,Everyday,,,Ocean,Jacuzzi,Pool,Lake
+1,1,Mountain Ranges,Everyday,World/Nature,,Rocky,Adirondack,Appalachian,Sierra Nevada
+2,1,Kitchen Utensils,Everyday,Objects,,Straw,Spoon,Fork,Knife
+0,2,Boy Band Identifiers,Pop culture,Music,,Maroon,Direction,NSync,Backstreet
+1,2,Animals That Dig,Everyday,Animals,,Groundhog,Mole,Ant,Dog
+2,2,Cartoon Cats,Pop culture,TV & Movies,,Garfield,Cheshire,Tigger,Tom
+0,3,Homophones,Linguistic,Homophones,,Sow,Sew,Dye,Die
+1,3,Children's Games,Pop culture,,,Tag,Gravel,Jacks,Hopscotch
+2,3,Professions,Everyday,,,Scientist,Doctor,Teacher,Engineer
+0,4,Historical Documents,Everyday,,,Declaration,Bill,Articles,Constitution
+1,4,Parts of a Computer,Everyday,Objects,,Motherboard,Case,Hard Drive,Fan
+2,4,Things That Cause Pain,Everyday,,,Electricity,Heat,Cold,Cut
+0,5,American Movie Directors,Pop culture,TV & Movies,,Jonze,Spielberg,Scorsese,Lucas
+1,5,American Olympians,Pop culture,Sports,,James,Phelps,Ledecky,Biles
+2,5,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Rubbish,Bunk,Garbage,Junk
+0,6,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Squat,Zilch,Zip,Zero
+1,6,Animals That Dig,Everyday,Animals,,Groundhog,Ant,Mole,Dog
+2,6,US National Parks,Everyday,World/Nature,,Yellowstone,Yosemite,Glacier,Zion
+0,7,Kitchen Utensils,Everyday,Objects,,Fork,Spoon,Knife,Straw
+1,7,School Subjects,Everyday,,,Math,Science,History,English
+2,7,Desserts,Everyday,Food,,Pudding,Crumble,Cake,Ice Cream
+0,8,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Blunder,Error,Oopsie,Misstep
+1,8,"Meanings for ""Battery""",Linguistic,,,Offense,Power,Set,Emplacement
+2,8,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Phalanges,Sausages,Digits
+0,9,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zilch,Zero,Squat,Zip
+1,9,Comic Strip Characters,Pop culture,Literature,,Nancy,Charlie,Calvin,Odie
+2,9,Ways to Communicate,Everyday,,,Text,DM,Talking,Email
+0,10,Meals,Everyday,Food,,Dinner,Linner,Breakfast,Brunch
+1,10,American Olympians,Pop culture,Sports,,Phelps,Ledecky,James,Biles
+2,10,Homophones,Linguistic,Homophones,,Dye,Sew,Sow,Die
+0,11,Homophones,Linguistic,Homophones,,Die,Sow,Sew,Dye
+1,11,"Meanings for ""Battery""",Linguistic,,,Set,Offense,Emplacement,Power
+2,11,Movie Heartthrobs,Pop culture,TV & Movies,,Clooney,Gosling,Cavill,DiCaprio
+0,12,TV Comedies,Pop culture,TV & Movies,,Friends,Seinfeld,Frasier,Cheers
+1,12,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Digits,Sausages,Phalanges
+2,12,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Duke,Pigskin,Rock,Ball
+0,13,Cartoon Cats,Pop culture,TV & Movies,,Garfield,Tigger,Cheshire,Tom
+1,13,Meals,Everyday,Food,,Brunch,Linner,Dinner,Breakfast
+2,13,Sports,Pop culture,Sports,,Soccer,Football,Track,Polo
+0,14,Movie Heartthrobs,Pop culture,TV & Movies,,Clooney,DiCaprio,Cavill,Gosling
+1,14,Disney Princesses,Pop culture,TV & Movies,,Jasmine,Pocahontas,Rapunzel,Tiana
+2,14,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Junk,Garbage,Bunk,Rubbish
+0,15,Movie Heartthrobs,Pop culture,TV & Movies,,Clooney,Cavill,DiCaprio,Gosling
+1,15,American Authors,Pop culture,Literature,,King,Poe,Walker,Lee
+2,15,Sports,Pop culture,Sports,,Track,Soccer,Football,Polo
+0,16,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Rock,Pigskin,Duke,Ball
+1,16,Children's Games,Pop culture,,,Gravel,Tag,Jacks,Hopscotch
+2,16,Fairy Tale Figures,Pop culture,Literature,,Bear,Wolf,Hansel,Witch
+0,17,Forms of Religious Worship,Everyday,Religion,,Prayer,Ritual,Meditation,Song
+1,17,Children's Games,Pop culture,,,Tag,Jacks,Gravel,Hopscotch
+2,17,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Fingers,Sausages,Digits
+0,18,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Appetizing,Delicious,Yummy
+1,18,___uck,Linguistic,Fill in the blank,,Pl,Str,Ch,B
+2,18,Tools for Drawing,Everyday,Objects,,Pastel,Marker,Pencil,Pen
+0,19,___uck,Linguistic,Fill in the blank,,B,Pl,Ch,Str
+1,19,Dad Rock Bands,Pop culture,Music,,Marillion,Journey,Who,Queen
+2,19,Cartoon Cats,Pop culture,TV & Movies,,Cheshire,Tigger,Tom,Garfield
+0,20,American Movie Directors,Pop culture,TV & Movies,,Scorsese,Jonze,Spielberg,Lucas
+1,20,___uck,Linguistic,Fill in the blank,,Ch,B,Str,Pl
+2,20,Senses,Everyday,Bodily,,Taste,Hearing,Smell,Sight
+0,21,Cartoon Cats,Pop culture,TV & Movies,,Cheshire,Tom,Tigger,Garfield
+1,21,Types of Phones,Everyday,Objects,,Smart,Flip,Home,Mobile
+2,21,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Yearn,Crave,Desire
+0,22,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Digits,Sausages,Phalanges
+1,22,Fairy Tale Figures,Pop culture,Literature,,Hansel,Bear,Witch,Wolf
+2,22,Types of Phones,Everyday,Objects,,Home,Mobile,Smart,Flip
+0,23,TV Comedies,Pop culture,TV & Movies,,Cheers,Seinfeld,Friends,Frasier
+1,23,US National Parks,Everyday,World/Nature,,Yosemite,Zion,Glacier,Yellowstone
+2,23,Animals That Dig,Everyday,Animals,,Dog,Groundhog,Mole,Ant
+0,24,Homophones,Linguistic,Homophones,,Dye,Die,Sow,Sew
+1,24,School Subjects,Everyday,,,History,English,Science,Math
+2,24,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Pigskin,Rock,Ball,Duke
+0,25,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Appetizing,Delicious,Yummy
+1,25,Children's Games,Pop culture,,,Gravel,Jacks,Tag,Hopscotch
+2,25,"Meanings for ""Battery""",Linguistic,,,Offense,Set,Power,Emplacement
+0,26,Dad Rock Bands,Pop culture,Music,,Journey,Queen,Marillion,Who
+1,26,American Authors,Pop culture,Literature,,Poe,King,Lee,Walker
+2,26,Meals,Everyday,Food,,Dinner,Breakfast,Linner,Brunch
+0,27,School Subjects,Everyday,,,Science,History,Math,English
+1,27,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Bunk,Junk,Garbage,Rubbish
+2,27,Professions,Everyday,,,Scientist,Teacher,Doctor,Engineer
+0,28,___keeper,Linguistic,Fill in the blank,,Bee,Crypt,Book,Inn
+1,28,Hot___,Linguistic,Fill in the blank,,Cake,Dog,Spot,El
+2,28,Kitchen Utensils,Everyday,Objects,,Spoon,Knife,Fork,Straw
+0,29,Meals,Everyday,Food,,Linner,Breakfast,Dinner,Brunch
+1,29,___keeper,Linguistic,Fill in the blank,,Crypt,Bee,Book,Inn
+2,29,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Appetizing,Yummy,Delicious
+0,30,Homophones,Linguistic,Homophones,,Die,Sew,Sow,Dye
+1,30,School Subjects,Everyday,,,Math,English,History,Science
+2,30,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Error,Misstep,Oopsie,Blunder
+0,31,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Squat,Zip,Zilch
+1,31,American Movie Directors,Pop culture,TV & Movies,,Lucas,Jonze,Scorsese,Spielberg
+2,31,Meals,Everyday,Food,,Linner,Brunch,Dinner,Breakfast
+0,32,Types of Phones,Everyday,Objects,,Mobile,Home,Flip,Smart
+1,32,___uck,Linguistic,Fill in the blank,,Ch,Str,B,Pl
+2,32,American Authors,Pop culture,Literature,,Walker,Poe,King,Lee
+0,33,Desserts,Everyday,Food,,Crumble,Cake,Ice Cream,Pudding
+1,33,"Meanings for ""Battery""",Linguistic,,,Offense,Emplacement,Set,Power
+2,33,Senses,Everyday,Bodily,,Sight,Taste,Hearing,Smell
+0,34,Parts of a Computer,Everyday,Objects,,Motherboard,Case,Fan,Hard Drive
+1,34,Meals,Everyday,Food,,Dinner,Linner,Brunch,Breakfast
+2,34,Forms of Religious Worship,Everyday,Religion,,Prayer,Song,Ritual,Meditation
+0,35,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Rock,Ball,Pigskin,Duke
+1,35,___keeper,Linguistic,Fill in the blank,,Inn,Bee,Crypt,Book
+2,35,Historical Documents,Everyday,,,Articles,Bill,Declaration,Constitution
+0,36,___uck,Linguistic,Fill in the blank,,Pl,B,Ch,Str
+1,36,Senses,Everyday,Bodily,,Hearing,Smell,Sight,Taste
+2,36,Tools for Drawing,Everyday,Objects,,Pen,Pencil,Pastel,Marker
+0,37,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delicious,Appetizing,Yummy,Delectable
+1,37,Boy Band Identifiers,Pop culture,Music,,Backstreet,Direction,NSync,Maroon
+2,37,Disney Princesses,Pop culture,TV & Movies,,Tiana,Pocahontas,Jasmine,Rapunzel
+0,38,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Squat,Zip,Zilch
+1,38,Parts of a Computer,Everyday,Objects,,Fan,Case,Hard Drive,Motherboard
+2,38,Hot___,Linguistic,Fill in the blank,,Dog,El,Cake,Spot
+0,39,Disney Princesses,Pop culture,TV & Movies,,Pocahontas,Jasmine,Tiana,Rapunzel
+1,39,Hot___,Linguistic,Fill in the blank,,Spot,Dog,El,Cake
+2,39,Homophones,Linguistic,Homophones,,Dye,Sew,Die,Sow
+0,40,American Authors,Pop culture,Literature,,Lee,Poe,Walker,King
+1,40,Mountain Ranges,Everyday,World/Nature,,Adirondack,Appalachian,Rocky,Sierra Nevada
+2,40,Boy Band Identifiers,Pop culture,Music,,Backstreet,Maroon,NSync,Direction
+0,41,Meals,Everyday,Food,,Linner,Dinner,Breakfast,Brunch
+1,41,"Homophones for ""Peak""",Linguistic,Homophones,,Peek,Peke,Pique,Peak
+2,41,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delicious,Yummy,Delectable,Appetizing
+0,42,Forms of Religious Worship,Everyday,Religion,,Meditation,Ritual,Prayer,Song
+1,42,American Authors,Pop culture,Literature,,Lee,King,Poe,Walker
+2,42,"Homophones for ""Peak""",Linguistic,Homophones,,Peak,Peke,Peek,Pique
+0,43,US National Parks,Everyday,World/Nature,,Yellowstone,Glacier,Zion,Yosemite
+1,43,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Digits,Phalanges,Sausages,Fingers
+2,43,Types of Phones,Everyday,Objects,,Mobile,Flip,Smart,Home
+0,44,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Digits,Phalanges,Sausages,Fingers
+1,44,Sports,Pop culture,Sports,,Soccer,Polo,Football,Track
+2,44,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Rubbish,Bunk,Junk,Garbage
+0,45,School Subjects,Everyday,,,English,History,Math,Science
+1,45,Comic Strip Characters,Pop culture,Literature,,Nancy,Odie,Calvin,Charlie
+2,45,American Olympians,Pop culture,Sports,,James,Phelps,Biles,Ledecky
+0,46,Historical Documents,Everyday,,,Constitution,Declaration,Bill,Articles
+1,46,Places to Swim,Everyday,,,Pool,Lake,Jacuzzi,Ocean
+2,46,American Movie Directors,Pop culture,TV & Movies,,Scorsese,Lucas,Jonze,Spielberg
+0,47,Animals That Dig,Everyday,Animals,,Groundhog,Ant,Mole,Dog
+1,47,Boy Band Identifiers,Pop culture,Music,,Backstreet,Maroon,NSync,Direction
+2,47,Senses,Everyday,Bodily,,Sight,Hearing,Smell,Taste
+0,48,Sports,Pop culture,Sports,,Polo,Soccer,Track,Football
+1,48,Historical Documents,Everyday,,,Declaration,Constitution,Articles,Bill
+2,48,Forms of Religious Worship,Everyday,Religion,,Meditation,Prayer,Song,Ritual
+0,49,Homophones,Linguistic,Homophones,,Sow,Dye,Die,Sew
+1,49,Fairy Tale Figures,Pop culture,Literature,,Bear,Hansel,Wolf,Witch
+2,49,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Appetizing,Delicious,Yummy
+0,50,___keeper,Linguistic,Fill in the blank,,Bee,Crypt,Inn,Book
+1,50,Fairy Tale Figures,Pop culture,Literature,,Witch,Hansel,Bear,Wolf
+2,50,Ways to Communicate,Everyday,,,Text,Email,DM,Talking
+0,51,Places to Post,Pop culture,,,Wall,Page,Story,Profile
+1,51,Homophones,Linguistic,Homophones,,Dye,Die,Sew,Sow
+2,51,Movie Heartthrobs,Pop culture,TV & Movies,,Gosling,DiCaprio,Cavill,Clooney
+0,52,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Digits,Fingers,Sausages
+1,52,American Holidays,Pop culture,,,Thanksgiving,Labor,Memorial,Patrick
+2,52,American Authors,Pop culture,Literature,,Poe,Walker,King,Lee
+0,53,Children's Games,Pop culture,,,Gravel,Hopscotch,Jacks,Tag
+1,53,Sports,Pop culture,Sports,,Soccer,Polo,Football,Track
+2,53,Animals That Dig,Everyday,Animals,,Ant,Dog,Mole,Groundhog
+0,54,Parts of a Computer,Everyday,Objects,,Fan,Case,Hard Drive,Motherboard
+1,54,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Yummy,Appetizing,Delicious
+2,54,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Squat,Zero,Zilch,Zip
+0,55,Forms of Religious Worship,Everyday,Religion,,Ritual,Song,Prayer,Meditation
+1,55,Places to Swim,Everyday,,,Lake,Pool,Jacuzzi,Ocean
+2,55,Children's Games,Pop culture,,,Hopscotch,Gravel,Jacks,Tag
+0,56,American Olympians,Pop culture,Sports,,James,Biles,Phelps,Ledecky
+1,56,Movie Heartthrobs,Pop culture,TV & Movies,,Clooney,Gosling,Cavill,DiCaprio
+2,56,Senses,Everyday,Bodily,,Smell,Taste,Hearing,Sight
+0,57,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zip,Zero,Squat,Zilch
+1,57,"Words for ""Want""",Linguistic,Slang/Synonyms,,Crave,Desire,Wish,Yearn
+2,57,Boy Band Identifiers,Pop culture,Music,,Direction,NSync,Backstreet,Maroon
+0,58,Mountain Ranges,Everyday,World/Nature,,Sierra Nevada,Appalachian,Adirondack,Rocky
+1,58,Things That Cause Pain,Everyday,,,Cut,Cold,Electricity,Heat
+2,58,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Yummy,Delectable,Appetizing,Delicious
+0,59,Mountain Ranges,Everyday,World/Nature,,Rocky,Sierra Nevada,Adirondack,Appalachian
+1,59,Places to Swim,Everyday,,,Jacuzzi,Ocean,Pool,Lake
+2,59,US National Parks,Everyday,World/Nature,,Yosemite,Yellowstone,Glacier,Zion
+0,60,Hot___,Linguistic,Fill in the blank,,Spot,Dog,El,Cake
+1,60,___uck,Linguistic,Fill in the blank,,Str,Pl,Ch,B
+2,60,___keeper,Linguistic,Fill in the blank,,Book,Crypt,Bee,Inn
+0,61,Tools for Drawing,Everyday,Objects,,Pencil,Pen,Marker,Pastel
+1,61,Boy Band Identifiers,Pop culture,Music,,NSync,Direction,Maroon,Backstreet
+2,61,Fairy Tale Figures,Pop culture,Literature,,Wolf,Hansel,Witch,Bear
+0,62,Cartoon Cats,Pop culture,TV & Movies,,Tigger,Garfield,Cheshire,Tom
+1,62,Mountain Ranges,Everyday,World/Nature,,Adirondack,Rocky,Appalachian,Sierra Nevada
+2,62,American Movie Directors,Pop culture,TV & Movies,,Lucas,Spielberg,Scorsese,Jonze
+0,63,Tools for Drawing,Everyday,Objects,,Pencil,Marker,Pen,Pastel
+1,63,Children's Games,Pop culture,,,Hopscotch,Jacks,Tag,Gravel
+2,63,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Appetizing,Delectable,Yummy,Delicious
+0,64,Things That Cause Pain,Everyday,,,Cold,Heat,Electricity,Cut
+1,64,Boy Band Identifiers,Pop culture,Music,,Direction,Backstreet,NSync,Maroon
+2,64,Sports,Pop culture,Sports,,Polo,Track,Football,Soccer
+0,65,Senses,Everyday,Bodily,,Hearing,Taste,Sight,Smell
+1,65,___star,Linguistic,Fill in the blank,,Co,Super,Pop,Shooting
+2,65,American Olympians,Pop culture,Sports,,James,Phelps,Biles,Ledecky
+0,66,Desserts,Everyday,Food,,Cake,Crumble,Ice Cream,Pudding
+1,66,Mountain Ranges,Everyday,World/Nature,,Sierra Nevada,Appalachian,Rocky,Adirondack
+2,66,Forms of Religious Worship,Everyday,Religion,,Ritual,Song,Prayer,Meditation
+0,67,___uck,Linguistic,Fill in the blank,,Ch,Pl,Str,B
+1,67,"Meanings for ""Battery""",Linguistic,,,Power,Set,Emplacement,Offense
+2,67,___star,Linguistic,Fill in the blank,,Super,Pop,Shooting,Co
+0,68,Cartoon Cats,Pop culture,TV & Movies,,Cheshire,Tigger,Garfield,Tom
+1,68,Homophones,Linguistic,Homophones,,Sow,Sew,Die,Dye
+2,68,Forms of Religious Worship,Everyday,Religion,,Meditation,Ritual,Prayer,Song
+0,69,Mountain Ranges,Everyday,World/Nature,,Adirondack,Sierra Nevada,Rocky,Appalachian
+1,69,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Chomp,Crunch,Gnaw,Nibble
+2,69,Parts of a Computer,Everyday,Objects,,Motherboard,Case,Hard Drive,Fan
+0,70,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Phalanges,Digits,Sausages
+1,70,"Meanings for ""Battery""",Linguistic,,,Offense,Set,Power,Emplacement
+2,70,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Ball,Pigskin,Duke,Rock
+0,71,Places to Swim,Everyday,,,Ocean,Jacuzzi,Lake,Pool
+1,71,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Crave,Yearn,Wish
+2,71,Dad Rock Bands,Pop culture,Music,,Queen,Marillion,Journey,Who
+0,72,American Movie Directors,Pop culture,TV & Movies,,Scorsese,Jonze,Lucas,Spielberg
+1,72,Parts of a Computer,Everyday,Objects,,Case,Motherboard,Hard Drive,Fan
+2,72,Boy Band Identifiers,Pop culture,Music,,Backstreet,NSync,Direction,Maroon
+0,73,American Authors,Pop culture,Literature,,King,Poe,Walker,Lee
+1,73,Forms of Religious Worship,Everyday,Religion,,Song,Prayer,Meditation,Ritual
+2,73,Hot___,Linguistic,Fill in the blank,,Dog,Spot,El,Cake
+0,74,Forms of Religious Worship,Everyday,Religion,,Song,Meditation,Prayer,Ritual
+1,74,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Pigskin,Rock,Ball,Duke
+2,74,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Junk,Bunk,Rubbish,Garbage
+0,75,Homophones,Linguistic,Homophones,,Dye,Die,Sew,Sow
+1,75,Desserts,Everyday,Food,,Crumble,Ice Cream,Cake,Pudding
+2,75,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Appetizing,Delicious,Delectable,Yummy
+0,76,Animals That Dig,Everyday,Animals,,Dog,Mole,Ant,Groundhog
+1,76,American Authors,Pop culture,Literature,,Poe,King,Walker,Lee
+2,76,Things That Cause Pain,Everyday,,,Cut,Electricity,Cold,Heat
+0,77,Kitchen Utensils,Everyday,Objects,,Knife,Spoon,Fork,Straw
+1,77,Hot___,Linguistic,Fill in the blank,,El,Cake,Spot,Dog
+2,77,Disney Princesses,Pop culture,TV & Movies,,Rapunzel,Pocahontas,Jasmine,Tiana
+0,78,___star,Linguistic,Fill in the blank,,Shooting,Co,Super,Pop
+1,78,___uck,Linguistic,Fill in the blank,,Pl,B,Str,Ch
+2,78,Disney Princesses,Pop culture,TV & Movies,,Pocahontas,Jasmine,Tiana,Rapunzel
+0,79,American Movie Directors,Pop culture,TV & Movies,,Jonze,Scorsese,Lucas,Spielberg
+1,79,Business Casual Clothing,Everyday,Objects,,Slacks,Tie,Buttondown,Sweater
+2,79,Historical Documents,Everyday,,,Bill,Constitution,Declaration,Articles
+0,80,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Gnaw,Crunch,Chomp,Nibble
+1,80,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Wish,Desire,Crave
+2,80,Desserts,Everyday,Food,,Pudding,Crumble,Cake,Ice Cream
+0,81,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Ball,Pigskin,Rock,Duke
+1,81,Disney Princesses,Pop culture,TV & Movies,,Tiana,Jasmine,Rapunzel,Pocahontas
+2,81,Dad Rock Bands,Pop culture,Music,,Marillion,Journey,Queen,Who
+0,82,Comic Strip Characters,Pop culture,Literature,,Odie,Charlie,Nancy,Calvin
+1,82,Historical Documents,Everyday,,,Declaration,Articles,Constitution,Bill
+2,82,Homophones,Linguistic,Homophones,,Sew,Dye,Die,Sow
+0,83,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Appetizing,Delicious,Yummy,Delectable
+1,83,___star,Linguistic,Fill in the blank,,Co,Shooting,Super,Pop
+2,83,___uck,Linguistic,Fill in the blank,,Str,B,Ch,Pl
+0,84,Children's Games,Pop culture,,,Tag,Jacks,Hopscotch,Gravel
+1,84,Homophones,Linguistic,Homophones,,Dye,Sew,Sow,Die
+2,84,Sports,Pop culture,Sports,,Football,Polo,Track,Soccer
+0,85,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Sausages,Phalanges,Fingers,Digits
+1,85,Types of Phones,Everyday,Objects,,Mobile,Smart,Home,Flip
+2,85,American Olympians,Pop culture,Sports,,Ledecky,Phelps,Biles,James
+0,86,Animals That Dig,Everyday,Animals,,Ant,Dog,Groundhog,Mole
+1,86,"Meanings for ""Battery""",Linguistic,,,Set,Emplacement,Offense,Power
+2,86,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Rubbish,Garbage,Bunk,Junk
+0,87,American Olympians,Pop culture,Sports,,Phelps,Biles,James,Ledecky
+1,87,Sports,Pop culture,Sports,,Soccer,Track,Polo,Football
+2,87,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Squat,Zero,Zilch,Zip
+0,88,Ways to Communicate,Everyday,,,DM,Email,Talking,Text
+1,88,Boy Band Identifiers,Pop culture,Music,,Backstreet,Direction,NSync,Maroon
+2,88,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Junk,Rubbish,Garbage,Bunk
+0,89,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Wish,Crave,Yearn
+1,89,Dad Rock Bands,Pop culture,Music,,Journey,Queen,Who,Marillion
+2,89,Parts of a Computer,Everyday,Objects,,Fan,Motherboard,Hard Drive,Case
+0,90,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Appetizing,Delicious,Delectable,Yummy
+1,90,Kitchen Utensils,Everyday,Objects,,Knife,Fork,Spoon,Straw
+2,90,Types of Phones,Everyday,Objects,,Home,Smart,Flip,Mobile
+0,91,Desserts,Everyday,Food,,Pudding,Crumble,Cake,Ice Cream
+1,91,Movie Heartthrobs,Pop culture,TV & Movies,,DiCaprio,Cavill,Clooney,Gosling
+2,91,Homophones,Linguistic,Homophones,,Sew,Die,Sow,Dye
+0,92,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zilch,Squat,Zip,Zero
+1,92,Children's Games,Pop culture,,,Gravel,Hopscotch,Tag,Jacks
+2,92,American Movie Directors,Pop culture,TV & Movies,,Lucas,Jonze,Spielberg,Scorsese
+0,93,Homophones,Linguistic,Homophones,,Die,Sew,Sow,Dye
+1,93,Places to Swim,Everyday,,,Jacuzzi,Pool,Lake,Ocean
+2,93,___uck,Linguistic,Fill in the blank,,Pl,Str,B,Ch
+0,94,___star,Linguistic,Fill in the blank,,Pop,Super,Shooting,Co
+1,94,Animals That Dig,Everyday,Animals,,Dog,Mole,Groundhog,Ant
+2,94,Children's Games,Pop culture,,,Gravel,Tag,Hopscotch,Jacks
+0,95,Ways to Communicate,Everyday,,,DM,Talking,Email,Text
+1,95,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Desire,Crave,Yearn
+2,95,Children's Games,Pop culture,,,Hopscotch,Tag,Gravel,Jacks
+0,96,TV Comedies,Pop culture,TV & Movies,,Seinfeld,Friends,Frasier,Cheers
+1,96,Meals,Everyday,Food,,Dinner,Brunch,Linner,Breakfast
+2,96,Professions,Everyday,,,Doctor,Engineer,Scientist,Teacher
+0,97,Meals,Everyday,Food,,Brunch,Linner,Dinner,Breakfast
+1,97,"Meanings for ""Battery""",Linguistic,,,Power,Offense,Set,Emplacement
+2,97,American Movie Directors,Pop culture,TV & Movies,,Lucas,Jonze,Scorsese,Spielberg
+0,98,Meals,Everyday,Food,,Brunch,Dinner,Linner,Breakfast
+1,98,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Appetizing,Delectable,Yummy,Delicious
+2,98,___star,Linguistic,Fill in the blank,,Co,Shooting,Pop,Super
+0,99,Desserts,Everyday,Food,,Ice Cream,Crumble,Pudding,Cake
+1,99,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Bunk,Junk,Garbage,Rubbish
+2,99,Parts of a Computer,Everyday,Objects,,Motherboard,Fan,Hard Drive,Case
+0,100,Disney Princesses,Pop culture,TV & Movies,,Rapunzel,Tiana,Jasmine,Pocahontas
+1,100,Places to Post,Pop culture,,,Wall,Profile,Story,Page
+2,100,Meals,Everyday,Food,,Brunch,Breakfast,Dinner,Linner
+0,101,Mountain Ranges,Everyday,World/Nature,,Appalachian,Sierra Nevada,Rocky,Adirondack
+1,101,Desserts,Everyday,Food,,Cake,Crumble,Ice Cream,Pudding
+2,101,Disney Princesses,Pop culture,TV & Movies,,Pocahontas,Rapunzel,Tiana,Jasmine
+0,102,___keeper,Linguistic,Fill in the blank,,Book,Crypt,Inn,Bee
+1,102,Tools for Drawing,Everyday,Objects,,Pencil,Marker,Pen,Pastel
+2,102,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Digits,Fingers,Sausages
+0,103,Professions,Everyday,,,Engineer,Scientist,Teacher,Doctor
+1,103,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Rock,Ball,Pigskin,Duke
+2,103,"Homophones for ""Peak""",Linguistic,Homophones,,Peek,Peke,Peak,Pique
+0,104,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Oopsie,Error,Blunder,Misstep
+1,104,Business Casual Clothing,Everyday,Objects,,Buttondown,Slacks,Sweater,Tie
+2,104,Comic Strip Characters,Pop culture,Literature,,Nancy,Charlie,Calvin,Odie
+0,105,Comic Strip Characters,Pop culture,Literature,,Charlie,Odie,Calvin,Nancy
+1,105,"Meanings for ""Battery""",Linguistic,,,Emplacement,Set,Offense,Power
+2,105,Ways to Communicate,Everyday,,,DM,Talking,Email,Text
+0,106,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delicious,Yummy,Delectable,Appetizing
+1,106,American Olympians,Pop culture,Sports,,James,Ledecky,Phelps,Biles
+2,106,Homophones,Linguistic,Homophones,,Sew,Dye,Sow,Die
+0,107,Meals,Everyday,Food,,Brunch,Linner,Breakfast,Dinner
+1,107,American Authors,Pop culture,Literature,,Poe,King,Lee,Walker
+2,107,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Junk,Garbage,Rubbish,Bunk
+0,108,___uck,Linguistic,Fill in the blank,,Str,B,Pl,Ch
+1,108,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Nibble,Crunch,Chomp,Gnaw
+2,108,"Homophones for ""Peak""",Linguistic,Homophones,,Peek,Peke,Pique,Peak
+0,109,Places to Post,Pop culture,,,Profile,Wall,Page,Story
+1,109,Homophones,Linguistic,Homophones,,Die,Dye,Sew,Sow
+2,109,Professions,Everyday,,,Doctor,Scientist,Teacher,Engineer
+0,110,American Olympians,Pop culture,Sports,,Ledecky,Biles,Phelps,James
+1,110,Cartoon Cats,Pop culture,TV & Movies,,Tigger,Cheshire,Garfield,Tom
+2,110,American Holidays,Pop culture,,,Patrick,Thanksgiving,Labor,Memorial
+0,111,American Movie Directors,Pop culture,TV & Movies,,Spielberg,Jonze,Scorsese,Lucas
+1,111,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Crave,Yearn,Wish
+2,111,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Gnaw,Crunch,Nibble,Chomp
+0,112,Fairy Tale Figures,Pop culture,Literature,,Wolf,Bear,Witch,Hansel
+1,112,School Subjects,Everyday,,,Math,History,English,Science
+2,112,Kitchen Utensils,Everyday,Objects,,Fork,Straw,Spoon,Knife
+0,113,Children's Games,Pop culture,,,Hopscotch,Jacks,Gravel,Tag
+1,113,Boy Band Identifiers,Pop culture,Music,,Direction,Backstreet,Maroon,NSync
+2,113,___uck,Linguistic,Fill in the blank,,Pl,B,Ch,Str
+0,114,Places to Post,Pop culture,,,Wall,Page,Profile,Story
+1,114,Historical Documents,Everyday,,,Bill,Declaration,Constitution,Articles
+2,114,Senses,Everyday,Bodily,,Sight,Taste,Hearing,Smell
+0,115,School Subjects,Everyday,,,History,Science,Math,English
+1,115,"Words for ""Want""",Linguistic,Slang/Synonyms,,Crave,Wish,Yearn,Desire
+2,115,Professions,Everyday,,,Scientist,Engineer,Teacher,Doctor
+0,116,American Olympians,Pop culture,Sports,,Phelps,Biles,James,Ledecky
+1,116,Movie Heartthrobs,Pop culture,TV & Movies,,Gosling,Clooney,DiCaprio,Cavill
+2,116,Disney Princesses,Pop culture,TV & Movies,,Pocahontas,Jasmine,Tiana,Rapunzel
+0,117,Forms of Religious Worship,Everyday,Religion,,Ritual,Song,Prayer,Meditation
+1,117,US National Parks,Everyday,World/Nature,,Zion,Glacier,Yosemite,Yellowstone
+2,117,Historical Documents,Everyday,,,Bill,Articles,Declaration,Constitution
+0,118,Tools for Drawing,Everyday,Objects,,Pencil,Pastel,Pen,Marker
+1,118,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Delicious,Yummy,Appetizing
+2,118,Forms of Religious Worship,Everyday,Religion,,Meditation,Ritual,Prayer,Song
+0,119,Children's Games,Pop culture,,,Gravel,Hopscotch,Jacks,Tag
+1,119,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Zip,Zilch,Squat
+2,119,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Misstep,Blunder,Error,Oopsie
+0,120,"Meanings for ""Battery""",Linguistic,,,Emplacement,Set,Offense,Power
+1,120,Historical Documents,Everyday,,,Articles,Declaration,Bill,Constitution
+2,120,Dad Rock Bands,Pop culture,Music,,Queen,Journey,Who,Marillion
+0,121,Business Casual Clothing,Everyday,Objects,,Tie,Buttondown,Sweater,Slacks
+1,121,Kitchen Utensils,Everyday,Objects,,Straw,Fork,Spoon,Knife
+2,121,Fairy Tale Figures,Pop culture,Literature,,Wolf,Hansel,Witch,Bear
+0,122,___uck,Linguistic,Fill in the blank,,Ch,Pl,B,Str
+1,122,Sports,Pop culture,Sports,,Track,Soccer,Polo,Football
+2,122,American Movie Directors,Pop culture,TV & Movies,,Jonze,Spielberg,Scorsese,Lucas
+0,123,American Olympians,Pop culture,Sports,,Ledecky,James,Phelps,Biles
+1,123,___keeper,Linguistic,Fill in the blank,,Bee,Crypt,Inn,Book
+2,123,Comic Strip Characters,Pop culture,Literature,,Charlie,Nancy,Calvin,Odie
+0,124,American Authors,Pop culture,Literature,,Lee,Poe,Walker,King
+1,124,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Yearn,Crave,Desire
+2,124,Animals That Dig,Everyday,Animals,,Mole,Groundhog,Dog,Ant
+0,125,Tools for Drawing,Everyday,Objects,,Pencil,Pen,Pastel,Marker
+1,125,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Digits,Sausages,Fingers
+2,125,Comic Strip Characters,Pop culture,Literature,,Charlie,Nancy,Calvin,Odie
+0,126,Mountain Ranges,Everyday,World/Nature,,Adirondack,Appalachian,Rocky,Sierra Nevada
+1,126,American Olympians,Pop culture,Sports,,Phelps,Biles,James,Ledecky
+2,126,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Nibble,Gnaw,Crunch,Chomp
+0,127,Things That Cause Pain,Everyday,,,Cold,Heat,Cut,Electricity
+1,127,Meals,Everyday,Food,,Dinner,Brunch,Linner,Breakfast
+2,127,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Ball,Duke,Rock,Pigskin
+0,128,Ways to Communicate,Everyday,,,DM,Talking,Email,Text
+1,128,Boy Band Identifiers,Pop culture,Music,,Direction,Maroon,NSync,Backstreet
+2,128,Historical Documents,Everyday,,,Bill,Articles,Constitution,Declaration
+0,129,Children's Games,Pop culture,,,Jacks,Gravel,Tag,Hopscotch
+1,129,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Yearn,Desire,Crave
+2,129,American Olympians,Pop culture,Sports,,Biles,James,Phelps,Ledecky
+0,130,School Subjects,Everyday,,,Math,History,English,Science
+1,130,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Rock,Ball,Pigskin,Duke
+2,130,Boy Band Identifiers,Pop culture,Music,,Backstreet,NSync,Maroon,Direction
+0,131,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Garbage,Junk,Rubbish,Bunk
+1,131,Historical Documents,Everyday,,,Constitution,Declaration,Articles,Bill
+2,131,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zip,Zero,Zilch,Squat
+0,132,Senses,Everyday,Bodily,,Hearing,Sight,Smell,Taste
+1,132,___star,Linguistic,Fill in the blank,,Pop,Co,Super,Shooting
+2,132,Comic Strip Characters,Pop culture,Literature,,Nancy,Calvin,Odie,Charlie
+0,133,Meals,Everyday,Food,,Breakfast,Linner,Dinner,Brunch
+1,133,Comic Strip Characters,Pop culture,Literature,,Nancy,Charlie,Calvin,Odie
+2,133,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zilch,Squat,Zip,Zero
+0,134,Things That Cause Pain,Everyday,,,Cut,Cold,Electricity,Heat
+1,134,American Authors,Pop culture,Literature,,King,Poe,Lee,Walker
+2,134,Comic Strip Characters,Pop culture,Literature,,Charlie,Odie,Nancy,Calvin
+0,135,Hot___,Linguistic,Fill in the blank,,El,Cake,Dog,Spot
+1,135,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Crave,Yearn,Desire
+2,135,Cartoon Cats,Pop culture,TV & Movies,,Cheshire,Tigger,Garfield,Tom
+0,136,Disney Princesses,Pop culture,TV & Movies,,Rapunzel,Pocahontas,Jasmine,Tiana
+1,136,Historical Documents,Everyday,,,Declaration,Articles,Constitution,Bill
+2,136,Desserts,Everyday,Food,,Ice Cream,Crumble,Cake,Pudding
+0,137,Sports,Pop culture,Sports,,Track,Soccer,Polo,Football
+1,137,___star,Linguistic,Fill in the blank,,Co,Shooting,Pop,Super
+2,137,Historical Documents,Everyday,,,Articles,Constitution,Declaration,Bill
+0,138,Meals,Everyday,Food,,Dinner,Brunch,Breakfast,Linner
+1,138,___uck,Linguistic,Fill in the blank,,Str,B,Pl,Ch
+2,138,"Homophones for ""Peak""",Linguistic,Homophones,,Peke,Peak,Peek,Pique
+0,139,Parts of a Computer,Everyday,Objects,,Motherboard,Case,Hard Drive,Fan
+1,139,Disney Princesses,Pop culture,TV & Movies,,Rapunzel,Pocahontas,Tiana,Jasmine
+2,139,Kitchen Utensils,Everyday,Objects,,Knife,Fork,Straw,Spoon
+0,140,Kitchen Utensils,Everyday,Objects,,Knife,Straw,Spoon,Fork
+1,140,Children's Games,Pop culture,,,Hopscotch,Gravel,Jacks,Tag
+2,140,Animals That Dig,Everyday,Animals,,Mole,Groundhog,Ant,Dog
+0,141,American Holidays,Pop culture,,,Thanksgiving,Labor,Memorial,Patrick
+1,141,American Authors,Pop culture,Literature,,King,Walker,Poe,Lee
+2,141,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Garbage,Rubbish,Bunk,Junk
+0,142,Mountain Ranges,Everyday,World/Nature,,Adirondack,Sierra Nevada,Rocky,Appalachian
+1,142,Senses,Everyday,Bodily,,Smell,Taste,Hearing,Sight
+2,142,Kitchen Utensils,Everyday,Objects,,Spoon,Straw,Knife,Fork
+0,143,Boy Band Identifiers,Pop culture,Music,,Maroon,NSync,Direction,Backstreet
+1,143,American Authors,Pop culture,Literature,,Poe,King,Walker,Lee
+2,143,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Yearn,Desire,Crave
+0,144,American Holidays,Pop culture,,,Memorial,Thanksgiving,Patrick,Labor
+1,144,Disney Princesses,Pop culture,TV & Movies,,Tiana,Pocahontas,Rapunzel,Jasmine
+2,144,Business Casual Clothing,Everyday,Objects,,Buttondown,Tie,Slacks,Sweater
+0,145,American Olympians,Pop culture,Sports,,Ledecky,James,Biles,Phelps
+1,145,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Rock,Pigskin,Ball,Duke
+2,145,Fairy Tale Figures,Pop culture,Literature,,Hansel,Witch,Bear,Wolf
+0,146,Parts of a Computer,Everyday,Objects,,Case,Hard Drive,Fan,Motherboard
+1,146,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Garbage,Bunk,Rubbish,Junk
+2,146,Cartoon Cats,Pop culture,TV & Movies,,Tigger,Garfield,Cheshire,Tom
+0,147,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Sausages,Phalanges,Fingers,Digits
+1,147,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Yearn,Wish,Crave
+2,147,Sports,Pop culture,Sports,,Soccer,Polo,Football,Track
+0,148,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Yearn,Crave,Wish
+1,148,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Nibble,Crunch,Chomp,Gnaw
+2,148,Business Casual Clothing,Everyday,Objects,,Slacks,Tie,Buttondown,Sweater
+0,149,Kitchen Utensils,Everyday,Objects,,Straw,Knife,Spoon,Fork
+1,149,Disney Princesses,Pop culture,TV & Movies,,Jasmine,Pocahontas,Rapunzel,Tiana
+2,149,Movie Heartthrobs,Pop culture,TV & Movies,,Cavill,Gosling,DiCaprio,Clooney
+0,150,___star,Linguistic,Fill in the blank,,Co,Super,Pop,Shooting
+1,150,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zip,Zero,Zilch,Squat
+2,150,Boy Band Identifiers,Pop culture,Music,,NSync,Direction,Backstreet,Maroon
+0,151,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Zip,Squat,Zilch
+1,151,___uck,Linguistic,Fill in the blank,,Str,Pl,Ch,B
+2,151,Fairy Tale Figures,Pop culture,Literature,,Wolf,Hansel,Bear,Witch
+0,152,Business Casual Clothing,Everyday,Objects,,Sweater,Tie,Slacks,Buttondown
+1,152,Meals,Everyday,Food,,Linner,Dinner,Breakfast,Brunch
+2,152,American Movie Directors,Pop culture,TV & Movies,,Jonze,Scorsese,Spielberg,Lucas
+0,153,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Blunder,Oopsie,Misstep,Error
+1,153,US National Parks,Everyday,World/Nature,,Yosemite,Glacier,Yellowstone,Zion
+2,153,Types of Phones,Everyday,Objects,,Mobile,Smart,Home,Flip
+0,154,Tools for Drawing,Everyday,Objects,,Marker,Pen,Pencil,Pastel
+1,154,Kitchen Utensils,Everyday,Objects,,Straw,Fork,Spoon,Knife
+2,154,Fairy Tale Figures,Pop culture,Literature,,Hansel,Bear,Wolf,Witch
+0,155,___keeper,Linguistic,Fill in the blank,,Crypt,Inn,Bee,Book
+1,155,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Digits,Phalanges,Sausages
+2,155,___star,Linguistic,Fill in the blank,,Co,Super,Pop,Shooting
+0,156,Homophones,Linguistic,Homophones,,Dye,Sew,Die,Sow
+1,156,___uck,Linguistic,Fill in the blank,,Str,Ch,B,Pl
+2,156,Movie Heartthrobs,Pop culture,TV & Movies,,Cavill,DiCaprio,Clooney,Gosling
+0,157,US National Parks,Everyday,World/Nature,,Yellowstone,Zion,Glacier,Yosemite
+1,157,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Desire,Crave,Wish
+2,157,Fairy Tale Figures,Pop culture,Literature,,Hansel,Witch,Bear,Wolf
+0,158,Comic Strip Characters,Pop culture,Literature,,Odie,Calvin,Nancy,Charlie
+1,158,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Desire,Wish,Crave
+2,158,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Bunk,Rubbish,Junk,Garbage
+0,159,___keeper,Linguistic,Fill in the blank,,Bee,Book,Inn,Crypt
+1,159,Parts of a Computer,Everyday,Objects,,Case,Hard Drive,Fan,Motherboard
+2,159,Kitchen Utensils,Everyday,Objects,,Fork,Knife,Spoon,Straw
+0,160,"Meanings for ""Battery""",Linguistic,,,Emplacement,Power,Set,Offense
+1,160,American Holidays,Pop culture,,,Thanksgiving,Patrick,Labor,Memorial
+2,160,Historical Documents,Everyday,,,Articles,Bill,Declaration,Constitution
+0,161,Senses,Everyday,Bodily,,Sight,Hearing,Taste,Smell
+1,161,Historical Documents,Everyday,,,Declaration,Articles,Constitution,Bill
+2,161,Places to Post,Pop culture,,,Wall,Story,Profile,Page
+0,162,TV Comedies,Pop culture,TV & Movies,,Friends,Cheers,Seinfeld,Frasier
+1,162,American Holidays,Pop culture,,,Memorial,Thanksgiving,Patrick,Labor
+2,162,Senses,Everyday,Bodily,,Hearing,Smell,Taste,Sight
+0,163,Hot___,Linguistic,Fill in the blank,,Dog,Cake,El,Spot
+1,163,Cartoon Cats,Pop culture,TV & Movies,,Tigger,Garfield,Cheshire,Tom
+2,163,Movie Heartthrobs,Pop culture,TV & Movies,,Gosling,Clooney,DiCaprio,Cavill
+0,164,US National Parks,Everyday,World/Nature,,Yellowstone,Glacier,Zion,Yosemite
+1,164,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delicious,Appetizing,Delectable,Yummy
+2,164,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Sausages,Digits,Phalanges,Fingers
+0,165,Senses,Everyday,Bodily,,Sight,Smell,Hearing,Taste
+1,165,Places to Post,Pop culture,,,Page,Profile,Story,Wall
+2,165,American Authors,Pop culture,Literature,,Walker,Lee,King,Poe
+0,166,Historical Documents,Everyday,,,Declaration,Bill,Articles,Constitution
+1,166,Business Casual Clothing,Everyday,Objects,,Buttondown,Sweater,Tie,Slacks
+2,166,American Authors,Pop culture,Literature,,King,Poe,Walker,Lee
+0,167,Fairy Tale Figures,Pop culture,Literature,,Hansel,Bear,Witch,Wolf
+1,167,Things That Cause Pain,Everyday,,,Cold,Electricity,Heat,Cut
+2,167,Professions,Everyday,,,Doctor,Engineer,Scientist,Teacher
+0,168,Fairy Tale Figures,Pop culture,Literature,,Wolf,Hansel,Bear,Witch
+1,168,Professions,Everyday,,,Teacher,Doctor,Scientist,Engineer
+2,168,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Delicious,Yummy,Appetizing
+0,169,"Meanings for ""Battery""",Linguistic,,,Offense,Set,Emplacement,Power
+1,169,Meals,Everyday,Food,,Linner,Dinner,Breakfast,Brunch
+2,169,Senses,Everyday,Bodily,,Smell,Hearing,Sight,Taste
+0,170,"Homophones for ""Peak""",Linguistic,Homophones,,Peke,Peek,Peak,Pique
+1,170,Parts of a Computer,Everyday,Objects,,Fan,Hard Drive,Motherboard,Case
+2,170,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Blunder,Error,Misstep,Oopsie
+0,171,Children's Games,Pop culture,,,Gravel,Tag,Jacks,Hopscotch
+1,171,Things That Cause Pain,Everyday,,,Heat,Cut,Electricity,Cold
+2,171,US National Parks,Everyday,World/Nature,,Yosemite,Yellowstone,Zion,Glacier
+0,172,Animals That Dig,Everyday,Animals,,Ant,Mole,Dog,Groundhog
+1,172,Forms of Religious Worship,Everyday,Religion,,Ritual,Song,Meditation,Prayer
+2,172,Types of Phones,Everyday,Objects,,Home,Smart,Flip,Mobile
+0,173,Things That Cause Pain,Everyday,,,Cold,Cut,Heat,Electricity
+1,173,Dad Rock Bands,Pop culture,Music,,Queen,Marillion,Who,Journey
+2,173,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Crave,Desire,Yearn
+0,174,American Holidays,Pop culture,,,Memorial,Labor,Patrick,Thanksgiving
+1,174,Places to Swim,Everyday,,,Jacuzzi,Lake,Ocean,Pool
+2,174,American Authors,Pop culture,Literature,,Walker,Poe,King,Lee
+0,175,Professions,Everyday,,,Scientist,Engineer,Teacher,Doctor
+1,175,TV Comedies,Pop culture,TV & Movies,,Friends,Cheers,Seinfeld,Frasier
+2,175,___star,Linguistic,Fill in the blank,,Co,Pop,Super,Shooting
+0,176,Homophones,Linguistic,Homophones,,Dye,Die,Sow,Sew
+1,176,Places to Post,Pop culture,,,Wall,Profile,Story,Page
+2,176,Boy Band Identifiers,Pop culture,Music,,Backstreet,Direction,NSync,Maroon
+0,177,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Blunder,Oopsie,Error,Misstep
+1,177,Boy Band Identifiers,Pop culture,Music,,Backstreet,Maroon,Direction,NSync
+2,177,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Digits,Sausages,Fingers
+0,178,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Crave,Wish,Yearn
+1,178,Professions,Everyday,,,Engineer,Doctor,Scientist,Teacher
+2,178,Tools for Drawing,Everyday,Objects,,Pencil,Marker,Pastel,Pen
+0,179,Places to Swim,Everyday,,,Ocean,Pool,Lake,Jacuzzi
+1,179,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Oopsie,Error,Blunder,Misstep
+2,179,Desserts,Everyday,Food,,Crumble,Pudding,Cake,Ice Cream
+0,180,"Meanings for ""Battery""",Linguistic,,,Emplacement,Offense,Set,Power
+1,180,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Ball,Duke,Rock,Pigskin
+2,180,Places to Post,Pop culture,,,Story,Profile,Page,Wall
+0,181,Disney Princesses,Pop culture,TV & Movies,,Tiana,Jasmine,Pocahontas,Rapunzel
+1,181,American Olympians,Pop culture,Sports,,Biles,James,Phelps,Ledecky
+2,181,Senses,Everyday,Bodily,,Smell,Hearing,Taste,Sight
+0,182,Sports,Pop culture,Sports,,Soccer,Polo,Football,Track
+1,182,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Digits,Fingers,Sausages,Phalanges
+2,182,Movie Heartthrobs,Pop culture,TV & Movies,,Gosling,Clooney,Cavill,DiCaprio
+0,183,Parts of a Computer,Everyday,Objects,,Fan,Motherboard,Case,Hard Drive
+1,183,TV Comedies,Pop culture,TV & Movies,,Friends,Cheers,Frasier,Seinfeld
+2,183,Ways to Communicate,Everyday,,,Text,DM,Talking,Email
+0,184,Animals That Dig,Everyday,Animals,,Dog,Mole,Ant,Groundhog
+1,184,Children's Games,Pop culture,,,Jacks,Gravel,Tag,Hopscotch
+2,184,___uck,Linguistic,Fill in the blank,,Str,B,Pl,Ch
+0,185,Animals That Dig,Everyday,Animals,,Groundhog,Mole,Ant,Dog
+1,185,American Holidays,Pop culture,,,Patrick,Labor,Thanksgiving,Memorial
+2,185,US National Parks,Everyday,World/Nature,,Glacier,Zion,Yellowstone,Yosemite
+0,186,___star,Linguistic,Fill in the blank,,Super,Pop,Co,Shooting
+1,186,Forms of Religious Worship,Everyday,Religion,,Song,Ritual,Meditation,Prayer
+2,186,Types of Phones,Everyday,Objects,,Mobile,Home,Flip,Smart
+0,187,Disney Princesses,Pop culture,TV & Movies,,Rapunzel,Tiana,Jasmine,Pocahontas
+1,187,Forms of Religious Worship,Everyday,Religion,,Meditation,Ritual,Prayer,Song
+2,187,___star,Linguistic,Fill in the blank,,Shooting,Co,Super,Pop
+0,188,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Error,Oopsie,Misstep,Blunder
+1,188,"Meanings for ""Battery""",Linguistic,,,Offense,Emplacement,Set,Power
+2,188,American Holidays,Pop culture,,,Memorial,Patrick,Labor,Thanksgiving
+0,189,___keeper,Linguistic,Fill in the blank,,Inn,Bee,Book,Crypt
+1,189,Disney Princesses,Pop culture,TV & Movies,,Tiana,Rapunzel,Jasmine,Pocahontas
+2,189,Children's Games,Pop culture,,,Gravel,Hopscotch,Jacks,Tag
+0,190,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Digits,Fingers,Sausages
+1,190,Disney Princesses,Pop culture,TV & Movies,,Tiana,Jasmine,Pocahontas,Rapunzel
+2,190,Places to Post,Pop culture,,,Story,Wall,Page,Profile
+0,191,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Digits,Sausages,Fingers
+1,191,"Homophones for ""Peak""",Linguistic,Homophones,,Peke,Peak,Pique,Peek
+2,191,Types of Phones,Everyday,Objects,,Flip,Home,Smart,Mobile
+0,192,American Movie Directors,Pop culture,TV & Movies,,Spielberg,Jonze,Scorsese,Lucas
+1,192,Comic Strip Characters,Pop culture,Literature,,Odie,Charlie,Calvin,Nancy
+2,192,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Error,Blunder,Oopsie,Misstep
+0,193,Professions,Everyday,,,Engineer,Scientist,Teacher,Doctor
+1,193,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Sausages,Fingers,Digits
+2,193,Ways to Communicate,Everyday,,,DM,Text,Talking,Email
+0,194,Sports,Pop culture,Sports,,Polo,Soccer,Football,Track
+1,194,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Zip,Zilch,Squat
+2,194,Things That Cause Pain,Everyday,,,Cut,Cold,Electricity,Heat
+0,195,Kitchen Utensils,Everyday,Objects,,Spoon,Knife,Fork,Straw
+1,195,Sports,Pop culture,Sports,,Polo,Soccer,Football,Track
+2,195,Children's Games,Pop culture,,,Tag,Gravel,Hopscotch,Jacks
+0,196,Sports,Pop culture,Sports,,Track,Soccer,Football,Polo
+1,196,Meals,Everyday,Food,,Dinner,Brunch,Linner,Breakfast
+2,196,Tools for Drawing,Everyday,Objects,,Pencil,Pastel,Marker,Pen
+0,197,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Wish,Crave,Desire
+1,197,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Fingers,Sausages,Digits
+2,197,American Olympians,Pop culture,Sports,,Ledecky,James,Biles,Phelps
+0,198,Professions,Everyday,,,Doctor,Scientist,Engineer,Teacher
+1,198,___keeper,Linguistic,Fill in the blank,,Book,Inn,Bee,Crypt
+2,198,Places to Swim,Everyday,,,Pool,Ocean,Jacuzzi,Lake
+0,199,"Homophones for ""Peak""",Linguistic,Homophones,,Peek,Peak,Pique,Peke
+1,199,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Crave,Desire,Wish
+2,199,Movie Heartthrobs,Pop culture,TV & Movies,,Cavill,Clooney,DiCaprio,Gosling
+0,200,Places to Swim,Everyday,,,Pool,Jacuzzi,Lake,Ocean
+1,200,American Olympians,Pop culture,Sports,,Ledecky,Phelps,James,Biles
+2,200,TV Comedies,Pop culture,TV & Movies,,Frasier,Cheers,Seinfeld,Friends
+0,201,Comic Strip Characters,Pop culture,Literature,,Nancy,Charlie,Odie,Calvin
+1,201,Parts of a Computer,Everyday,Objects,,Hard Drive,Case,Motherboard,Fan
+2,201,Ways to Communicate,Everyday,,,Text,Email,DM,Talking
+0,202,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Chomp,Gnaw,Crunch,Nibble
+1,202,US National Parks,Everyday,World/Nature,,Zion,Yosemite,Yellowstone,Glacier
+2,202,Fairy Tale Figures,Pop culture,Literature,,Wolf,Witch,Bear,Hansel
+0,203,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Gnaw,Crunch,Chomp,Nibble
+1,203,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Yummy,Appetizing,Delicious
+2,203,Historical Documents,Everyday,,,Declaration,Bill,Constitution,Articles
+0,204,___keeper,Linguistic,Fill in the blank,,Book,Crypt,Bee,Inn
+1,204,School Subjects,Everyday,,,History,Science,English,Math
+2,204,Movie Heartthrobs,Pop culture,TV & Movies,,Clooney,Cavill,DiCaprio,Gosling
+0,205,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Duke,Rock,Ball,Pigskin
+1,205,Historical Documents,Everyday,,,Articles,Constitution,Declaration,Bill
+2,205,Tools for Drawing,Everyday,Objects,,Pen,Pastel,Pencil,Marker
+0,206,Ways to Communicate,Everyday,,,Text,Talking,DM,Email
+1,206,Historical Documents,Everyday,,,Declaration,Articles,Bill,Constitution
+2,206,Parts of a Computer,Everyday,Objects,,Hard Drive,Case,Fan,Motherboard
+0,207,Forms of Religious Worship,Everyday,Religion,,Meditation,Song,Ritual,Prayer
+1,207,Types of Phones,Everyday,Objects,,Home,Mobile,Smart,Flip
+2,207,TV Comedies,Pop culture,TV & Movies,,Frasier,Cheers,Seinfeld,Friends
+0,208,Professions,Everyday,,,Doctor,Teacher,Engineer,Scientist
+1,208,Dad Rock Bands,Pop culture,Music,,Queen,Journey,Who,Marillion
+2,208,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Digits,Fingers,Phalanges,Sausages
+0,209,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Delicious,Appetizing,Yummy
+1,209,Parts of a Computer,Everyday,Objects,,Hard Drive,Motherboard,Case,Fan
+2,209,Hot___,Linguistic,Fill in the blank,,Spot,Dog,El,Cake
+0,210,Fairy Tale Figures,Pop culture,Literature,,Witch,Bear,Wolf,Hansel
+1,210,"Homophones for ""Peak""",Linguistic,Homophones,,Peak,Pique,Peke,Peek
+2,210,Kitchen Utensils,Everyday,Objects,,Fork,Knife,Spoon,Straw
+0,211,Places to Post,Pop culture,,,Profile,Story,Wall,Page
+1,211,Parts of a Computer,Everyday,Objects,,Hard Drive,Case,Motherboard,Fan
+2,211,Business Casual Clothing,Everyday,Objects,,Tie,Slacks,Sweater,Buttondown
+0,212,Cartoon Cats,Pop culture,TV & Movies,,Garfield,Tigger,Tom,Cheshire
+1,212,Homophones,Linguistic,Homophones,,Sew,Dye,Sow,Die
+2,212,American Movie Directors,Pop culture,TV & Movies,,Scorsese,Lucas,Jonze,Spielberg
+0,213,Meals,Everyday,Food,,Dinner,Breakfast,Brunch,Linner
+1,213,Professions,Everyday,,,Doctor,Engineer,Teacher,Scientist
+2,213,Animals That Dig,Everyday,Animals,,Groundhog,Ant,Dog,Mole
+0,214,Sports,Pop culture,Sports,,Football,Track,Soccer,Polo
+1,214,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Crave,Yearn,Wish
+2,214,American Olympians,Pop culture,Sports,,James,Ledecky,Biles,Phelps
+0,215,Parts of a Computer,Everyday,Objects,,Fan,Hard Drive,Motherboard,Case
+1,215,Kitchen Utensils,Everyday,Objects,,Fork,Knife,Spoon,Straw
+2,215,Boy Band Identifiers,Pop culture,Music,,NSync,Direction,Backstreet,Maroon
+0,216,Historical Documents,Everyday,,,Declaration,Bill,Articles,Constitution
+1,216,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Desire,Crave,Yearn
+2,216,Tools for Drawing,Everyday,Objects,,Pastel,Marker,Pen,Pencil
+0,217,Animals That Dig,Everyday,Animals,,Groundhog,Dog,Mole,Ant
+1,217,American Holidays,Pop culture,,,Patrick,Memorial,Labor,Thanksgiving
+2,217,Tools for Drawing,Everyday,Objects,,Pastel,Marker,Pen,Pencil
+0,218,Ways to Communicate,Everyday,,,Text,Email,Talking,DM
+1,218,Senses,Everyday,Bodily,,Taste,Sight,Smell,Hearing
+2,218,Boy Band Identifiers,Pop culture,Music,,NSync,Maroon,Backstreet,Direction
+0,219,"Words for ""Want""",Linguistic,Slang/Synonyms,,Crave,Desire,Yearn,Wish
+1,219,American Authors,Pop culture,Literature,,Walker,King,Lee,Poe
+2,219,Animals That Dig,Everyday,Animals,,Dog,Mole,Groundhog,Ant
+0,220,Kitchen Utensils,Everyday,Objects,,Spoon,Knife,Fork,Straw
+1,220,Animals That Dig,Everyday,Animals,,Groundhog,Ant,Dog,Mole
+2,220,Senses,Everyday,Bodily,,Taste,Smell,Hearing,Sight
+0,221,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Rock,Pigskin,Ball,Duke
+1,221,"Words for ""Want""",Linguistic,Slang/Synonyms,,Crave,Wish,Desire,Yearn
+2,221,Things That Cause Pain,Everyday,,,Heat,Cold,Electricity,Cut
+0,222,School Subjects,Everyday,,,Math,Science,History,English
+1,222,Meals,Everyday,Food,,Breakfast,Linner,Dinner,Brunch
+2,222,Hot___,Linguistic,Fill in the blank,,Spot,Cake,Dog,El
+0,223,Disney Princesses,Pop culture,TV & Movies,,Tiana,Pocahontas,Jasmine,Rapunzel
+1,223,Boy Band Identifiers,Pop culture,Music,,Backstreet,Maroon,Direction,NSync
+2,223,Forms of Religious Worship,Everyday,Religion,,Song,Meditation,Prayer,Ritual
+0,224,Historical Documents,Everyday,,,Constitution,Declaration,Articles,Bill
+1,224,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Squat,Zip,Zilch
+2,224,Professions,Everyday,,,Engineer,Doctor,Scientist,Teacher
+0,225,___uck,Linguistic,Fill in the blank,,B,Ch,Pl,Str
+1,225,US National Parks,Everyday,World/Nature,,Glacier,Zion,Yosemite,Yellowstone
+2,225,Fairy Tale Figures,Pop culture,Literature,,Hansel,Wolf,Bear,Witch
+0,226,Historical Documents,Everyday,,,Constitution,Bill,Declaration,Articles
+1,226,Forms of Religious Worship,Everyday,Religion,,Ritual,Prayer,Song,Meditation
+2,226,Children's Games,Pop culture,,,Jacks,Gravel,Hopscotch,Tag
+0,227,Dad Rock Bands,Pop culture,Music,,Who,Journey,Queen,Marillion
+1,227,"Words for ""Want""",Linguistic,Slang/Synonyms,,Desire,Yearn,Wish,Crave
+2,227,"Homophones for ""Peak""",Linguistic,Homophones,,Peek,Peke,Pique,Peak
+0,228,American Holidays,Pop culture,,,Labor,Memorial,Patrick,Thanksgiving
+1,228,Types of Phones,Everyday,Objects,,Flip,Smart,Home,Mobile
+2,228,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Gnaw,Nibble,Chomp,Crunch
+0,229,___keeper,Linguistic,Fill in the blank,,Book,Inn,Crypt,Bee
+1,229,Comic Strip Characters,Pop culture,Literature,,Charlie,Odie,Nancy,Calvin
+2,229,Professions,Everyday,,,Scientist,Teacher,Doctor,Engineer
+0,230,Children's Games,Pop culture,,,Hopscotch,Gravel,Jacks,Tag
+1,230,Cartoon Cats,Pop culture,TV & Movies,,Tom,Cheshire,Tigger,Garfield
+2,230,"Words for ""Want""",Linguistic,Slang/Synonyms,,Crave,Yearn,Wish,Desire
+0,231,Meals,Everyday,Food,,Linner,Dinner,Breakfast,Brunch
+1,231,American Authors,Pop culture,Literature,,Walker,King,Poe,Lee
+2,231,Boy Band Identifiers,Pop culture,Music,,Direction,Maroon,NSync,Backstreet
+0,232,Senses,Everyday,Bodily,,Hearing,Taste,Smell,Sight
+1,232,Forms of Religious Worship,Everyday,Religion,,Ritual,Meditation,Song,Prayer
+2,232,___keeper,Linguistic,Fill in the blank,,Inn,Book,Bee,Crypt
+0,233,Tools for Drawing,Everyday,Objects,,Pastel,Pencil,Pen,Marker
+1,233,School Subjects,Everyday,,,Science,English,History,Math
+2,233,Places to Post,Pop culture,,,Profile,Page,Story,Wall
+0,234,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Zilch,Squat,Zip
+1,234,"Meanings for ""Battery""",Linguistic,,,Offense,Emplacement,Set,Power
+2,234,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Nibble,Chomp,Gnaw,Crunch
+0,235,Mountain Ranges,Everyday,World/Nature,,Appalachian,Adirondack,Sierra Nevada,Rocky
+1,235,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Desire,Crave,Yearn
+2,235,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Oopsie,Misstep,Blunder,Error
+0,236,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Sausages,Fingers,Digits,Phalanges
+1,236,Forms of Religious Worship,Everyday,Religion,,Song,Meditation,Ritual,Prayer
+2,236,Disney Princesses,Pop culture,TV & Movies,,Jasmine,Pocahontas,Tiana,Rapunzel
+0,237,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Desire,Crave,Wish
+1,237,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Sausages,Fingers,Digits,Phalanges
+2,237,"Homophones for ""Peak""",Linguistic,Homophones,,Peke,Peak,Peek,Pique
+0,238,Places to Post,Pop culture,,,Page,Story,Wall,Profile
+1,238,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zilch,Squat,Zero,Zip
+2,238,"Meanings for ""Battery""",Linguistic,,,Power,Emplacement,Set,Offense
+0,239,___keeper,Linguistic,Fill in the blank,,Inn,Crypt,Book,Bee
+1,239,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Oopsie,Misstep,Blunder,Error
+2,239,Tools for Drawing,Everyday,Objects,,Pen,Marker,Pencil,Pastel
+0,240,School Subjects,Everyday,,,English,Science,History,Math
+1,240,Senses,Everyday,Bodily,,Hearing,Sight,Smell,Taste
+2,240,American Movie Directors,Pop culture,TV & Movies,,Spielberg,Lucas,Jonze,Scorsese
+0,241,Dad Rock Bands,Pop culture,Music,,Marillion,Journey,Who,Queen
+1,241,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Nibble,Crunch,Gnaw,Chomp
+2,241,___star,Linguistic,Fill in the blank,,Co,Pop,Shooting,Super
+0,242,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Garbage,Rubbish,Junk,Bunk
+1,242,American Authors,Pop culture,Literature,,King,Poe,Walker,Lee
+2,242,US National Parks,Everyday,World/Nature,,Yellowstone,Zion,Yosemite,Glacier
+0,243,Business Casual Clothing,Everyday,Objects,,Sweater,Buttondown,Tie,Slacks
+1,243,Animals That Dig,Everyday,Animals,,Ant,Mole,Dog,Groundhog
+2,243,Parts of a Computer,Everyday,Objects,,Case,Hard Drive,Motherboard,Fan
+0,244,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Oopsie,Blunder,Misstep,Error
+1,244,Professions,Everyday,,,Engineer,Scientist,Doctor,Teacher
+2,244,Hot___,Linguistic,Fill in the blank,,Spot,Dog,Cake,El
+0,245,American Movie Directors,Pop culture,TV & Movies,,Lucas,Jonze,Scorsese,Spielberg
+1,245,Tools for Drawing,Everyday,Objects,,Marker,Pen,Pencil,Pastel
+2,245,___star,Linguistic,Fill in the blank,,Super,Shooting,Pop,Co
+0,246,___star,Linguistic,Fill in the blank,,Shooting,Super,Co,Pop
+1,246,Historical Documents,Everyday,,,Articles,Bill,Declaration,Constitution
+2,246,Mountain Ranges,Everyday,World/Nature,,Rocky,Sierra Nevada,Adirondack,Appalachian
+0,247,Disney Princesses,Pop culture,TV & Movies,,Tiana,Pocahontas,Rapunzel,Jasmine
+1,247,"Meanings for ""Battery""",Linguistic,,,Set,Emplacement,Power,Offense
+2,247,School Subjects,Everyday,,,Math,English,History,Science
+0,248,Tools for Drawing,Everyday,Objects,,Marker,Pastel,Pencil,Pen
+1,248,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Delectable,Appetizing,Delicious,Yummy
+2,248,Professions,Everyday,,,Scientist,Teacher,Doctor,Engineer
+0,249,Senses,Everyday,Bodily,,Taste,Hearing,Smell,Sight
+1,249,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Crave,Wish,Desire
+2,249,American Authors,Pop culture,Literature,,King,Walker,Lee,Poe
+0,250,Boy Band Identifiers,Pop culture,Music,,Direction,Backstreet,Maroon,NSync
+1,250,Senses,Everyday,Bodily,,Smell,Taste,Sight,Hearing
+2,250,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Junk,Garbage,Rubbish,Bunk
+0,251,Animals That Dig,Everyday,Animals,,Dog,Mole,Groundhog,Ant
+1,251,US National Parks,Everyday,World/Nature,,Yosemite,Glacier,Zion,Yellowstone
+2,251,Business Casual Clothing,Everyday,Objects,,Tie,Sweater,Slacks,Buttondown
+0,252,Professions,Everyday,,,Teacher,Engineer,Doctor,Scientist
+1,252,Historical Documents,Everyday,,,Constitution,Bill,Declaration,Articles
+2,252,American Holidays,Pop culture,,,Patrick,Labor,Memorial,Thanksgiving
+0,253,"Meanings for ""Battery""",Linguistic,,,Power,Emplacement,Set,Offense
+1,253,US National Parks,Everyday,World/Nature,,Glacier,Yosemite,Yellowstone,Zion
+2,253,Historical Documents,Everyday,,,Constitution,Articles,Bill,Declaration
+0,254,American Olympians,Pop culture,Sports,,Ledecky,Phelps,James,Biles
+1,254,Senses,Everyday,Bodily,,Sight,Taste,Smell,Hearing
+2,254,Professions,Everyday,,,Doctor,Scientist,Engineer,Teacher
+0,255,"Words for ""Want""",Linguistic,Slang/Synonyms,,Yearn,Desire,Crave,Wish
+1,255,Mountain Ranges,Everyday,World/Nature,,Appalachian,Rocky,Sierra Nevada,Adirondack
+2,255,Kitchen Utensils,Everyday,Objects,,Spoon,Fork,Straw,Knife
+0,256,Desserts,Everyday,Food,,Ice Cream,Cake,Pudding,Crumble
+1,256,Forms of Religious Worship,Everyday,Religion,,Prayer,Ritual,Song,Meditation
+2,256,US National Parks,Everyday,World/Nature,,Yellowstone,Glacier,Yosemite,Zion
+0,257,Professions,Everyday,,,Scientist,Doctor,Teacher,Engineer
+1,257,Historical Documents,Everyday,,,Constitution,Articles,Declaration,Bill
+2,257,Types of Phones,Everyday,Objects,,Smart,Flip,Home,Mobile
+0,258,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zilch,Zero,Squat,Zip
+1,258,School Subjects,Everyday,,,Math,English,Science,History
+2,258,Animals That Dig,Everyday,Animals,,Groundhog,Mole,Ant,Dog
+0,259,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Desire,Yearn,Crave
+1,259,American Authors,Pop culture,Literature,,Walker,Poe,King,Lee
+2,259,Cartoon Cats,Pop culture,TV & Movies,,Tom,Cheshire,Garfield,Tigger
+0,260,American Movie Directors,Pop culture,TV & Movies,,Scorsese,Spielberg,Jonze,Lucas
+1,260,"Slang for ""Football""",Linguistic,Slang/Synonyms,,Rock,Pigskin,Duke,Ball
+2,260,Places to Post,Pop culture,,,Story,Page,Wall,Profile
+0,261,Hot___,Linguistic,Fill in the blank,,El,Dog,Cake,Spot
+1,261,Ways to Communicate,Everyday,,,Email,DM,Text,Talking
+2,261,Movie Heartthrobs,Pop culture,TV & Movies,,DiCaprio,Clooney,Cavill,Gosling
+0,262,Business Casual Clothing,Everyday,Objects,,Sweater,Tie,Slacks,Buttondown
+1,262,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Gnaw,Crunch,Nibble,Chomp
+2,262,Sports,Pop culture,Sports,,Football,Track,Polo,Soccer
+0,263,Desserts,Everyday,Food,,Cake,Pudding,Ice Cream,Crumble
+1,263,___keeper,Linguistic,Fill in the blank,,Book,Inn,Bee,Crypt
+2,263,Comic Strip Characters,Pop culture,Literature,,Charlie,Nancy,Calvin,Odie
+0,264,Business Casual Clothing,Everyday,Objects,,Slacks,Tie,Sweater,Buttondown
+1,264,Forms of Religious Worship,Everyday,Religion,,Song,Meditation,Prayer,Ritual
+2,264,Boy Band Identifiers,Pop culture,Music,,Maroon,Direction,Backstreet,NSync
+0,265,Senses,Everyday,Bodily,,Taste,Smell,Hearing,Sight
+1,265,Forms of Religious Worship,Everyday,Religion,,Meditation,Prayer,Song,Ritual
+2,265,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Nibble,Gnaw,Chomp,Crunch
+0,266,Mountain Ranges,Everyday,World/Nature,,Adirondack,Appalachian,Rocky,Sierra Nevada
+1,266,"Meanings for ""Battery""",Linguistic,,,Power,Emplacement,Set,Offense
+2,266,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Zilch,Squat,Zip
+0,267,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Blunder,Misstep,Error,Oopsie
+1,267,"Homophones for ""Peak""",Linguistic,Homophones,,Peke,Peek,Pique,Peak
+2,267,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zip,Squat,Zilch,Zero
+0,268,Places to Post,Pop culture,,,Profile,Page,Wall,Story
+1,268,Dad Rock Bands,Pop culture,Music,,Journey,Who,Queen,Marillion
+2,268,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Chomp,Crunch,Gnaw,Nibble
+0,269,Fairy Tale Figures,Pop culture,Literature,,Witch,Wolf,Bear,Hansel
+1,269,TV Comedies,Pop culture,TV & Movies,,Seinfeld,Friends,Frasier,Cheers
+2,269,___keeper,Linguistic,Fill in the blank,,Book,Inn,Crypt,Bee
+0,270,Senses,Everyday,Bodily,,Sight,Taste,Hearing,Smell
+1,270,Movie Heartthrobs,Pop culture,TV & Movies,,Gosling,Cavill,Clooney,DiCaprio
+2,270,American Olympians,Pop culture,Sports,,Biles,James,Ledecky,Phelps
+0,271,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Phalanges,Fingers,Sausages,Digits
+1,271,Senses,Everyday,Bodily,,Sight,Taste,Smell,Hearing
+2,271,Dad Rock Bands,Pop culture,Music,,Queen,Journey,Marillion,Who
+0,272,Sports,Pop culture,Sports,,Track,Football,Polo,Soccer
+1,272,Historical Documents,Everyday,,,Bill,Declaration,Articles,Constitution
+2,272,"Meanings for ""Battery""",Linguistic,,,Power,Offense,Emplacement,Set
+0,273,"Meanings for ""Battery""",Linguistic,,,Emplacement,Offense,Power,Set
+1,273,American Olympians,Pop culture,Sports,,James,Phelps,Biles,Ledecky
+2,273,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Rubbish,Bunk,Junk,Garbage
+0,274,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Digits,Sausages,Phalanges
+1,274,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Misstep,Blunder,Error,Oopsie
+2,274,___star,Linguistic,Fill in the blank,,Super,Co,Pop,Shooting
+0,275,Fairy Tale Figures,Pop culture,Literature,,Bear,Wolf,Hansel,Witch
+1,275,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Digits,Sausages,Phalanges
+2,275,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Chomp,Crunch,Nibble,Gnaw
+0,276,Business Casual Clothing,Everyday,Objects,,Tie,Sweater,Buttondown,Slacks
+1,276,US National Parks,Everyday,World/Nature,,Zion,Yosemite,Yellowstone,Glacier
+2,276,American Olympians,Pop culture,Sports,,Biles,Phelps,Ledecky,James
+0,277,___star,Linguistic,Fill in the blank,,Shooting,Pop,Super,Co
+1,277,American Movie Directors,Pop culture,TV & Movies,,Lucas,Scorsese,Jonze,Spielberg
+2,277,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Bunk,Garbage,Rubbish,Junk
+0,278,Movie Heartthrobs,Pop culture,TV & Movies,,Gosling,Clooney,Cavill,DiCaprio
+1,278,US National Parks,Everyday,World/Nature,,Zion,Yellowstone,Yosemite,Glacier
+2,278,Mountain Ranges,Everyday,World/Nature,,Sierra Nevada,Appalachian,Adirondack,Rocky
+0,279,American Holidays,Pop culture,,,Thanksgiving,Patrick,Labor,Memorial
+1,279,School Subjects,Everyday,,,Math,English,History,Science
+2,279,___star,Linguistic,Fill in the blank,,Shooting,Co,Super,Pop
+0,280,"Homophones for ""Peak""",Linguistic,Homophones,,Pique,Peak,Peke,Peek
+1,280,___star,Linguistic,Fill in the blank,,Shooting,Co,Pop,Super
+2,280,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Bunk,Junk,Rubbish,Garbage
+0,281,American Movie Directors,Pop culture,TV & Movies,,Lucas,Jonze,Scorsese,Spielberg
+1,281,Senses,Everyday,Bodily,,Smell,Sight,Hearing,Taste
+2,281,American Holidays,Pop culture,,,Patrick,Thanksgiving,Memorial,Labor
+0,282,American Authors,Pop culture,Literature,,Poe,King,Walker,Lee
+1,282,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Garbage,Bunk,Rubbish,Junk
+2,282,Professions,Everyday,,,Doctor,Teacher,Scientist,Engineer
+0,283,Cartoon Cats,Pop culture,TV & Movies,,Garfield,Tigger,Tom,Cheshire
+1,283,Senses,Everyday,Bodily,,Hearing,Sight,Taste,Smell
+2,283,"Slang for ""Bite""",Linguistic,Slang/Synonyms,,Nibble,Chomp,Crunch,Gnaw
+0,284,___star,Linguistic,Fill in the blank,,Co,Super,Pop,Shooting
+1,284,Homophones,Linguistic,Homophones,,Sew,Sow,Dye,Die
+2,284,"Homophones for ""Peak""",Linguistic,Homophones,,Peke,Peak,Peek,Pique
+0,285,American Authors,Pop culture,Literature,,Walker,Poe,King,Lee
+1,285,"Words for ""Trash""",Linguistic,Slang/Synonyms,,Rubbish,Junk,Garbage,Bunk
+2,285,Boy Band Identifiers,Pop culture,Music,,Maroon,Direction,NSync,Backstreet
+0,286,Sports,Pop culture,Sports,,Track,Football,Soccer,Polo
+1,286,Movie Heartthrobs,Pop culture,TV & Movies,,Clooney,Cavill,Gosling,DiCaprio
+2,286,Animals That Dig,Everyday,Animals,,Mole,Ant,Groundhog,Dog
+0,287,Meals,Everyday,Food,,Linner,Brunch,Breakfast,Dinner
+1,287,Historical Documents,Everyday,,,Articles,Declaration,Bill,Constitution
+2,287,Disney Princesses,Pop culture,TV & Movies,,Rapunzel,Tiana,Pocahontas,Jasmine
+0,288,"Homophones for ""Peak""",Linguistic,Homophones,,Peak,Peke,Peek,Pique
+1,288,Professions,Everyday,,,Teacher,Engineer,Doctor,Scientist
+2,288,Business Casual Clothing,Everyday,Objects,,Slacks,Tie,Sweater,Buttondown
+0,289,Children's Games,Pop culture,,,Tag,Jacks,Hopscotch,Gravel
+1,289,Ways to Communicate,Everyday,,,Talking,DM,Text,Email
+2,289,Desserts,Everyday,Food,,Ice Cream,Pudding,Cake,Crumble
+0,290,School Subjects,Everyday,,,English,Science,History,Math
+1,290,Animals That Dig,Everyday,Animals,,Groundhog,Dog,Mole,Ant
+2,290,___star,Linguistic,Fill in the blank,,Shooting,Pop,Super,Co
+0,291,Things That Cause Pain,Everyday,,,Electricity,Heat,Cut,Cold
+1,291,Desserts,Everyday,Food,,Ice Cream,Cake,Crumble,Pudding
+2,291,Mountain Ranges,Everyday,World/Nature,,Rocky,Sierra Nevada,Appalachian,Adirondack
+0,292,Places to Post,Pop culture,,,Page,Profile,Wall,Story
+1,292,Historical Documents,Everyday,,,Articles,Bill,Declaration,Constitution
+2,292,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zip,Zero,Zilch,Squat
+0,293,American Movie Directors,Pop culture,TV & Movies,,Spielberg,Scorsese,Lucas,Jonze
+1,293,Kitchen Utensils,Everyday,Objects,,Straw,Spoon,Fork,Knife
+2,293,Meals,Everyday,Food,,Linner,Brunch,Dinner,Breakfast
+0,294,___keeper,Linguistic,Fill in the blank,,Book,Crypt,Inn,Bee
+1,294,"Slang for ""Nothing""",Linguistic,Slang/Synonyms,,Zero,Squat,Zilch,Zip
+2,294,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Fingers,Digits,Phalanges,Sausages
+0,295,American Olympians,Pop culture,Sports,,Biles,Phelps,James,Ledecky
+1,295,Disney Princesses,Pop culture,TV & Movies,,Tiana,Jasmine,Pocahontas,Rapunzel
+2,295,Boy Band Identifiers,Pop culture,Music,,Direction,Maroon,Backstreet,NSync
+0,296,"Meanings for ""Battery""",Linguistic,,,Emplacement,Offense,Set,Power
+1,296,"Homophones for ""Peak""",Linguistic,Homophones,,Peak,Pique,Peke,Peek
+2,296,"Words for ""Want""",Linguistic,Slang/Synonyms,,Wish,Desire,Crave,Yearn
+0,297,Ways to Communicate,Everyday,,,Talking,DM,Email,Text
+1,297,Places to Post,Pop culture,,,Page,Profile,Wall,Story
+2,297,Parts of a Computer,Everyday,Objects,,Case,Motherboard,Fan,Hard Drive
+0,298,"Slang for ""Fingers""",Linguistic,Slang/Synonyms,,Sausages,Fingers,Phalanges,Digits
+1,298,"Words for ""Tasty""",Linguistic,Slang/Synonyms,,Appetizing,Delicious,Yummy,Delectable
+2,298,Forms of Religious Worship,Everyday,Religion,,Ritual,Prayer,Meditation,Song
+0,299,"Words for ""Mistake""",Linguistic,Slang/Synonyms,,Error,Oopsie,Misstep,Blunder
+1,299,Professions,Everyday,,,Scientist,Engineer,Doctor,Teacher
+2,299,Mountain Ranges,Everyday,World/Nature,,Appalachian,Adirondack,Sierra Nevada,Rocky

@@ -1,0 +1,901 @@
+,Game #,True Topic,Tag 1,Tag 2,Tag 3,Word 1,Word 2
+0,0,Colors,0,,,Yellow,Green
+1,0,Math Operations,0,,,Multiplication,Division
+2,0,Animals,0,,,Dog,Mouse
+0,1,Famous Arab Singers,1,,,Kulthum,Hafez
+1,1,Conversational Numbers,0,,,Thousand,Hundred
+2,1,Things That Go On Feet,0,,,Sandal,Shoes
+0,2,Slang for Cool/Awesome,1,,,Awesome,Greatness
+1,2,Math Operations,0,,,Multiplication,Division
+2,2,Words with Double Meanings,1,,,Eye,Key
+0,3,Colors,0,,,Red,Green
+1,3,States of Matter,0,,,Solid,Gas
+2,3,Conversational Numbers,0,,,A forth,Hundred
+0,4,Things You Shouldnt Touch,0,,,Poop,Fire
+1,4,Things That Go On Feet,0,,,Sock,Sneaker
+2,4,Sports,0,,,Handball,Football
+0,5,Tourist Attractions,1,,,Karnak,Pyramids
+1,5,Modes of Transportation,0,,,Car,Subway
+2,5,Times of Day,0,,,Evening,Early Morning
+0,6,Slang for Bite,1,,,Peck,Mouthful
+1,6,Slang for Nothing,1,,,I don't have any,Nothing
+2,6,Modes of Transportation,0,,,Taxi,Bus
+0,7,Comedians,1,,,Helmy,Emam
+1,7,Famous Arab Singers,1,,,Fairuz,Hafez
+2,7,Shapes,0,,,Circle,Pentagon
+0,8,Slang for Smart/Clever,1,,,Shrewd,His brain is working
+1,8,Vacation Destinations,1,,,Siwa,Dahab
+2,8,Comedians,1,,,Emam,Helmy
+0,9,Holidays,1,,,Eid,Sinai Liberation
+1,9,Slang for Bite,1,,,Chomp,Peck
+2,9,Phrases that Mean Quickly,0,,,Now,Immediately
+0,10,Famous Arab Singers,1,,,Fairuz,Warda
+1,10,Things You Shouldnt Touch,0,,,Fire,Knife
+2,10,Slang for Smart/Clever,1,,,Shrewd,His brain is working
+0,11,Things You Shouldnt Touch,0,,,Knife,Electrical wire
+1,11,Utilities,0,,,Gas,Water
+2,11,Slang for Nothing,1,,,Empty,Nothing
+0,12,Slang for Nothing,1,,,Empty,There is no
+1,12,Famous Cartoons,1,,,Sesame Street,Bakkar
+2,12,Phrases that Mean Quickly,0,,,Immediately,Quickly
+0,13,Math Operations,0,,,Multiplication,Addition
+1,13,Things That Spin,0,,,Yo-yo,Fan
+2,13,Childhood Games,1,,,Seven Bricks,Hide and Seek
+0,14,Slang for Football,1,,,Match,Football
+1,14,Words that Rhyme with بيت,0,,,Where,Reputation
+2,14,Things That Go On Feet,0,,,Sneaker,Sandal
+0,15,Traditional Food,1,,,Koshary,Falafel
+1,15,Words with Double Meanings,1,,,Paper,Key
+2,15,Slang for Cool/Awesome,1,,,Greatness,Awesome
+0,16,Words that Rhyme with بيت,0,,,Oil,Where
+1,16,Things You Shouldnt Touch,0,,,Fire,Electrical wire
+2,16,Utilities,0,,,Water,Gas
+0,17,Iconic Egyptian TV Shows,1,,,Wannis's Diaries,Tales of a Modern Husband
+1,17,Things With a Lock ,0,,,Door,Bag
+2,17,Sports,0,,,Tennis,Handball
+0,18,Words with Double Meanings,1,,,Root,Key
+1,18,Shapes,0,,,Circle,Pentagon
+2,18,Conversational Numbers,0,,,A half,Hundred
+0,19,Slang for Cool/Awesome,1,,,Awesome,The last sweetness
+1,19,Things You Shouldnt Touch,0,,,Fire,Poop
+2,19,Units of Time,0,,,Minute,Hour
+0,20,Types of Show,0,,,Film,Series
+1,20,Childhood Games,1,,,Rock Paper Scissors,Hide and Seek
+2,20,Famous Cartoons,1,,,Sesame Street,Captain Majid
+0,21,Words with Double Meanings,1,,,Eye,Key
+1,21,Childhood Games,1,,,Hide and Seek,Soldiers and thieves
+2,21,Arabic Authors,1,,,Darwish,Hussein
+0,22,Utilities,0,,,Electricity,Gas
+1,22,Things That Go On Feet,0,,,Shoes,Sock
+2,22,Music Genres,1,,,Pop,Mawwal
+0,23,Famous Cartoons,1,,,Sesame Street,Captain Majid
+1,23,Iconic Egyptian TV Shows,1,,,Wannis's Diaries,I will not live in my father's cloak
+2,23,Animals,0,,,Dog,Mouse
+0,24,Words for Friend,0,,,Boyfriend,Peer
+1,24,Words with Double Meanings,1,,,Root,Eye
+2,24,Types of Show,0,,,Television,Series
+0,25,Phrases that Mean Quickly,0,,,Immediately,Instantly
+1,25,Things That Go On Feet,0,,,Shoes,Sock
+2,25,Famous Arab Singers,1,,,Warda,Hafez
+0,26,Vacation Destinations,1,,,Sharm El Sheikh,El Gouna
+1,26,Conversational Numbers,0,,,Hundred,Thousand
+2,26,Famous Cartoons,1,,,Bakkar,Sesame Street
+0,27,Arab Football Clubs,1,,,Zamalek,Al Ahly
+1,27,Phrases that Mean Quickly,0,,,Immediately,Quickly
+2,27,Math Operations,0,,,Addition,Division
+0,28,Sports,0,,,Basketball,Football
+1,28,Things You Shouldnt Touch,0,,,Poop,Knife
+2,28,Vacation Destinations,1,,,Sharm El Sheikh,Siwa
+0,29,Famous Cartoons,1,,,Sesame Street,Bakkar
+1,29,Units of Time,0,,,Hour,Month
+2,29,Slang for Smart/Clever,1,,,His brain is working,Clever
+0,30,Arabic Authors,1,,,al-Hakim,Hussein
+1,30,Types of Show,0,,,Television,Film
+2,30,Vacation Destinations,1,,,Sharm El Sheikh,El Gouna
+0,31,Famous Arab Singers,1,,,Warda,Fairuz
+1,31,Words with Double Meanings,1,,,Eye,Paper
+2,31,Colors,0,,,White,Green
+0,32,Famous Cartoons,1,,,Sesame Street,Boogie and Tamtam
+1,32,Iconic Egyptian TV Shows,1,,,A man and six women,Tales of a Modern Husband
+2,32,Modes of Transportation,0,,,Bus,Car
+0,33,States of Matter,0,,,Liquid,Plasma
+1,33,Math Operations,0,,,Division,Multiplication
+2,33,Movie Heartthrobs,1,,,Hosny,Abdel Aziz
+0,34,Things Found in the Sky,0,,,Moon,Cloud
+1,34,Arabic Authors,1,,,al-Hakim,Mahfouz
+2,34,Units of Time,0,,,Minute,Month
+0,35,Holidays,1,,,Sinai Liberation,Sham El Nessim
+1,35,Animals,0,,,Pigeon,Mouse
+2,35,Modes of Transportation,0,,,Taxi,Car
+0,36,Animals,0,,,Dog,Mouse
+1,36,Holidays,1,,,Christmas,Sham El Nessim
+2,36,Movie Heartthrobs,1,,,Karara,Abdel Aziz
+0,37,States of Matter,0,,,Gas,Plasma
+1,37,Traditional Food,1,,,Mulukhiyah,Falafel
+2,37,Phrases that Mean Quickly,0,,,Now,Quickly
+0,38,Math Operations,0,,,Multiplication,Subtraction
+1,38,Times of Day,0,,,Early Morning,Morning
+2,38,States of Matter,0,,,Solid,Gas
+0,39,Things With a Lock ,0,,,Safe,Bag
+1,39,Childhood Games,1,,,Hide and Seek,Seven Bricks
+2,39,Times of Day,0,,,Morning,Night
+0,40,Words that Rhyme with بيت,0,,,Oil,Where
+1,40,Sports,0,,,Handball,Football
+2,40,Colors,0,,,Green,White
+0,41,Things Found in the Sky,0,,,Bird,Cloud
+1,41,Words Related to Size,0,,,Slim,Fat
+2,41,Units of Time,0,,,Minute,Month
+0,42,Holidays,1,,,Sinai Liberation,Christmas
+1,42,Vacation Destinations,1,,,El Gouna,Siwa
+2,42,Units of Time,0,,,Day,Minute
+0,43,Conversational Numbers,0,,,A forth,Hundred
+1,43,Arabic Authors,1,,,Mahfouz,al-Hakim
+2,43,Times of Day,0,,,Early Morning,Evening
+0,44,Famous Cartoons,1,,,Sesame Street,Boogie and Tamtam
+1,44,Music Genres,1,,,Rap,Techno
+2,44,Traditional Food,1,,,Koshary,Falafel
+0,45,Types of Show,0,,,Theater,Television
+1,45,Units of Time,0,,,Hour,Month
+2,45,Slang for Nothing,1,,,There is no,Empty
+0,46,Things That Spin,0,,,Yo-yo,Wheel
+1,46,Vacation Destinations,1,,,El Gouna,Siwa
+2,46,Iconic Egyptian TV Shows,1,,,Tales of a Modern Husband,Wannis's Diaries
+0,47,Tourist Attractions,1,,,Valley of the Kings,Pyramids
+1,47,Vacation Destinations,1,,,Dahab,Siwa
+2,47,Comedians,1,,,Emam,Helmy
+0,48,Slang for Cool/Awesome,1,,,Solid,Awesome
+1,48,Units of Time,0,,,Day,Hour
+2,48,Vacation Destinations,1,,,Siwa,El Gouna
+0,49,Types of Show,0,,,Television,Film
+1,49,Words Related to Size,0,,,Small,Slim
+2,49,Movie Heartthrobs,1,,,Ezz,Hosny
+0,50,Slang for Football,1,,,Ball,Soccer
+1,50,Animals,0,,,Dog,Cat
+2,50,Math Operations,0,,,Multiplication,Addition
+0,51,States of Matter,0,,,Plasma,Solid
+1,51,Famous Arab Singers,1,,,Hafez,Warda
+2,51,Movie Heartthrobs,1,,,Karara,Ezz
+0,52,Movie Heartthrobs,1,,,Karara,Hosny
+1,52,Units of Time,0,,,Month,Hour
+2,52,Conversational Numbers,0,,,A half,A forth
+0,53,States of Matter,0,,,Liquid,Plasma
+1,53,Utilities,0,,,Gas,Internet
+2,53,Slang for Bite,1,,,Chomp,Bite
+0,54,Holidays,1,,,Sham El Nessim,Eid
+1,54,Things With a Lock ,0,,,Bag,Safe
+2,54,Units of Time,0,,,Month,Hour
+0,55,Sports,0,,,Basketball,Handball
+1,55,Words for Friend,0,,,Friend,Boyfriend
+2,55,Holidays,1,,,Eid,Sham El Nessim
+0,56,Things Found in the Sky,0,,,Airplane,Moon
+1,56,Things That Spin,0,,,Yo-yo,Washing Machine
+2,56,Traditional Food,1,,,Koshary,Macaroni with Bechamel
+0,57,Slang for Bite,1,,,Peck,Bite
+1,57,Conversational Numbers,0,,,A half,Hundred
+2,57,Sports,0,,,Tennis,Basketball
+0,58,Slang for Football,1,,,Match,Soccer
+1,58,Arabic Authors,1,,,al-Hakim,Mahfouz
+2,58,Things You Shouldnt Touch,0,,,Electrical wire,Poop
+0,59,Famous Cartoons,1,,,Sesame Street,Captain Majid
+1,59,Iconic Egyptian TV Shows,1,,,A man and six women,I will not live in my father's cloak
+2,59,Movie Heartthrobs,1,,,Karara,Ezz
+0,60,Words for Friend,0,,,Friend,Companion
+1,60,Sports,0,,,Basketball,Football
+2,60,Things That Spin,0,,,Wheel,Yo-yo
+0,61,Things You Shouldnt Touch,0,,,Fire,Poop
+1,61,Conversational Numbers,0,,,Hundred,Thousand
+2,61,Sports,0,,,Football,Handball
+0,62,Slang for Cool/Awesome,1,,,Solid,Awesome
+1,62,Conversational Numbers,0,,,Hundred,A forth
+2,62,Colors,0,,,Red,Green
+0,63,Units of Time,0,,,Day,Hour
+1,63,Words Related to Size,0,,,Slim,Fat
+2,63,Things Found in the Sky,0,,,Moon,Airplane
+0,64,Traditional Food,1,,,Falafel,Koshary
+1,64,Arabic Authors,1,,,Hussein,Mahfouz
+2,64,Famous Cartoons,1,,,Sesame Street,Bakkar
+0,65,Arabic Authors,1,,,Mahfouz,al-Hakim
+1,65,Famous Arab Singers,1,,,Hafez,Fairuz
+2,65,Holidays,1,,,Christmas,Sinai Liberation
+0,66,Famous Cartoons,1,,,Boogie and Tamtam,Captain Majid
+1,66,Arabic Authors,1,,,al-Hakim,Darwish
+2,66,Arab Football Clubs,1,,,Zamalek,Al-Nassr
+0,67,Units of Time,0,,,Month,Minute
+1,67,Arab Football Clubs,1,,,Al Ahly,Al-Hilal
+2,67,Slang for Cool/Awesome,1,,,Greatness,Solid
+0,68,Words for Friend,0,,,Peer,Boyfriend
+1,68,Animals,0,,,Cat,Mouse
+2,68,Sports,0,,,Tennis,Handball
+0,69,Iconic Egyptian TV Shows,1,,,Wannis's Diaries,I will not live in my father's cloak
+1,69,Arab Football Clubs,1,,,Al Ahly,Al-Nassr
+2,69,States of Matter,0,,,Solid,Gas
+0,70,Things Found in the Sky,0,,,Airplane,Cloud
+1,70,Animals,0,,,Dog,Cat
+2,70,Comedians,1,,,Emam,Henedi
+0,71,Slang for Smart/Clever,1,,,Clever,His brain is working
+1,71,Slang for Cool/Awesome,1,,,Greatness,Solid
+2,71,Phrases that Mean Quickly,0,,,Now,Quickly
+0,72,Shapes,0,,,Circle,Pentagon
+1,72,Types of Show,0,,,Theater,Series
+2,72,Vacation Destinations,1,,,Dahab,Siwa
+0,73,Slang for Football,1,,,Match,Soccer
+1,73,Slang for Bite,1,,,Bite,Mouthful
+2,73,Slang for Cool/Awesome,1,,,Solid,The last sweetness
+0,74,Modes of Transportation,0,,,Taxi,Subway
+1,74,Phrases that Mean Quickly,0,,,Instantly,Now
+2,74,Words for Friend,0,,,Companion,Friend
+0,75,Things Found in the Sky,0,,,Cloud,Bird
+1,75,Times of Day,0,,,Morning,Evening
+2,75,Shapes,0,,,Circle,Pentagon
+0,76,Vacation Destinations,1,,,Sharm El Sheikh,Dahab
+1,76,Tourist Attractions,1,,,Pyramids,Valley of the Kings
+2,76,Words Related to Size,0,,,Slim,Small
+0,77,Colors,0,,,Red,Yellow
+1,77,Arab Football Clubs,1,,,Al-Nassr,Al-Hilal
+2,77,Slang for Cool/Awesome,1,,,Greatness,Awesome
+0,78,Words that Rhyme with بيت,0,,,Jet,Oil
+1,78,Phrases that Mean Quickly,0,,,Quickly,Now
+2,78,Tourist Attractions,1,,,Valley of the Kings,Pyramids
+0,79,Times of Day,0,,,Morning,Evening
+1,79,Childhood Games,1,,,Soldiers and thieves,Rock Paper Scissors
+2,79,Animals,0,,,Mouse,Dog
+0,80,Movie Heartthrobs,1,,,Abdel Aziz,Hosny
+1,80,Shapes,0,,,Circle,Pentagon
+2,80,Things Found in the Sky,0,,,Cloud,Bird
+0,81,Units of Time,0,,,Day,Minute
+1,81,Things Found in the Sky,0,,,Moon,Bird
+2,81,Slang for Nothing,1,,,Empty,I don't have any
+0,82,Things You Shouldnt Touch,0,,,Poop,Knife
+1,82,Words with Double Meanings,1,,,Eye,Root
+2,82,Words Related to Size,0,,,Slim,Big
+0,83,Words for Friend,0,,,Boyfriend,Friend
+1,83,Colors,0,,,Yellow,Red
+2,83,Slang for Smart/Clever,1,,,Shrewd,Open
+0,84,Famous Cartoons,1,,,Sesame Street,Captain Majid
+1,84,Words for Friend,0,,,Friend,Companion
+2,84,Slang for Bite,1,,,Peck,Chomp
+0,85,Phrases that Mean Quickly,0,,,Quickly,Now
+1,85,Holidays,1,,,Sinai Liberation,Eid
+2,85,Modes of Transportation,0,,,Subway,Taxi
+0,86,Types of Show,0,,,Series,Television
+1,86,Famous Cartoons,1,,,Sesame Street,Boogie and Tamtam
+2,86,Things With a Lock ,0,,,Safe,Bag
+0,87,Holidays,1,,,Sinai Liberation,Eid
+1,87,Modes of Transportation,0,,,Bus,Taxi
+2,87,Animals,0,,,Pigeon,Cat
+0,88,Traditional Food,1,,,Macaroni with Bechamel,Falafel
+1,88,Arab Football Clubs,1,,,Al-Hilal,Al Ahly
+2,88,Famous Arab Singers,1,,,Fairuz,Kulthum
+0,89,Famous Cartoons,1,,,Boogie and Tamtam,Captain Majid
+1,89,Units of Time,0,,,Minute,Day
+2,89,Slang for Football,1,,,Football,Match
+0,90,Arabic Authors,1,,,Darwish,Hussein
+1,90,Things That Spin,0,,,Fan,Wheel
+2,90,Movie Heartthrobs,1,,,Ezz,Abdel Aziz
+0,91,Animals,0,,,Cat,Pigeon
+1,91,Utilities,0,,,Electricity,Gas
+2,91,Colors,0,,,Red,White
+0,92,Slang for Bite,1,,,Mouthful,Chomp
+1,92,Slang for Cool/Awesome,1,,,The last sweetness,Awesome
+2,92,Things That Go On Feet,0,,,Sock,Sneaker
+0,93,Modes of Transportation,0,,,Bus,Taxi
+1,93,Comedians,1,,,Henedi,Emam
+2,93,Things That Spin,0,,,Yo-yo,Washing Machine
+0,94,Arabic Authors,1,,,Hussein,Darwish
+1,94,Sports,0,,,Tennis,Handball
+2,94,Units of Time,0,,,Minute,Hour
+0,95,Things Found in the Sky,0,,,Airplane,Moon
+1,95,Iconic Egyptian TV Shows,1,,,A man and six women,I will not live in my father's cloak
+2,95,Things With a Lock ,0,,,Bag,Drawer
+0,96,Things Found in the Sky,0,,,Airplane,Bird
+1,96,Arabic Authors,1,,,Hussein,Mahfouz
+2,96,Slang for Cool/Awesome,1,,,Solid,The last sweetness
+0,97,Things That Spin,0,,,Yo-yo,Wheel
+1,97,Childhood Games,1,,,Rock Paper Scissors,Soldiers and thieves
+2,97,Things You Shouldnt Touch,0,,,Knife,Poop
+0,98,Iconic Egyptian TV Shows,1,,,A man and six women,I will not live in my father's cloak
+1,98,Words that Rhyme with بيت,0,,,Oil,Where
+2,98,Words Related to Size,0,,,Small,Big
+0,99,Traditional Food,1,,,Koshary,Falafel
+1,99,Childhood Games,1,,,Seven Bricks,Soldiers and thieves
+2,99,Sports,0,,,Handball,Tennis
+0,100,Things Found in the Sky,0,,,Moon,Bird
+1,100,Things With a Lock ,0,,,Safe,Bag
+2,100,Math Operations,0,,,Subtraction,Division
+0,101,Words Related to Size,0,,,Fat,Small
+1,101,Slang for Bite,1,,,Mouthful,Chomp
+2,101,Slang for Cool/Awesome,1,,,Awesome,The last sweetness
+0,102,Words for Friend,0,,,Companion,Boyfriend
+1,102,Words that Rhyme with بيت,0,,,Oil,Where
+2,102,Units of Time,0,,,Minute,Month
+0,103,Things You Shouldnt Touch,0,,,Fire,Poop
+1,103,Math Operations,0,,,Addition,Multiplication
+2,103,Words that Rhyme with بيت,0,,,Reputation,Where
+0,104,Slang for Nothing,1,,,I don't have any,Nothing
+1,104,Animals,0,,,Dog,Cat
+2,104,Things With a Lock ,0,,,Safe,Bag
+0,105,Arabic Authors,1,,,Darwish,Mahfouz
+1,105,Comedians,1,,,Henedi,Yassine
+2,105,Words for Friend,0,,,Peer,Friend
+0,106,Holidays,1,,,Sinai Liberation,Eid
+1,106,Famous Cartoons,1,,,Sesame Street,Bakkar
+2,106,Movie Heartthrobs,1,,,Ezz,Hosny
+0,107,Childhood Games,1,,,Hide and Seek,Soldiers and thieves
+1,107,Sports,0,,,Handball,Tennis
+2,107,Iconic Egyptian TV Shows,1,,,A man and six women,Wannis's Diaries
+0,108,Music Genres,1,,,Techno,Rap
+1,108,Movie Heartthrobs,1,,,Karara,Ezz
+2,108,Things Found in the Sky,0,,,Airplane,Bird
+0,109,Sports,0,,,Handball,Basketball
+1,109,Arab Football Clubs,1,,,Al Ahly,Zamalek
+2,109,Animals,0,,,Cat,Dog
+0,110,Things Found in the Sky,0,,,Moon,Airplane
+1,110,Times of Day,0,,,Night,Evening
+2,110,Types of Show,0,,,Film,Theater
+0,111,Words for Friend,0,,,Friend,Companion
+1,111,Arab Football Clubs,1,,,Zamalek,Al-Hilal
+2,111,Times of Day,0,,,Night,Evening
+0,112,Slang for Nothing,1,,,I don't have any,Empty
+1,112,Types of Show,0,,,Series,Theater
+2,112,Things You Shouldnt Touch,0,,,Poop,Electrical wire
+0,113,Modes of Transportation,0,,,Car,Subway
+1,113,Things With a Lock ,0,,,Door,Drawer
+2,113,Math Operations,0,,,Multiplication,Division
+0,114,Vacation Destinations,1,,,Sharm El Sheikh,Siwa
+1,114,Comedians,1,,,Henedi,Helmy
+2,114,Arab Football Clubs,1,,,Al-Hilal,Zamalek
+0,115,Animals,0,,,Cat,Mouse
+1,115,Slang for Bite,1,,,Bite,Chomp
+2,115,Utilities,0,,,Internet,Water
+0,116,Utilities,0,,,Electricity,Internet
+1,116,Colors,0,,,Yellow,Green
+2,116,Animals,0,,,Pigeon,Mouse
+0,117,Sports,0,,,Football,Basketball
+1,117,Utilities,0,,,Electricity,Gas
+2,117,Types of Show,0,,,Film,Series
+0,118,Famous Arab Singers,1,,,Warda,Fairuz
+1,118,Comedians,1,,,Emam,Helmy
+2,118,Things Found in the Sky,0,,,Airplane,Bird
+0,119,Types of Show,0,,,Film,Theater
+1,119,Things That Spin,0,,,Fan,Washing Machine
+2,119,Arab Football Clubs,1,,,Al-Nassr,Zamalek
+0,120,Iconic Egyptian TV Shows,1,,,Tales of a Modern Husband,I will not live in my father's cloak
+1,120,Math Operations,0,,,Addition,Subtraction
+2,120,Traditional Food,1,,,Macaroni with Bechamel,Mulukhiyah
+0,121,Things Found in the Sky,0,,,Cloud,Moon
+1,121,Slang for Smart/Clever,1,,,Shrewd,Open
+2,121,Animals,0,,,Cat,Pigeon
+0,122,Colors,0,,,White,Green
+1,122,Iconic Egyptian TV Shows,1,,,I will not live in my father's cloak,Tales of a Modern Husband
+2,122,Times of Day,0,,,Evening,Night
+0,123,Things With a Lock ,0,,,Bag,Drawer
+1,123,Things Found in the Sky,0,,,Moon,Airplane
+2,123,Vacation Destinations,1,,,Siwa,El Gouna
+0,124,Comedians,1,,,Emam,Helmy
+1,124,Slang for Cool/Awesome,1,,,Greatness,Solid
+2,124,Vacation Destinations,1,,,Sharm El Sheikh,Dahab
+0,125,Words for Friend,0,,,Companion,Peer
+1,125,Slang for Cool/Awesome,1,,,Awesome,Greatness
+2,125,Words with Double Meanings,1,,,Root,Key
+0,126,Holidays,1,,,Christmas,Eid
+1,126,Slang for Smart/Clever,1,,,Clever,Shrewd
+2,126,Types of Show,0,,,Film,Television
+0,127,Words Related to Size,0,,,Fat,Slim
+1,127,Times of Day,0,,,Early Morning,Morning
+2,127,Colors,0,,,Red,White
+0,128,Tourist Attractions,1,,,Valley of the Kings,Pyramids
+1,128,Times of Day,0,,,Early Morning,Night
+2,128,Slang for Cool/Awesome,1,,,Greatness,Awesome
+0,129,Sports,0,,,Football,Tennis
+1,129,Units of Time,0,,,Month,Day
+2,129,Movie Heartthrobs,1,,,Ezz,Abdel Aziz
+0,130,Times of Day,0,,,Night,Evening
+1,130,Slang for Bite,1,,,Chomp,Mouthful
+2,130,Traditional Food,1,,,Mulukhiyah,Falafel
+0,131,Childhood Games,1,,,Rock Paper Scissors,Hide and Seek
+1,131,Words that Rhyme with بيت,0,,,Reputation,Jet
+2,131,Words with Double Meanings,1,,,Eye,Paper
+0,132,Childhood Games,1,,,Hide and Seek,Seven Bricks
+1,132,Things That Spin,0,,,Yo-yo,Washing Machine
+2,132,Things With a Lock ,0,,,Safe,Bag
+0,133,Types of Show,0,,,Theater,Television
+1,133,Slang for Football,1,,,Ball,Football
+2,133,Animals,0,,,Cat,Mouse
+0,134,Vacation Destinations,1,,,Dahab,Sharm El Sheikh
+1,134,Things You Shouldnt Touch,0,,,Knife,Poop
+2,134,Holidays,1,,,Sinai Liberation,Eid
+0,135,Famous Arab Singers,1,,,Hafez,Fairuz
+1,135,Iconic Egyptian TV Shows,1,,,A man and six women,Wannis's Diaries
+2,135,Comedians,1,,,Yassine,Henedi
+0,136,Childhood Games,1,,,Soldiers and thieves,Rock Paper Scissors
+1,136,Conversational Numbers,0,,,A half,Hundred
+2,136,Phrases that Mean Quickly,0,,,Now,Quickly
+0,137,Utilities,0,,,Internet,Gas
+1,137,Types of Show,0,,,Series,Theater
+2,137,Things With a Lock ,0,,,Safe,Drawer
+0,138,Phrases that Mean Quickly,0,,,Now,Immediately
+1,138,Arabic Authors,1,,,Darwish,Mahfouz
+2,138,Holidays,1,,,Sinai Liberation,Sham El Nessim
+0,139,Traditional Food,1,,,Koshary,Macaroni with Bechamel
+1,139,Things That Go On Feet,0,,,Sock,Sandal
+2,139,Iconic Egyptian TV Shows,1,,,Tales of a Modern Husband,I will not live in my father's cloak
+0,140,Holidays,1,,,Sinai Liberation,Sham El Nessim
+1,140,Movie Heartthrobs,1,,,Ezz,Hosny
+2,140,Phrases that Mean Quickly,0,,,Quickly,Instantly
+0,141,Slang for Football,1,,,Soccer,Ball
+1,141,Times of Day,0,,,Early Morning,Evening
+2,141,States of Matter,0,,,Plasma,Solid
+0,142,Times of Day,0,,,Evening,Morning
+1,142,Things With a Lock ,0,,,Bag,Door
+2,142,Arab Football Clubs,1,,,Zamalek,Al Ahly
+0,143,Traditional Food,1,,,Macaroni with Bechamel,Koshary
+1,143,Things You Shouldnt Touch,0,,,Fire,Knife
+2,143,States of Matter,0,,,Plasma,Solid
+0,144,Types of Show,0,,,Film,Series
+1,144,Childhood Games,1,,,Rock Paper Scissors,Hide and Seek
+2,144,Slang for Football,1,,,Ball,Soccer
+0,145,Utilities,0,,,Internet,Gas
+1,145,Types of Show,0,,,Film,Series
+2,145,Things With a Lock ,0,,,Drawer,Safe
+0,146,Slang for Smart/Clever,1,,,Clever,Open
+1,146,Types of Show,0,,,Series,Film
+2,146,Things You Shouldnt Touch,0,,,Poop,Knife
+0,147,Conversational Numbers,0,,,Thousand,A forth
+1,147,States of Matter,0,,,Liquid,Gas
+2,147,Modes of Transportation,0,,,Car,Taxi
+0,148,Slang for Nothing,1,,,I don't have any,Empty
+1,148,Times of Day,0,,,Morning,Night
+2,148,Slang for Bite,1,,,Mouthful,Bite
+0,149,Things Found in the Sky,0,,,Airplane,Moon
+1,149,Famous Arab Singers,1,,,Fairuz,Kulthum
+2,149,Sports,0,,,Handball,Basketball
+0,150,Units of Time,0,,,Minute,Day
+1,150,Music Genres,1,,,Pop,Rap
+2,150,Slang for Bite,1,,,Bite,Chomp
+0,151,Arabic Authors,1,,,Mahfouz,Hussein
+1,151,Movie Heartthrobs,1,,,Karara,Hosny
+2,151,Things That Go On Feet,0,,,Sock,Sandal
+0,152,Conversational Numbers,0,,,Thousand,A forth
+1,152,Things With a Lock ,0,,,Door,Safe
+2,152,Sports,0,,,Football,Basketball
+0,153,Types of Show,0,,,Theater,Television
+1,153,Tourist Attractions,1,,,Karnak,Pyramids
+2,153,Sports,0,,,Football,Basketball
+0,154,Math Operations,0,,,Multiplication,Addition
+1,154,Traditional Food,1,,,Falafel,Koshary
+2,154,Famous Arab Singers,1,,,Hafez,Kulthum
+0,155,Tourist Attractions,1,,,Khan el-Khalili,Pyramids
+1,155,Things That Go On Feet,0,,,Sandal,Sock
+2,155,Modes of Transportation,0,,,Bus,Subway
+0,156,Arabic Authors,1,,,Mahfouz,Hussein
+1,156,Modes of Transportation,0,,,Taxi,Car
+2,156,Colors,0,,,Yellow,Green
+0,157,Words that Rhyme with بيت,0,,,Where,Reputation
+1,157,Arabic Authors,1,,,Mahfouz,al-Hakim
+2,157,Utilities,0,,,Internet,Electricity
+0,158,Phrases that Mean Quickly,0,,,Instantly,Immediately
+1,158,Arab Football Clubs,1,,,Al-Hilal,Zamalek
+2,158,Colors,0,,,Yellow,Red
+0,159,Words for Friend,0,,,Boyfriend,Peer
+1,159,Things That Spin,0,,,Yo-yo,Wheel
+2,159,Tourist Attractions,1,,,Valley of the Kings,Khan el-Khalili
+0,160,Math Operations,0,,,Addition,Multiplication
+1,160,Iconic Egyptian TV Shows,1,,,Tales of a Modern Husband,Wannis's Diaries
+2,160,Slang for Smart/Clever,1,,,Open,Shrewd
+0,161,Math Operations,0,,,Division,Subtraction
+1,161,Vacation Destinations,1,,,Sharm El Sheikh,Dahab
+2,161,Words for Friend,0,,,Friend,Peer
+0,162,Things With a Lock ,0,,,Drawer,Safe
+1,162,Music Genres,1,,,Rap,Techno
+2,162,Tourist Attractions,1,,,Pyramids,Karnak
+0,163,Types of Show,0,,,Theater,Film
+1,163,Slang for Bite,1,,,Mouthful,Chomp
+2,163,Colors,0,,,White,Red
+0,164,Conversational Numbers,0,,,A half,Thousand
+1,164,Times of Day,0,,,Night,Evening
+2,164,Utilities,0,,,Electricity,Water
+0,165,Things That Go On Feet,0,,,Shoes,Sneaker
+1,165,States of Matter,0,,,Gas,Solid
+2,165,Modes of Transportation,0,,,Taxi,Car
+0,166,Traditional Food,1,,,Macaroni with Bechamel,Koshary
+1,166,Iconic Egyptian TV Shows,1,,,Tales of a Modern Husband,I will not live in my father's cloak
+2,166,Vacation Destinations,1,,,Siwa,Dahab
+0,167,Slang for Football,1,,,Ball,Soccer
+1,167,Words for Friend,0,,,Friend,Companion
+2,167,Animals,0,,,Pigeon,Mouse
+0,168,Things With a Lock ,0,,,Drawer,Door
+1,168,Slang for Smart/Clever,1,,,Open,Clever
+2,168,Units of Time,0,,,Hour,Month
+0,169,Comedians,1,,,Helmy,Emam
+1,169,Slang for Smart/Clever,1,,,Clever,Open
+2,169,Famous Cartoons,1,,,Captain Majid,Sesame Street
+0,170,Conversational Numbers,0,,,A forth,Thousand
+1,170,Slang for Nothing,1,,,Empty,Nothing
+2,170,Vacation Destinations,1,,,Dahab,Sharm El Sheikh
+0,171,Math Operations,0,,,Multiplication,Division
+1,171,Units of Time,0,,,Month,Day
+2,171,Times of Day,0,,,Morning,Early Morning
+0,172,Slang for Smart/Clever,1,,,Clever,Open
+1,172,Comedians,1,,,Yassine,Helmy
+2,172,Shapes,0,,,Triangle,Pentagon
+0,173,Things You Shouldnt Touch,0,,,Poop,Fire
+1,173,Times of Day,0,,,Night,Morning
+2,173,Things Found in the Sky,0,,,Cloud,Moon
+0,174,Types of Show,0,,,Film,Television
+1,174,Vacation Destinations,1,,,Siwa,El Gouna
+2,174,Famous Cartoons,1,,,Captain Majid,Sesame Street
+0,175,Movie Heartthrobs,1,,,Ezz,Hosny
+1,175,Words with Double Meanings,1,,,Eye,Root
+2,175,Slang for Nothing,1,,,Nothing,I don't have any
+0,176,Things With a Lock ,0,,,Safe,Drawer
+1,176,Traditional Food,1,,,Macaroni with Bechamel,Mulukhiyah
+2,176,Famous Cartoons,1,,,Sesame Street,Bakkar
+0,177,Sports,0,,,Handball,Football
+1,177,Music Genres,1,,,Pop,Rap
+2,177,Things Found in the Sky,0,,,Moon,Cloud
+0,178,Math Operations,0,,,Division,Subtraction
+1,178,Things That Go On Feet,0,,,Sandal,Sock
+2,178,Slang for Smart/Clever,1,,,Clever,His brain is working
+0,179,Things With a Lock ,0,,,Bag,Drawer
+1,179,Comedians,1,,,Emam,Helmy
+2,179,Words Related to Size,0,,,Slim,Big
+0,180,Movie Heartthrobs,1,,,Ezz,Abdel Aziz
+1,180,Slang for Football,1,,,Football,Ball
+2,180,Things You Shouldnt Touch,0,,,Poop,Knife
+0,181,Conversational Numbers,0,,,A half,A forth
+1,181,Slang for Football,1,,,Match,Soccer
+2,181,Arabic Authors,1,,,Mahfouz,Hussein
+0,182,Movie Heartthrobs,1,,,Abdel Aziz,Karara
+1,182,Modes of Transportation,0,,,Taxi,Car
+2,182,Comedians,1,,,Emam,Henedi
+0,183,Words with Double Meanings,1,,,Key,Eye
+1,183,Childhood Games,1,,,Soldiers and thieves,Rock Paper Scissors
+2,183,Animals,0,,,Pigeon,Dog
+0,184,Utilities,0,,,Internet,Water
+1,184,Slang for Nothing,1,,,Nothing,Empty
+2,184,Modes of Transportation,0,,,Car,Bus
+0,185,Things That Spin,0,,,Fan,Yo-yo
+1,185,Things Found in the Sky,0,,,Bird,Airplane
+2,185,Things You Shouldnt Touch,0,,,Knife,Poop
+0,186,Shapes,0,,,Circle,Pentagon
+1,186,Slang for Nothing,1,,,I don't have any,Empty
+2,186,Comedians,1,,,Yassine,Henedi
+0,187,Things That Spin,0,,,Yo-yo,Wheel
+1,187,Traditional Food,1,,,Macaroni with Bechamel,Falafel
+2,187,Times of Day,0,,,Early Morning,Morning
+0,188,Slang for Nothing,1,,,There is no,I don't have any
+1,188,Times of Day,0,,,Evening,Morning
+2,188,Animals,0,,,Mouse,Pigeon
+0,189,Music Genres,1,,,Mawwal,Techno
+1,189,Types of Show,0,,,Film,Television
+2,189,Units of Time,0,,,Minute,Day
+0,190,Words for Friend,0,,,Peer,Boyfriend
+1,190,Slang for Smart/Clever,1,,,Clever,His brain is working
+2,190,Units of Time,0,,,Month,Hour
+0,191,Arabic Authors,1,,,Darwish,Hussein
+1,191,Slang for Bite,1,,,Bite,Mouthful
+2,191,Words with Double Meanings,1,,,Eye,Root
+0,192,Colors,0,,,Green,White
+1,192,Movie Heartthrobs,1,,,Ezz,Hosny
+2,192,Famous Arab Singers,1,,,Fairuz,Hafez
+0,193,Types of Show,0,,,Film,Series
+1,193,Sports,0,,,Basketball,Handball
+2,193,Units of Time,0,,,Hour,Month
+0,194,Shapes,0,,,Square,Pentagon
+1,194,Conversational Numbers,0,,,A half,A forth
+2,194,Slang for Football,1,,,Soccer,Match
+0,195,Traditional Food,1,,,Falafel,Mulukhiyah
+1,195,Things You Shouldnt Touch,0,,,Poop,Electrical wire
+2,195,Shapes,0,,,Circle,Square
+0,196,Shapes,0,,,Pentagon,Circle
+1,196,Words for Friend,0,,,Friend,Peer
+2,196,Sports,0,,,Football,Handball
+0,197,Sports,0,,,Basketball,Tennis
+1,197,Shapes,0,,,Circle,Square
+2,197,Iconic Egyptian TV Shows,1,,,Tales of a Modern Husband,A man and six women
+0,198,Arabic Authors,1,,,Darwish,Mahfouz
+1,198,Traditional Food,1,,,Mulukhiyah,Koshary
+2,198,Animals,0,,,Dog,Pigeon
+0,199,Music Genres,1,,,Pop,Mawwal
+1,199,Shapes,0,,,Pentagon,Square
+2,199,Times of Day,0,,,Morning,Early Morning
+0,200,Slang for Cool/Awesome,1,,,The last sweetness,Awesome
+1,200,Sports,0,,,Tennis,Basketball
+2,200,Modes of Transportation,0,,,Subway,Car
+0,201,Arabic Authors,1,,,Darwish,Hussein
+1,201,Slang for Bite,1,,,Chomp,Mouthful
+2,201,Iconic Egyptian TV Shows,1,,,A man and six women,Tales of a Modern Husband
+0,202,Words for Friend,0,,,Friend,Boyfriend
+1,202,Famous Arab Singers,1,,,Kulthum,Fairuz
+2,202,Slang for Nothing,1,,,There is no,Empty
+0,203,Utilities,0,,,Gas,Electricity
+1,203,Slang for Smart/Clever,1,,,Shrewd,Clever
+2,203,Music Genres,1,,,Rap,Mawwal
+0,204,Holidays,1,,,Sinai Liberation,Sham El Nessim
+1,204,Shapes,0,,,Pentagon,Square
+2,204,Music Genres,1,,,Mawwal,Pop
+0,205,Slang for Cool/Awesome,1,,,Solid,Awesome
+1,205,Things That Spin,0,,,Yo-yo,Washing Machine
+2,205,Times of Day,0,,,Evening,Night
+0,206,Math Operations,0,,,Multiplication,Addition
+1,206,Slang for Cool/Awesome,1,,,Greatness,The last sweetness
+2,206,Colors,0,,,Yellow,White
+0,207,Arab Football Clubs,1,,,Zamalek,Al-Hilal
+1,207,Arabic Authors,1,,,Mahfouz,Hussein
+2,207,Things Found in the Sky,0,,,Cloud,Bird
+0,208,Utilities,0,,,Electricity,Water
+1,208,Phrases that Mean Quickly,0,,,Immediately,Instantly
+2,208,Things Found in the Sky,0,,,Bird,Moon
+0,209,Arab Football Clubs,1,,,Zamalek,Al Ahly
+1,209,Slang for Bite,1,,,Mouthful,Bite
+2,209,Math Operations,0,,,Division,Multiplication
+0,210,Things With a Lock ,0,,,Drawer,Bag
+1,210,Movie Heartthrobs,1,,,Hosny,Karara
+2,210,Modes of Transportation,0,,,Bus,Subway
+0,211,Comedians,1,,,Emam,Yassine
+1,211,Famous Arab Singers,1,,,Warda,Fairuz
+2,211,Things Found in the Sky,0,,,Cloud,Bird
+0,212,Colors,0,,,White,Yellow
+1,212,Movie Heartthrobs,1,,,Ezz,Hosny
+2,212,Tourist Attractions,1,,,Pyramids,Karnak
+0,213,Things That Spin,0,,,Wheel,Fan
+1,213,Slang for Bite,1,,,Chomp,Mouthful
+2,213,Math Operations,0,,,Addition,Multiplication
+0,214,Colors,0,,,Yellow,Red
+1,214,Conversational Numbers,0,,,A half,A forth
+2,214,Slang for Cool/Awesome,1,,,Greatness,The last sweetness
+0,215,Arabic Authors,1,,,Darwish,al-Hakim
+1,215,Phrases that Mean Quickly,0,,,Now,Quickly
+2,215,Utilities,0,,,Gas,Electricity
+0,216,Arab Football Clubs,1,,,Al-Hilal,Zamalek
+1,216,Things With a Lock ,0,,,Door,Drawer
+2,216,Colors,0,,,White,Green
+0,217,Utilities,0,,,Water,Gas
+1,217,Things With a Lock ,0,,,Safe,Door
+2,217,Holidays,1,,,Christmas,Sinai Liberation
+0,218,Sports,0,,,Handball,Tennis
+1,218,Arab Football Clubs,1,,,Al-Hilal,Zamalek
+2,218,Times of Day,0,,,Evening,Early Morning
+0,219,Slang for Bite,1,,,Chomp,Mouthful
+1,219,Words for Friend,0,,,Companion,Friend
+2,219,Movie Heartthrobs,1,,,Ezz,Abdel Aziz
+0,220,Things That Spin,0,,,Fan,Wheel
+1,220,Times of Day,0,,,Evening,Early Morning
+2,220,Iconic Egyptian TV Shows,1,,,I will not live in my father's cloak,A man and six women
+0,221,Holidays,1,,,Sham El Nessim,Sinai Liberation
+1,221,Things Found in the Sky,0,,,Cloud,Moon
+2,221,Math Operations,0,,,Multiplication,Division
+0,222,Iconic Egyptian TV Shows,1,,,I will not live in my father's cloak,Tales of a Modern Husband
+1,222,Things With a Lock ,0,,,Drawer,Bag
+2,222,Modes of Transportation,0,,,Bus,Car
+0,223,Comedians,1,,,Yassine,Henedi
+1,223,Things You Shouldnt Touch,0,,,Electrical wire,Fire
+2,223,Things With a Lock ,0,,,Bag,Safe
+0,224,States of Matter,0,,,Plasma,Solid
+1,224,Phrases that Mean Quickly,0,,,Quickly,Immediately
+2,224,Animals,0,,,Dog,Cat
+0,225,Types of Show,0,,,Series,Television
+1,225,Math Operations,0,,,Multiplication,Division
+2,225,Famous Arab Singers,1,,,Hafez,Warda
+0,226,Traditional Food,1,,,Mulukhiyah,Falafel
+1,226,Comedians,1,,,Helmy,Henedi
+2,226,Things With a Lock ,0,,,Drawer,Safe
+0,227,Things That Spin,0,,,Washing Machine,Wheel
+1,227,Things That Go On Feet,0,,,Sock,Sneaker
+2,227,Conversational Numbers,0,,,Thousand,A half
+0,228,Holidays,1,,,Sham El Nessim,Sinai Liberation
+1,228,Conversational Numbers,0,,,Hundred,A forth
+2,228,Slang for Nothing,1,,,I don't have any,Nothing
+0,229,Sports,0,,,Tennis,Football
+1,229,Math Operations,0,,,Subtraction,Division
+2,229,Things That Go On Feet,0,,,Sandal,Shoes
+0,230,Famous Arab Singers,1,,,Hafez,Kulthum
+1,230,Slang for Nothing,1,,,Nothing,I don't have any
+2,230,Tourist Attractions,1,,,Khan el-Khalili,Valley of the Kings
+0,231,Famous Arab Singers,1,,,Fairuz,Warda
+1,231,Movie Heartthrobs,1,,,Ezz,Hosny
+2,231,Arab Football Clubs,1,,,Al Ahly,Al-Nassr
+0,232,Phrases that Mean Quickly,0,,,Instantly,Immediately
+1,232,Animals,0,,,Dog,Pigeon
+2,232,Conversational Numbers,0,,,A forth,Thousand
+0,233,Movie Heartthrobs,1,,,Karara,Abdel Aziz
+1,233,Holidays,1,,,Eid,Christmas
+2,233,Things That Spin,0,,,Wheel,Fan
+0,234,Vacation Destinations,1,,,Siwa,Dahab
+1,234,Things You Shouldnt Touch,0,,,Fire,Electrical wire
+2,234,Colors,0,,,Red,Yellow
+0,235,Tourist Attractions,1,,,Karnak,Pyramids
+1,235,Comedians,1,,,Helmy,Henedi
+2,235,Colors,0,,,Green,Red
+0,236,Things You Shouldnt Touch,0,,,Electrical wire,Knife
+1,236,Childhood Games,1,,,Rock Paper Scissors,Seven Bricks
+2,236,Famous Cartoons,1,,,Bakkar,Sesame Street
+0,237,Words Related to Size,0,,,Big,Slim
+1,237,Traditional Food,1,,,Koshary,Falafel
+2,237,Comedians,1,,,Henedi,Emam
+0,238,Slang for Football,1,,,Match,Soccer
+1,238,Movie Heartthrobs,1,,,Karara,Hosny
+2,238,Music Genres,1,,,Pop,Mawwal
+0,239,Slang for Football,1,,,Football,Ball
+1,239,Sports,0,,,Handball,Tennis
+2,239,Animals,0,,,Pigeon,Dog
+0,240,Animals,0,,,Mouse,Cat
+1,240,Words for Friend,0,,,Boyfriend,Peer
+2,240,Arabic Authors,1,,,al-Hakim,Darwish
+0,241,Famous Cartoons,1,,,Boogie and Tamtam,Bakkar
+1,241,Holidays,1,,,Sinai Liberation,Sham El Nessim
+2,241,Colors,0,,,Red,Green
+0,242,Holidays,1,,,Sham El Nessim,Eid
+1,242,Words with Double Meanings,1,,,Paper,Key
+2,242,Childhood Games,1,,,Rock Paper Scissors,Seven Bricks
+0,243,Slang for Bite,1,,,Chomp,Mouthful
+1,243,Music Genres,1,,,Pop,Techno
+2,243,Things Found in the Sky,0,,,Moon,Cloud
+0,244,Things Found in the Sky,0,,,Cloud,Moon
+1,244,Tourist Attractions,1,,,Karnak,Valley of the Kings
+2,244,Movie Heartthrobs,1,,,Hosny,Ezz
+0,245,Shapes,0,,,Circle,Pentagon
+1,245,Units of Time,0,,,Month,Hour
+2,245,Modes of Transportation,0,,,Car,Subway
+0,246,Childhood Games,1,,,Rock Paper Scissors,Soldiers and thieves
+1,246,Units of Time,0,,,Day,Month
+2,246,Holidays,1,,,Christmas,Sham El Nessim
+0,247,Slang for Nothing,1,,,There is no,I don't have any
+1,247,Famous Cartoons,1,,,Captain Majid,Sesame Street
+2,247,Things You Shouldnt Touch,0,,,Electrical wire,Fire
+0,248,Music Genres,1,,,Techno,Pop
+1,248,Shapes,0,,,Pentagon,Circle
+2,248,Units of Time,0,,,Minute,Month
+0,249,Things You Shouldnt Touch,0,,,Poop,Knife
+1,249,Slang for Cool/Awesome,1,,,Solid,Greatness
+2,249,Words that Rhyme with بيت,0,,,Oil,Where
+0,250,Shapes,0,,,Circle,Square
+1,250,Words with Double Meanings,1,,,Key,Eye
+2,250,States of Matter,0,,,Plasma,Solid
+0,251,Things That Spin,0,,,Fan,Yo-yo
+1,251,Types of Show,0,,,Television,Series
+2,251,Phrases that Mean Quickly,0,,,Instantly,Quickly
+0,252,Sports,0,,,Handball,Football
+1,252,Words Related to Size,0,,,Fat,Slim
+2,252,Shapes,0,,,Square,Pentagon
+0,253,Holidays,1,,,Sinai Liberation,Eid
+1,253,Slang for Football,1,,,Ball,Soccer
+2,253,Types of Show,0,,,Theater,Series
+0,254,Words Related to Size,0,,,Small,Slim
+1,254,Traditional Food,1,,,Koshary,Macaroni with Bechamel
+2,254,Shapes,0,,,Triangle,Pentagon
+0,255,Math Operations,0,,,Multiplication,Division
+1,255,Traditional Food,1,,,Falafel,Koshary
+2,255,Movie Heartthrobs,1,,,Abdel Aziz,Karara
+0,256,Words Related to Size,0,,,Big,Slim
+1,256,Shapes,0,,,Pentagon,Circle
+2,256,Things That Spin,0,,,Wheel,Yo-yo
+0,257,Modes of Transportation,0,,,Taxi,Car
+1,257,Words with Double Meanings,1,,,Paper,Key
+2,257,Famous Cartoons,1,,,Boogie and Tamtam,Captain Majid
+0,258,Tourist Attractions,1,,,Khan el-Khalili,Pyramids
+1,258,Iconic Egyptian TV Shows,1,,,I will not live in my father's cloak,Wannis's Diaries
+2,258,Comedians,1,,,Henedi,Emam
+0,259,States of Matter,0,,,Solid,Plasma
+1,259,Phrases that Mean Quickly,0,,,Now,Instantly
+2,259,Sports,0,,,Handball,Football
+0,260,Sports,0,,,Football,Tennis
+1,260,Words that Rhyme with بيت,0,,,Where,Reputation
+2,260,Words with Double Meanings,1,,,Root,Eye
+0,261,Slang for Cool/Awesome,1,,,Awesome,The last sweetness
+1,261,Famous Cartoons,1,,,Captain Majid,Boogie and Tamtam
+2,261,Math Operations,0,,,Division,Addition
+0,262,Famous Arab Singers,1,,,Fairuz,Warda
+1,262,Words with Double Meanings,1,,,Paper,Key
+2,262,Animals,0,,,Dog,Pigeon
+0,263,Arabic Authors,1,,,Darwish,al-Hakim
+1,263,Words Related to Size,0,,,Slim,Small
+2,263,Music Genres,1,,,Techno,Mawwal
+0,264,Words that Rhyme with بيت,0,,,Jet,Oil
+1,264,Things With a Lock ,0,,,Drawer,Safe
+2,264,Arab Football Clubs,1,,,Al-Hilal,Al-Nassr
+0,265,States of Matter,0,,,Liquid,Solid
+1,265,Words with Double Meanings,1,,,Key,Eye
+2,265,Things That Spin,0,,,Washing Machine,Wheel
+0,266,Things That Go On Feet,0,,,Sandal,Shoes
+1,266,Things With a Lock ,0,,,Safe,Door
+2,266,Words Related to Size,0,,,Slim,Small
+0,267,Comedians,1,,,Helmy,Henedi
+1,267,Things You Shouldnt Touch,0,,,Fire,Poop
+2,267,States of Matter,0,,,Plasma,Gas
+0,268,Iconic Egyptian TV Shows,1,,,Wannis's Diaries,I will not live in my father's cloak
+1,268,Comedians,1,,,Henedi,Emam
+2,268,Famous Arab Singers,1,,,Fairuz,Kulthum
+0,269,Holidays,1,,,Eid,Sinai Liberation
+1,269,Animals,0,,,Dog,Mouse
+2,269,Modes of Transportation,0,,,Taxi,Subway
+0,270,Traditional Food,1,,,Falafel,Mulukhiyah
+1,270,Vacation Destinations,1,,,Dahab,Sharm El Sheikh
+2,270,Colors,0,,,Red,Yellow
+0,271,Arabic Authors,1,,,Darwish,Hussein
+1,271,Vacation Destinations,1,,,El Gouna,Sharm El Sheikh
+2,271,Words that Rhyme with بيت,0,,,Reputation,Oil
+0,272,Things That Spin,0,,,Fan,Wheel
+1,272,Slang for Football,1,,,Match,Ball
+2,272,Comedians,1,,,Emam,Yassine
+0,273,Holidays,1,,,Sinai Liberation,Sham El Nessim
+1,273,Types of Show,0,,,Theater,Film
+2,273,Slang for Smart/Clever,1,,,Clever,Shrewd
+0,274,Words Related to Size,0,,,Fat,Big
+1,274,Things You Shouldnt Touch,0,,,Fire,Electrical wire
+2,274,Arab Football Clubs,1,,,Zamalek,Al-Hilal
+0,275,Slang for Smart/Clever,1,,,His brain is working,Clever
+1,275,Things Found in the Sky,0,,,Bird,Moon
+2,275,States of Matter,0,,,Solid,Gas
+0,276,Holidays,1,,,Sinai Liberation,Eid
+1,276,Things With a Lock ,0,,,Door,Safe
+2,276,Phrases that Mean Quickly,0,,,Now,Immediately
+0,277,Times of Day,0,,,Morning,Night
+1,277,Conversational Numbers,0,,,Hundred,A forth
+2,277,Slang for Cool/Awesome,1,,,Greatness,The last sweetness
+0,278,Holidays,1,,,Sham El Nessim,Sinai Liberation
+1,278,Phrases that Mean Quickly,0,,,Now,Instantly
+2,278,Music Genres,1,,,Pop,Techno
+0,279,Math Operations,0,,,Subtraction,Multiplication
+1,279,Things With a Lock ,0,,,Bag,Door
+2,279,Comedians,1,,,Emam,Yassine
+0,280,Words with Double Meanings,1,,,Eye,Paper
+1,280,Holidays,1,,,Eid,Sinai Liberation
+2,280,Math Operations,0,,,Addition,Multiplication
+0,281,Utilities,0,,,Electricity,Water
+1,281,Arabic Authors,1,,,Mahfouz,al-Hakim
+2,281,Holidays,1,,,Eid,Sinai Liberation
+0,282,Utilities,0,,,Gas,Electricity
+1,282,Things You Shouldnt Touch,0,,,Fire,Electrical wire
+2,282,Music Genres,1,,,Pop,Rap
+0,283,Slang for Football,1,,,Soccer,Match
+1,283,Math Operations,0,,,Subtraction,Addition
+2,283,Things With a Lock ,0,,,Safe,Drawer
+0,284,Words Related to Size,0,,,Small,Big
+1,284,Utilities,0,,,Electricity,Water
+2,284,Words with Double Meanings,1,,,Key,Root
+0,285,Slang for Bite,1,,,Chomp,Bite
+1,285,Childhood Games,1,,,Soldiers and thieves,Seven Bricks
+2,285,Math Operations,0,,,Addition,Division
+0,286,Words for Friend,0,,,Peer,Friend
+1,286,Arabic Authors,1,,,Darwish,al-Hakim
+2,286,Utilities,0,,,Internet,Water
+0,287,Movie Heartthrobs,1,,,Hosny,Abdel Aziz
+1,287,Music Genres,1,,,Pop,Mawwal
+2,287,Things That Go On Feet,0,,,Sandal,Sneaker
+0,288,Tourist Attractions,1,,,Pyramids,Khan el-Khalili
+1,288,Colors,0,,,Yellow,Green
+2,288,Words with Double Meanings,1,,,Eye,Key
+0,289,Math Operations,0,,,Addition,Subtraction
+1,289,Animals,0,,,Cat,Mouse
+2,289,Times of Day,0,,,Night,Early Morning
+0,290,Animals,0,,,Dog,Mouse
+1,290,Things With a Lock ,0,,,Safe,Bag
+2,290,Words that Rhyme with بيت,0,,,Jet,Reputation
+0,291,Vacation Destinations,1,,,Sharm El Sheikh,Dahab
+1,291,Holidays,1,,,Sham El Nessim,Christmas
+2,291,Tourist Attractions,1,,,Karnak,Pyramids
+0,292,Traditional Food,1,,,Koshary,Mulukhiyah
+1,292,Things You Shouldnt Touch,0,,,Knife,Fire
+2,292,Slang for Smart/Clever,1,,,Shrewd,Open
+0,293,Phrases that Mean Quickly,0,,,Instantly,Quickly
+1,293,Words for Friend,0,,,Friend,Boyfriend
+2,293,Movie Heartthrobs,1,,,Karara,Abdel Aziz
+0,294,Utilities,0,,,Water,Electricity
+1,294,Slang for Bite,1,,,Peck,Mouthful
+2,294,Words for Friend,0,,,Boyfriend,Companion
+0,295,Childhood Games,1,,,Seven Bricks,Rock Paper Scissors
+1,295,Arabic Authors,1,,,Darwish,Mahfouz
+2,295,Conversational Numbers,0,,,A half,Hundred
+0,296,Conversational Numbers,0,,,Thousand,A half
+1,296,Music Genres,1,,,Rap,Mawwal
+2,296,Traditional Food,1,,,Macaroni with Bechamel,Falafel
+0,297,Words that Rhyme with بيت,0,,,Jet,Oil
+1,297,Tourist Attractions,1,,,Pyramids,Valley of the Kings
+2,297,Math Operations,0,,,Multiplication,Subtraction
+0,298,Traditional Food,1,,,Falafel,Mulukhiyah
+1,298,Sports,0,,,Tennis,Basketball
+2,298,Types of Show,0,,,Series,Television
+0,299,Childhood Games,1,,,Seven Bricks,Soldiers and thieves
+1,299,Holidays,1,,,Sinai Liberation,Sham El Nessim
+2,299,Phrases that Mean Quickly,0,,,Immediately,Instantly

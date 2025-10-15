@@ -1,0 +1,901 @@
+,Game #,True Topic,Tag 1,Tag 2,Tag 3,Word 1,Word 2
+0,0,School Supplies,Everyday,,Null,Envelope,Eraser
+1,0,Mexican Celebrations,Pop culture,,,Dead,Independence
+2,0,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Fart
+0,1,Neighborhoods In Latinoamerica,Everyday,Environment,Null,El Dorado,Coyoacan
+1,1,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Fart
+2,1,Spanish Homophones,Linguistic,Homophones,,Sew,Cup
+0,2,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Humbug,Cheat
+1,2,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Rich,Tasty
+2,2,Spanish Actors,Pop culture,TV & Movies,,Banderas,Maura
+0,3,___tro,Linguistic,Fill in the blank,,Demues,Cilan
+1,3,Parts of Shoes,Everyday,,Null,Heel,Lace
+2,3,"Words For ""Work""",Linguistic,Slang/Synonyms,,Labor,Employment
+0,4,Relatives,Everyday,,Null,Uncle,Sister
+1,4,Parts of Trees,Everyday,Environment,Null,Trunk,Branch
+2,4,Vegetables,Everyday,Foods,Null,Broccoli,Potato
+0,5,Parts of Trees,Everyday,Environment,Null,Root,Branch
+1,5,___tro,Linguistic,Fill in the blank,,Secues,Cilan
+2,5,Teams in La Liga,Pop culture,Sports,,Madrid,Barcelona
+0,6,Aquatic Animals,Everyday,Animals,Null,Platypus,Axolotl
+1,6,Bodies of Water,Everyday,Environment,Null,River,Lake
+2,6,Genres,Pop culture,Literature,,Mystery,History
+0,7,Soccer Players,Pop culture,Sports,,Suárez,Figueroa
+1,7,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Quico,Ramón
+2,7,Cultural Sports,Pop culture,Sports,,Bocce,Duck
+0,8,___bol,Linguistic,Fill in the blank,,Básquet,Béis
+1,8,Nicknames,Linguistic,,Null,Lucha,Chucho
+2,8,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Mariposa,La Boca
+0,9,Verbs,Linguistic,,Null,Sang,Cried
+1,9,Parts of Bodies,Everyday,Bodily,Null,Mouth,Nose
+2,9,Parts of Trees,Everyday,Environment,Null,Trunk,Root
+0,10,Animals,Everyday,Animals,Null,Dog,Cat
+1,10,Aquatic Animals,Everyday,Animals,Null,Turtle,Dolphin
+2,10,___bol,Linguistic,Fill in the blank,,Fút,Ár
+0,11,___bol,Linguistic,Fill in the blank,,Básquet,Béis
+1,11,Soccer Players,Pop culture,Sports,,Messi,Maradona
+2,11,Bugs,Everyday,Animals,Null,Mosquito,Butterfly
+0,12,Aquatic Animals,Everyday,Animals,Null,Dolphin,Turtle
+1,12,Metals,Everyday,,Null,Rhodium,Gold
+2,12,Cultural Sports,Pop culture,Sports,,Bocce,Charrería
+0,13,Names,Everyday,,Null,Martha,Rose
+1,13,Latin-American Singers,Pop culture,Music,,Santana,Martin
+2,13,Parts of Bodies,Everyday,Bodily,Null,Arm,Head
+0,14,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Humbug,Cheat
+1,14,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Scares,Souls
+2,14,Latin-American Singers,Pop culture,Music,,Martin,Selena
+0,15,Mexican Celebrations,Pop culture,,,Wizards,Dead
+1,15,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Rich,Tasty
+2,15,Parts of Shoes,Everyday,,Null,Sole,Heel
+0,16,Spanish Actors,Pop culture,TV & Movies,,Bardem,Maura
+1,16,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Prawn
+2,16,Metals,Everyday,,Null,Rhodium,Gold
+0,17,Words For Money,Linguistic,Slang/Synonyms,Null,Silver,Lucas
+1,17,Names,Everyday,,Null,Martha,Eugenia
+2,17,Parts of Shoes,Everyday,,Null,Lace,Heel
+0,18,Spanish Actors,Pop culture,TV & Movies,,Maura,Banderas
+1,18,Neighborhoods In Latinoamerica,Everyday,Environment,Null,El Dorado,La Boca
+2,18,"Words For ""Work""",Linguistic,Slang/Synonyms,,Work,Employment
+0,19,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Quico
+1,19,Spanish Homophones,Linguistic,Homophones,,Cup,Rate
+2,19,Words For Traffic,Linguistic,Slang/Synonyms,Null,Traffic,Jam
+0,20,Church Positions,Everyday,,Null,Cardinal,Archbishop
+1,20,Bugs,Everyday,Animals,Null,Locust,Ladybug
+2,20,Parts of Shoes,Everyday,,Null,Tongue,Sole
+0,21,"Words For ""Work""",Linguistic,Slang/Synonyms,,Work,Labor
+1,21,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+2,21,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Hoax,Cheat
+0,22,Genres,Pop culture,Literature,,Poems,History
+1,22,Artists,Pop culture,,,Orozco,Kahlo
+2,22,Relatives,Everyday,,Null,Mom,Sister
+0,23,Children's Games,Pop culture,Sports,,Hiding,Marbles
+1,23,Artists,Pop culture,,,Rivera,Kahlo
+2,23,Latin-American Singers,Pop culture,Music,,Iglesias,Selena
+0,24,Parts of Trees,Everyday,Environment,Null,Root,Branch
+1,24,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Lie,Humbug
+2,24,Words For Money,Linguistic,Slang/Synonyms,Null,Silver,Cash
+0,25,Spanish Actors,Pop culture,TV & Movies,,Banderas,Maura
+1,25,Bugs,Everyday,Animals,Null,Ladybug,Locust
+2,25,Artists,Pop culture,,,Kahlo,Rivera
+0,26,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Boca,La Mariposa
+1,26,Spanish Actors,Pop culture,TV & Movies,,Banderas,Bardem
+2,26,Verbs,Linguistic,,Null,Leaped,Sang
+0,27,Neighborhoods In Latinoamerica,Everyday,Environment,Null,Coyoacan,La Boca
+1,27,Children's Games,Pop culture,Sports,,Leapfrog,Marbles
+2,27,Nicknames,Linguistic,,Null,Chava,Lucha
+0,28,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+1,28,Spanish Homophones,Linguistic,Homophones,,Cook,Rate
+2,28,Bugs,Everyday,Animals,Null,Butterfly,Mosquito
+0,29,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Fart
+1,29,___bol,Linguistic,Fill in the blank,,Ár,Béis
+2,29,Verbs,Linguistic,,Null,Sang,Cried
+0,30,Children's Games,Pop culture,Sports,,Leapfrog,Hopscotch
+1,30,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Ghost,Appearance
+2,30,Latin-American Poets,Pop culture,Literature,,Neruda,Mistral
+0,31,School Supplies,Everyday,,Null,Pencil,Eraser
+1,31,___tel,Linguistic,Fill in the blank,,Pas,Ho
+2,31,Genres,Pop culture,Literature,,Romance,Poems
+0,32,Spanish Actors,Pop culture,TV & Movies,,Bardem,Mollà
+1,32,"Words For ""Cool""",Linguistic,Fill in the blank,,Father,Cool
+2,32,Flowers,Everyday,Environment,Null,Poinsettia,Lily
+0,33,Church Positions,Everyday,,Null,Priest,Monk
+1,33,Characters from Don Quixote,Pop culture,Literature,,Alonso,Sansón
+2,33,___tel,Linguistic,Fill in the blank,,Cóc,Pas
+0,34,Parts of Bodies,Everyday,Bodily,Null,Head,Arm
+1,34,Animals,Everyday,Animals,Null,Cat,Rat
+2,34,Nicknames,Linguistic,,Null,Lucha,Toño
+0,35,Parts of Shoes,Everyday,,Null,Sole,Heel
+1,35,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+2,35,___bol,Linguistic,Fill in the blank,,Béis,Ár
+0,36,Artists,Pop culture,,,Orozco,Kahlo
+1,36,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+2,36,Parts of Shoes,Everyday,,Null,Lace,Tongue
+0,37,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Delicious,Tasty
+1,37,Latin-American Singers,Pop culture,Music,,Martin,Selena
+2,37,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Work
+0,38,Characters from Don Quixote,Pop culture,Literature,,Alonso,Sansón
+1,38,Latin-American Poets,Pop culture,Literature,,Neruda,Martí
+2,38,Bugs,Everyday,Animals,Null,Ladybug,Butterfly
+0,39,Spanish Actors,Pop culture,TV & Movies,,Bardem,Mollà
+1,39,School Supplies,Everyday,,Null,Eraser,Pencil
+2,39,Flowers,Everyday,Environment,Null,Poinsettia,Lily
+0,40,Spanish Homophones,Linguistic,Homophones,,Cook,Cup
+1,40,___tel,Linguistic,Fill in the blank,,Man,Cóc
+2,40,Types of Bread,Everyday,Foods,Null,Roll,Powder
+0,41,Relatives,Everyday,,Null,Sister,Mom
+1,41,___tel,Linguistic,Fill in the blank,,Pas,Man
+2,41,Parts of Trees,Everyday,Environment,Null,Branch,Root
+0,42,Genres,Pop culture,Literature,,Romance,History
+1,42,___tel,Linguistic,Fill in the blank,,Ho,Cóc
+2,42,Characters from Don Quixote,Pop culture,Literature,,Sancho,Dulcinea
+0,43,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Appearance,Ghost
+1,43,___tar,Linguistic,Fill in the blank,,Encan,Orien
+2,43,Spanish Actors,Pop culture,TV & Movies,,Bardem,Mollà
+0,44,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Tasty,Rich
+1,44,___tro,Linguistic,Fill in the blank,,Secues,Arbi
+2,44,"Words For ""Work""",Linguistic,Slang/Synonyms,,Employment,Labor
+0,45,Teams in La Liga,Pop culture,Sports,,Barcelona,Sociedad
+1,45,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Silver
+2,45,Latin-American Poets,Pop culture,Literature,,Martí,Mistral
+0,46,Parts of Bodies,Everyday,Bodily,Null,Head,Nose
+1,46,Mexican Celebrations,Pop culture,,,Children,Wizards
+2,46,Nicknames,Linguistic,,Null,Lucha,Chucho
+0,47,Vegetables,Everyday,Foods,Null,Potato,Celery
+1,47,Church Positions,Everyday,,Null,Monk,Priest
+2,47,Relatives,Everyday,,Null,Mom,Sister
+0,48,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Work
+1,48,Bugs,Everyday,Animals,Null,Mosquito,Locust
+2,48,Latin-American Poets,Pop culture,Literature,,Acevedo,Mistral
+0,49,Church Positions,Everyday,,Null,Monk,Cardinal
+1,49,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Employment
+2,49,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Tasty,Excellent
+0,50,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Appearance
+1,50,Church Positions,Everyday,,Null,Cardinal,Priest
+2,50,Movie Directors,Pop culture,TV & Movies,,Iñárritu,Toro
+0,51,Spanish Homophones,Linguistic,Homophones,,Sew,Rate
+1,51,Latin-American Poets,Pop culture,Literature,,Martí,Neruda
+2,51,Parts of Bodies,Everyday,Bodily,Null,Nose,Arm
+0,52,Spanish Homophones,Linguistic,Homophones,,Sew,Cook
+1,52,Parts of Bodies,Everyday,Bodily,Null,Head,Nose
+2,52,"Words For ""Work""",Linguistic,Slang/Synonyms,,Labor,Employment
+0,53,Animals,Everyday,Animals,Null,Cat,Rat
+1,53,Metals,Everyday,,Null,Nickel Silver,Platinum
+2,53,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Delicious,Excellent
+0,54,Church Positions,Everyday,,Null,Monk,Archbishop
+1,54,Artists,Pop culture,,,Kahlo,Izquierdo
+2,54,Words For Money,Linguistic,Slang/Synonyms,Null,Cash,Lucas
+0,55,Relatives,Everyday,,Null,Niece,Uncle
+1,55,Parts of Bodies,Everyday,Bodily,Null,Arm,Mouth
+2,55,Spanish Homophones,Linguistic,Homophones,,Cup,Sew
+0,56,Words For Money,Linguistic,Slang/Synonyms,Null,Cash,Silver
+1,56,Dances,Pop culture,,,Mambo,Jive
+2,56,___tel,Linguistic,Fill in the blank,,Ho,Man
+0,57,Mexican Celebrations,Pop culture,,,Children,Wizards
+1,57,Children's Games,Pop culture,Sports,,Marbles,Leapfrog
+2,57,Words For Traffic,Linguistic,Slang/Synonyms,Null,Jam,Bottleneck
+0,58,Parts of Shoes,Everyday,,Null,Sole,Tongue
+1,58,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Alonso
+2,58,___tro,Linguistic,Fill in the blank,,Arbi,Cilan
+0,59,___bol,Linguistic,Fill in the blank,,Béis,Básquet
+1,59,Animals,Everyday,Animals,Null,Cat,Horse
+2,59,Parts of Trees,Everyday,Environment,Null,Leaf,Branch
+0,60,Church Positions,Everyday,,Null,Priest,Monk
+1,60,Bugs,Everyday,Animals,Null,Mosquito,Butterfly
+2,60,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chavo
+0,61,Movie Directors,Pop culture,TV & Movies,,Cuarón,Toro
+1,61,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Quico
+2,61,Bugs,Everyday,Animals,Null,Ladybug,Butterfly
+0,62,___tel,Linguistic,Fill in the blank,,Cóc,Pas
+1,62,___tar,Linguistic,Fill in the blank,,Dormi,Orien
+2,62,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Prawn
+0,63,Teams in La Liga,Pop culture,Sports,,Mallorca,Sociedad
+1,63,Dances,Pop culture,,,Samba,Rumba
+2,63,Metals,Everyday,,Null,Rhodium,Gold
+0,64,Spanish Homophones,Linguistic,Homophones,,Rate,Sew
+1,64,Bugs,Everyday,Animals,Null,Locust,Butterfly
+2,64,___tar,Linguistic,Fill in the blank,,Agi,Dormi
+0,65,Metals,Everyday,,Null,Rhodium,Platinum
+1,65,Spanish Actors,Pop culture,TV & Movies,,Maura,Banderas
+2,65,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Scares,Ghost
+0,66,Types of Bread,Everyday,Foods,Null,Powder,Shortbread
+1,66,Soccer Players,Pop culture,Sports,,Suárez,Messi
+2,66,Latin-American Singers,Pop culture,Music,,Iglesias,Selena
+0,67,Relatives,Everyday,,Null,Niece,Sister
+1,67,Parts of Shoes,Everyday,,Null,Sole,Tongue
+2,67,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Alonso
+0,68,___bol,Linguistic,Fill in the blank,,Ár,Béis
+1,68,Bodies of Water,Everyday,Environment,Null,Puddle,Lake
+2,68,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Bard,Mess
+0,69,Words For Money,Linguistic,Slang/Synonyms,Null,Cash,Silver
+1,69,Types of Bread,Everyday,Foods,Null,Shell,Roll
+2,69,Children's Games,Pop culture,Sports,,Hopscotch,Leapfrog
+0,70,Cultural Sports,Pop culture,Sports,,Bocce,Duck
+1,70,Bodies of Water,Everyday,Environment,Null,Ocean,Lake
+2,70,Flowers,Everyday,Environment,Null,Lily,Orange
+0,71,Artists,Pop culture,,,Kahlo,Orozco
+1,71,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Ghost
+2,71,Latin-American Singers,Pop culture,Music,,Iglesias,Selena
+0,72,Genres,Pop culture,Literature,,Poems,Romance
+1,72,Metals,Everyday,,Null,Gold,Rhodium
+2,72,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Hoax,Cheat
+0,73,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Cool
+1,73,Parts of Bodies,Everyday,Bodily,Null,Mouth,Arm
+2,73,Metals,Everyday,,Null,Gold,Nickel Silver
+0,74,Teams in La Liga,Pop culture,Sports,,Mallorca,Barcelona
+1,74,Parts of Bodies,Everyday,Bodily,Null,Mouth,Nose
+2,74,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Father
+0,75,Characters from Don Quixote,Pop culture,Literature,,Sansón,Dulcinea
+1,75,___bol,Linguistic,Fill in the blank,,Fút,Ár
+2,75,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Bard
+0,76,Metals,Everyday,,Null,Nickel Silver,Rhodium
+1,76,Vegetables,Everyday,Foods,Null,Carrot,Celery
+2,76,___bol,Linguistic,Fill in the blank,,Fút,Ár
+0,77,Movie Directors,Pop culture,TV & Movies,,Llosa,Iñárritu
+1,77,Aquatic Animals,Everyday,Animals,Null,Axolotl,Beaver
+2,77,Types of Bread,Everyday,Foods,Null,Powder,Shortbread
+0,78,___bol,Linguistic,Fill in the blank,,Básquet,Ár
+1,78,Latin-American Singers,Pop culture,Music,,Iglesias,Santana
+2,78,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Bard
+0,79,Children's Games,Pop culture,Sports,,Marbles,Leapfrog
+1,79,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chavo
+2,79,Animals,Everyday,Animals,Null,Dog,Cat
+0,80,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Mess,Row
+1,80,Latin-American Poets,Pop culture,Literature,,Martí,Mistral
+2,80,Children's Games,Pop culture,Sports,,Marbles,Hopscotch
+0,81,"Words For ""Work""",Linguistic,Slang/Synonyms,,Work,Employment
+1,81,Parts of Bodies,Everyday,Bodily,Null,Nose,Mouth
+2,81,Latin-American Poets,Pop culture,Literature,,Martí,Acevedo
+0,82,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Boca,La Mariposa
+1,82,Flowers,Everyday,Environment,Null,Orange,Lily
+2,82,Vegetables,Everyday,Foods,Null,Carrot,Broccoli
+0,83,Characters from Don Quixote,Pop culture,Literature,,Sancho,Dulcinea
+1,83,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Ramón
+2,83,Spanish Homophones,Linguistic,Homophones,,Cook,Sew
+0,84,Cultural Sports,Pop culture,Sports,,Rodeo,Duck
+1,84,Teams in La Liga,Pop culture,Sports,,Madrid,Barcelona
+2,84,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Employment
+0,85,___tel,Linguistic,Fill in the blank,,Pas,Ho
+1,85,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Ghost,Souls
+2,85,___tro,Linguistic,Fill in the blank,,Secues,Arbi
+0,86,Artists,Pop culture,,,Orozco,Kahlo
+1,86,"Words For ""Cool""",Linguistic,Fill in the blank,,Father,Fantastic
+2,86,Words For Traffic,Linguistic,Slang/Synonyms,Null,Traffic,Taco
+0,87,Verbs,Linguistic,,Null,Leaped,Cried
+1,87,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Scares,Appearance
+2,87,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Humbug,Lie
+0,88,School Supplies,Everyday,,Null,Eraser,Envelope
+1,88,Mexican Food,Everyday,Foods,Null,Pambazo,Grasshopper
+2,88,Animals,Everyday,Animals,Null,Dog,Horse
+0,89,Names,Everyday,,Null,Margaret,Rose
+1,89,Words For Traffic,Linguistic,Slang/Synonyms,Null,Traffic,Taco
+2,89,Words For Money,Linguistic,Slang/Synonyms,Null,Silver,Cash
+0,90,Parts of Trees,Everyday,Environment,Null,Root,Branch
+1,90,Church Positions,Everyday,,Null,Monk,Priest
+2,90,Characters from Don Quixote,Pop culture,Literature,,Sancho,Sansón
+0,91,Aquatic Animals,Everyday,Animals,Null,Platypus,Walrus
+1,91,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Sancho
+2,91,Genres,Pop culture,Literature,,Poems,History
+0,92,Mexican Celebrations,Pop culture,,,Dead,Independence
+1,92,Vegetables,Everyday,Foods,Null,Carrot,Broccoli
+2,92,Names,Everyday,,Null,Rose,Eugenia
+0,93,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Solid
+1,93,Neighborhoods In Latinoamerica,Everyday,Environment,Null,Coyoacan,La Boca
+2,93,Cultural Sports,Pop culture,Sports,,Duck,Charrería
+0,94,Latin-American Bands,Pop culture,Music,,Lobos,Maná
+1,94,Bugs,Everyday,Animals,Null,Locust,Mosquito
+2,94,Church Positions,Everyday,,Null,Archbishop,Monk
+0,95,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Tasty,Excellent
+1,95,Cultural Sports,Pop culture,Sports,,Bocce,Rodeo
+2,95,Latin-American Bands,Pop culture,Music,,Tacuba,Lobos
+0,96,School Supplies,Everyday,,Null,Envelope,Pencil
+1,96,Aquatic Animals,Everyday,Animals,Null,Axolotl,Beaver
+2,96,Spanish Homophones,Linguistic,Homophones,,Sew,Rate
+0,97,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Delicious,Excellent
+1,97,Latin-American Poets,Pop culture,Literature,,Neruda,Martí
+2,97,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Lie,Humbug
+0,98,Bugs,Everyday,Animals,Null,Locust,Butterfly
+1,98,Bodies of Water,Everyday,Environment,Null,River,Ocean
+2,98,Mexican Celebrations,Pop culture,,,Wizards,Children
+0,99,Animals,Everyday,Animals,Null,Rat,Horse
+1,99,School Supplies,Everyday,,Null,Pencil,Envelope
+2,99,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Boca,La Mariposa
+0,100,Soccer Players,Pop culture,Sports,,Figueroa,Maradona
+1,100,Verbs,Linguistic,,Null,Sang,Cried
+2,100,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+0,101,Nicknames,Linguistic,,Null,Toño,Chucho
+1,101,Aquatic Animals,Everyday,Animals,Null,Beaver,Platypus
+2,101,Dances,Pop culture,,,Samba,Rumba
+0,102,Movie Directors,Pop culture,TV & Movies,,Iñárritu,Toro
+1,102,Latin-American Singers,Pop culture,Music,,Selena,Santana
+2,102,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Mess
+0,103,Aquatic Animals,Everyday,Animals,Null,Axolotl,Beaver
+1,103,Parts of Bodies,Everyday,Bodily,Null,Nose,Mouth
+2,103,Words For Traffic,Linguistic,Slang/Synonyms,Null,Taco,Bottleneck
+0,104,Parts of Trees,Everyday,Environment,Null,Leaf,Branch
+1,104,Aquatic Animals,Everyday,Animals,Null,Turtle,Octopus
+2,104,Latin-American Poets,Pop culture,Literature,,Martí,Neruda
+0,105,Verbs,Linguistic,,Null,Yelled,Cried
+1,105,Parts of Trees,Everyday,Environment,Null,Trunk,Leaf
+2,105,Words For Traffic,Linguistic,Slang/Synonyms,Null,Jam,Taco
+0,106,Genres,Pop culture,Literature,,Poems,Romance
+1,106,Soccer Players,Pop culture,Sports,,Messi,Suárez
+2,106,Children's Games,Pop culture,Sports,,Hopscotch,Marbles
+0,107,Bugs,Everyday,Animals,Null,Mosquito,Ladybug
+1,107,Latin-American Singers,Pop culture,Music,,Santana,Martin
+2,107,Teams in La Liga,Pop culture,Sports,,Mallorca,Sociedad
+0,108,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chavo,Ramón
+1,108,Artists,Pop culture,,,Izquierdo,Orozco
+2,108,Dances,Pop culture,,,Jive,Rumba
+0,109,Verbs,Linguistic,,Null,Yelled,Leaped
+1,109,Aquatic Animals,Everyday,Animals,Null,Sea Snail,Turtle
+2,109,Vegetables,Everyday,Foods,Null,Broccoli,Celery
+0,110,Spanish Actors,Pop culture,TV & Movies,,Banderas,Bardem
+1,110,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Hoax,Lie
+2,110,Animals,Everyday,Animals,Null,Dog,Horse
+0,111,Parts of Trees,Everyday,Environment,Null,Trunk,Root
+1,111,Metals,Everyday,,Null,Gold,Rhodium
+2,111,Animals,Everyday,Animals,Null,Rat,Cat
+0,112,Mexican Celebrations,Pop culture,,,Wizards,Children
+1,112,Teams in La Liga,Pop culture,Sports,,Barcelona,Madrid
+2,112,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Lie,Hoax
+0,113,Characters from Don Quixote,Pop culture,Literature,,Sansón,Dulcinea
+1,113,Mexican Food,Everyday,Foods,Null,Enchilada,Grasshopper
+2,113,Words For Traffic,Linguistic,Slang/Synonyms,Null,Taco,Traffic
+0,114,___bol,Linguistic,Fill in the blank,,Básquet,Béis
+1,114,Cultural Sports,Pop culture,Sports,,Bocce,Duck
+2,114,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Fart,Row
+0,115,Parts of Trees,Everyday,Environment,Null,Leaf,Trunk
+1,115,Bugs,Everyday,Animals,Null,Butterfly,Locust
+2,115,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Scares,Ghost
+0,116,Animals,Everyday,Animals,Null,Horse,Dog
+1,116,Soccer Players,Pop culture,Sports,,Maradona,Suárez
+2,116,Mexican Celebrations,Pop culture,,,Independence,Wizards
+0,117,Church Positions,Everyday,,Null,Priest,Monk
+1,117,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Alonso
+2,117,Latin-American Singers,Pop culture,Music,,Santana,Iglesias
+0,118,Cultural Sports,Pop culture,Sports,,Bocce,Charrería
+1,118,Aquatic Animals,Everyday,Animals,Null,Sea Snail,Turtle
+2,118,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Humbug,Cheat
+0,119,Aquatic Animals,Everyday,Animals,Null,Octopus,Sea Snail
+1,119,Metals,Everyday,,Null,Nickel Silver,Platinum
+2,119,"Words For ""Cool""",Linguistic,Fill in the blank,,Solid,Fantastic
+0,120,Parts of Trees,Everyday,Environment,Null,Branch,Trunk
+1,120,Movie Directors,Pop culture,TV & Movies,,Toro,Llosa
+2,120,Spanish Actors,Pop culture,TV & Movies,,Banderas,Bardem
+0,121,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Solid
+1,121,___bol,Linguistic,Fill in the blank,,Básquet,Fút
+2,121,Nicknames,Linguistic,,Null,Chucho,Chava
+0,122,Artists,Pop culture,,,Rivera,Izquierdo
+1,122,Metals,Everyday,,Null,Nickel Silver,Gold
+2,122,Animals,Everyday,Animals,Null,Rat,Cat
+0,123,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Mariposa,Coyoacan
+1,123,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Rich,Excellent
+2,123,Characters from Don Quixote,Pop culture,Literature,,Sansón,Alonso
+0,124,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Mess,Row
+1,124,Artists,Pop culture,,,Rivera,Kahlo
+2,124,___tel,Linguistic,Fill in the blank,,Man,Ho
+0,125,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Appearance
+1,125,School Supplies,Everyday,,Null,Eraser,Pen
+2,125,___tel,Linguistic,Fill in the blank,,Man,Pas
+0,126,Words For Traffic,Linguistic,Slang/Synonyms,Null,Taco,Traffic
+1,126,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Mariposa,El Dorado
+2,126,Latin-American Singers,Pop culture,Music,,Iglesias,Martin
+0,127,Cultural Sports,Pop culture,Sports,,Charrería,Bocce
+1,127,Relatives,Everyday,,Null,Niece,Mom
+2,127,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Cheat,Humbug
+0,128,Spanish Homophones,Linguistic,Homophones,,Sew,Rate
+1,128,Latin-American Bands,Pop culture,Music,,Tacuba,Maná
+2,128,Vegetables,Everyday,Foods,Null,Broccoli,Celery
+0,129,Nicknames,Linguistic,,Null,Chava,Lucha
+1,129,Latin-American Singers,Pop culture,Music,,Iglesias,Selena
+2,129,Bugs,Everyday,Animals,Null,Ladybug,Locust
+0,130,Church Positions,Everyday,,Null,Archbishop,Priest
+1,130,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Mess
+2,130,Latin-American Poets,Pop culture,Literature,,Acevedo,Martí
+0,131,Verbs,Linguistic,,Null,Cried,Sang
+1,131,Church Positions,Everyday,,Null,Monk,Cardinal
+2,131,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Sansón
+0,132,Flowers,Everyday,Environment,Null,Iris,Poinsettia
+1,132,Characters from Don Quixote,Pop culture,Literature,,Sancho,Alonso
+2,132,Soccer Players,Pop culture,Sports,,Maradona,Suárez
+0,133,Genres,Pop culture,Literature,,Romance,History
+1,133,Movie Directors,Pop culture,TV & Movies,,Toro,Iñárritu
+2,133,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Labor
+0,134,Parts of Bodies,Everyday,Bodily,Null,Mouth,Head
+1,134,Bodies of Water,Everyday,Environment,Null,Puddle,River
+2,134,Bugs,Everyday,Animals,Null,Butterfly,Locust
+0,135,"Words For ""Work""",Linguistic,Slang/Synonyms,,Labor,Work
+1,135,Genres,Pop culture,Literature,,Mystery,Romance
+2,135,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Mess,Fart
+0,136,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+1,136,___tar,Linguistic,Fill in the blank,,Orien,Agi
+2,136,Latin-American Bands,Pop culture,Music,,Enanitos,Lobos
+0,137,Verbs,Linguistic,,Null,Yelled,Cried
+1,137,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Lie,Humbug
+2,137,Artists,Pop culture,,,Orozco,Kahlo
+0,138,Animals,Everyday,Animals,Null,Horse,Dog
+1,138,Vegetables,Everyday,Foods,Null,Broccoli,Carrot
+2,138,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Ramón
+0,139,Artists,Pop culture,,,Rivera,Orozco
+1,139,Flowers,Everyday,Environment,Null,Poinsettia,Orange
+2,139,Words For Traffic,Linguistic,Slang/Synonyms,Null,Traffic,Jam
+0,140,Parts of Bodies,Everyday,Bodily,Null,Head,Arm
+1,140,Types of Bread,Everyday,Foods,Null,Shortbread,Roll
+2,140,Vegetables,Everyday,Foods,Null,Celery,Potato
+0,141,Aquatic Animals,Everyday,Animals,Null,Dolphin,Octopus
+1,141,Parts of Bodies,Everyday,Bodily,Null,Mouth,Nose
+2,141,___tar,Linguistic,Fill in the blank,,Orien,Encan
+0,142,Latin-American Singers,Pop culture,Music,,Martin,Selena
+1,142,Vegetables,Everyday,Foods,Null,Celery,Potato
+2,142,Movie Directors,Pop culture,TV & Movies,,Cuarón,Llosa
+0,143,Latin-American Poets,Pop culture,Literature,,Neruda,Acevedo
+1,143,Soccer Players,Pop culture,Sports,,Messi,Maradona
+2,143,School Supplies,Everyday,,Null,Pencil,Envelope
+0,144,___tel,Linguistic,Fill in the blank,,Man,Cóc
+1,144,Parts of Trees,Everyday,Environment,Null,Root,Trunk
+2,144,Bodies of Water,Everyday,Environment,Null,Ocean,Lake
+0,145,___tel,Linguistic,Fill in the blank,,Man,Cóc
+1,145,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Humbug,Hoax
+2,145,___tro,Linguistic,Fill in the blank,,Demues,Arbi
+0,146,Parts of Shoes,Everyday,,Null,Tongue,Heel
+1,146,Parts of Bodies,Everyday,Bodily,Null,Head,Mouth
+2,146,Soccer Players,Pop culture,Sports,,Suárez,Figueroa
+0,147,Latin-American Singers,Pop culture,Music,,Santana,Iglesias
+1,147,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Cool
+2,147,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+0,148,Children's Games,Pop culture,Sports,,Hiding,Hopscotch
+1,148,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Quico
+2,148,Spanish Actors,Pop culture,TV & Movies,,Banderas,Mollà
+0,149,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Bard,Row
+1,149,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Excellent,Rich
+2,149,Latin-American Singers,Pop culture,Music,,Santana,Martin
+0,150,Parts of Trees,Everyday,Environment,Null,Leaf,Trunk
+1,150,Bugs,Everyday,Animals,Null,Locust,Butterfly
+2,150,Words For Money,Linguistic,Slang/Synonyms,Null,Prawn,Silver
+0,151,Names,Everyday,,Null,Eugenia,Martha
+1,151,Relatives,Everyday,,Null,Uncle,Sister
+2,151,Latin-American Bands,Pop culture,Music,,Maná,Lobos
+0,152,Movie Directors,Pop culture,TV & Movies,,Iñárritu,Cuarón
+1,152,Latin-American Poets,Pop culture,Literature,,Neruda,Mistral
+2,152,Spanish Homophones,Linguistic,Homophones,,Cup,Rate
+0,153,Words For Traffic,Linguistic,Slang/Synonyms,Null,Traffic,Bottleneck
+1,153,Flowers,Everyday,Environment,Null,Lily,Poinsettia
+2,153,Aquatic Animals,Everyday,Animals,Null,Turtle,Sea Snail
+0,154,Artists,Pop culture,,,Izquierdo,Kahlo
+1,154,Words For Money,Linguistic,Slang/Synonyms,Null,Cash,Lucas
+2,154,Names,Everyday,,Null,Martha,Rose
+0,155,Teams in La Liga,Pop culture,Sports,,Mallorca,Barcelona
+1,155,Bodies of Water,Everyday,Environment,Null,Lake,River
+2,155,School Supplies,Everyday,,Null,Pencil,Eraser
+0,156,Aquatic Animals,Everyday,Animals,Null,Axolotl,Platypus
+1,156,Genres,Pop culture,Literature,,Poems,History
+2,156,Cultural Sports,Pop culture,Sports,,Duck,Bocce
+0,157,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Ghost,Scares
+1,157,"Words For ""Cool""",Linguistic,Fill in the blank,,Cool,Father
+2,157,Bugs,Everyday,Animals,Null,Locust,Butterfly
+0,158,Relatives,Everyday,,Null,Niece,Uncle
+1,158,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+2,158,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Mariposa,La Boca
+0,159,Relatives,Everyday,,Null,Sister,Uncle
+1,159,Artists,Pop culture,,,Rivera,Izquierdo
+2,159,Spanish Actors,Pop culture,TV & Movies,,Banderas,Maura
+0,160,Aquatic Animals,Everyday,Animals,Null,Axolotl,Walrus
+1,160,___tar,Linguistic,Fill in the blank,,Encan,Agi
+2,160,___bol,Linguistic,Fill in the blank,,Ár,Fút
+0,161,___tro,Linguistic,Fill in the blank,,Secues,Demues
+1,161,Nicknames,Linguistic,,Null,Toño,Chava
+2,161,Names,Everyday,,Null,Eugenia,Martha
+0,162,Neighborhoods In Latinoamerica,Everyday,Environment,Null,Coyoacan,El Dorado
+1,162,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Mess,Bard
+2,162,Mexican Celebrations,Pop culture,,,Dead,Children
+0,163,Aquatic Animals,Everyday,Animals,Null,Dolphin,Sea Snail
+1,163,Spanish Homophones,Linguistic,Homophones,,Cook,Rate
+2,163,Dances,Pop culture,,,Rumba,Samba
+0,164,Spanish Actors,Pop culture,TV & Movies,,Banderas,Bardem
+1,164,Bugs,Everyday,Animals,Null,Mosquito,Ladybug
+2,164,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Lie,Cheat
+0,165,Verbs,Linguistic,,Null,Cried,Yelled
+1,165,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Scares,Ghost
+2,165,Latin-American Poets,Pop culture,Literature,,Neruda,Martí
+0,166,Parts of Trees,Everyday,Environment,Null,Branch,Trunk
+1,166,Movie Directors,Pop culture,TV & Movies,,Llosa,Iñárritu
+2,166,Nicknames,Linguistic,,Null,Chucho,Toño
+0,167,___tel,Linguistic,Fill in the blank,,Pas,Man
+1,167,___tro,Linguistic,Fill in the blank,,Demues,Cilan
+2,167,Soccer Players,Pop culture,Sports,,Messi,Figueroa
+0,168,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Mess,Bard
+1,168,Vegetables,Everyday,Foods,Null,Celery,Broccoli
+2,168,"Words For ""Cool""",Linguistic,Fill in the blank,,Solid,Fantastic
+0,169,Metals,Everyday,,Null,Platinum,Nickel Silver
+1,169,Words For Money,Linguistic,Slang/Synonyms,Null,Prawn,Cash
+2,169,"Words For ""Cool""",Linguistic,Fill in the blank,,Cool,Father
+0,170,Spanish Actors,Pop culture,TV & Movies,,Maura,Mollà
+1,170,Church Positions,Everyday,,Null,Priest,Monk
+2,170,Mexican Food,Everyday,Foods,Null,Grasshopper,Enchilada
+0,171,Teams in La Liga,Pop culture,Sports,,Barcelona,Mallorca
+1,171,Spanish Homophones,Linguistic,Homophones,,Rate,Cup
+2,171,Spanish Actors,Pop culture,TV & Movies,,Banderas,Bardem
+0,172,Words For Traffic,Linguistic,Slang/Synonyms,Null,Bottleneck,Traffic
+1,172,Movie Directors,Pop culture,TV & Movies,,Iñárritu,Toro
+2,172,Flowers,Everyday,Environment,Null,Orange,Poinsettia
+0,173,Parts of Trees,Everyday,Environment,Null,Trunk,Root
+1,173,Aquatic Animals,Everyday,Animals,Null,Octopus,Sea Snail
+2,173,Nicknames,Linguistic,,Null,Lucha,Chucho
+0,174,Mexican Celebrations,Pop culture,,,Dead,Wizards
+1,174,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Mariposa,El Dorado
+2,174,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Appearance,Souls
+0,175,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Employment
+1,175,Types of Bread,Everyday,Foods,Null,Powder,Shortbread
+2,175,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Appearance,Souls
+0,176,Bugs,Everyday,Animals,Null,Mosquito,Locust
+1,176,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Prawn
+2,176,Vegetables,Everyday,Foods,Null,Carrot,Broccoli
+0,177,Animals,Everyday,Animals,Null,Cat,Horse
+1,177,Genres,Pop culture,Literature,,Mystery,History
+2,177,Children's Games,Pop culture,Sports,,Leapfrog,Marbles
+0,178,___tro,Linguistic,Fill in the blank,,Cilan,Secues
+1,178,Names,Everyday,,Null,Rose,Martha
+2,178,Parts of Shoes,Everyday,,Null,Heel,Sole
+0,179,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+1,179,Vegetables,Everyday,Foods,Null,Potato,Carrot
+2,179,Mexican Celebrations,Pop culture,,,Children,Wizards
+0,180,Aquatic Animals,Everyday,Animals,Null,Octopus,Sea Snail
+1,180,Animals,Everyday,Animals,Null,Horse,Rat
+2,180,Mexican Food,Everyday,Foods,Null,Grasshopper,Enchilada
+0,181,"Words For ""Work""",Linguistic,Slang/Synonyms,,Work,Labor
+1,181,Relatives,Everyday,,Null,Niece,Uncle
+2,181,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Humbug,Lie
+0,182,___tro,Linguistic,Fill in the blank,,Demues,Secues
+1,182,___tar,Linguistic,Fill in the blank,,Encan,Agi
+2,182,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Tasty,Delicious
+0,183,Spanish Homophones,Linguistic,Homophones,,Rate,Sew
+1,183,Dances,Pop culture,,,Mambo,Rumba
+2,183,Soccer Players,Pop culture,Sports,,Suárez,Figueroa
+0,184,Latin-American Bands,Pop culture,Music,,Lobos,Tacuba
+1,184,Words For Traffic,Linguistic,Slang/Synonyms,Null,Taco,Traffic
+2,184,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Scares
+0,185,Cultural Sports,Pop culture,Sports,,Bocce,Rodeo
+1,185,Mexican Food,Everyday,Foods,Null,Enchilada,Flauta
+2,185,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+0,186,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Mess,Fart
+1,186,"Words For ""Cool""",Linguistic,Fill in the blank,,Father,Cool
+2,186,Soccer Players,Pop culture,Sports,,Maradona,Suárez
+0,187,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Delicious,Excellent
+1,187,Metals,Everyday,,Null,Rhodium,Gold
+2,187,___bol,Linguistic,Fill in the blank,,Básquet,Ár
+0,188,Nicknames,Linguistic,,Null,Toño,Lucha
+1,188,Vegetables,Everyday,Foods,Null,Broccoli,Potato
+2,188,Names,Everyday,,Null,Martha,Margaret
+0,189,Teams in La Liga,Pop culture,Sports,,Sociedad,Madrid
+1,189,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+2,189,Latin-American Bands,Pop culture,Music,,Tacuba,Lobos
+0,190,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Prawn
+1,190,Characters from Don Quixote,Pop culture,Literature,,Sancho,Dulcinea
+2,190,Names,Everyday,,Null,Rose,Eugenia
+0,191,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Sancho
+1,191,Flowers,Everyday,Environment,Null,Lily,Poinsettia
+2,191,Bugs,Everyday,Animals,Null,Butterfly,Mosquito
+0,192,Latin-American Singers,Pop culture,Music,,Iglesias,Santana
+1,192,Animals,Everyday,Animals,Null,Dog,Horse
+2,192,"Words For ""Cool""",Linguistic,Fill in the blank,,Solid,Fantastic
+0,193,___tar,Linguistic,Fill in the blank,,Encan,Agi
+1,193,___tel,Linguistic,Fill in the blank,,Ho,Cóc
+2,193,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Boca,Coyoacan
+0,194,___tel,Linguistic,Fill in the blank,,Pas,Cóc
+1,194,Nicknames,Linguistic,,Null,Chucho,Lucha
+2,194,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Sansón
+0,195,___tar,Linguistic,Fill in the blank,,Agi,Dormi
+1,195,Dances,Pop culture,,,Samba,Jive
+2,195,Bugs,Everyday,Animals,Null,Mosquito,Ladybug
+0,196,Relatives,Everyday,,Null,Mom,Niece
+1,196,Artists,Pop culture,,,Rivera,Orozco
+2,196,Bodies of Water,Everyday,Environment,Null,Ocean,Puddle
+0,197,Types of Bread,Everyday,Foods,Null,Roll,Shortbread
+1,197,Verbs,Linguistic,,Null,Yelled,Sang
+2,197,Relatives,Everyday,,Null,Uncle,Sister
+0,198,Relatives,Everyday,,Null,Mom,Niece
+1,198,Children's Games,Pop culture,Sports,,Hopscotch,Marbles
+2,198,Latin-American Poets,Pop culture,Literature,,Mistral,Acevedo
+0,199,Parts of Bodies,Everyday,Bodily,Null,Head,Arm
+1,199,Spanish Actors,Pop culture,TV & Movies,,Banderas,Maura
+2,199,Soccer Players,Pop culture,Sports,,Suárez,Figueroa
+0,200,Words For Traffic,Linguistic,Slang/Synonyms,Null,Jam,Bottleneck
+1,200,Parts of Shoes,Everyday,,Null,Lace,Tongue
+2,200,Dances,Pop culture,,,Samba,Mambo
+0,201,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Bard,Fart
+1,201,Types of Bread,Everyday,Foods,Null,Powder,Shell
+2,201,Metals,Everyday,,Null,Platinum,Gold
+0,202,Children's Games,Pop culture,Sports,,Hiding,Hopscotch
+1,202,Flowers,Everyday,Environment,Null,Lily,Iris
+2,202,Aquatic Animals,Everyday,Animals,Null,Sea Snail,Turtle
+0,203,Neighborhoods In Latinoamerica,Everyday,Environment,Null,El Dorado,La Mariposa
+1,203,Nicknames,Linguistic,,Null,Chucho,Chava
+2,203,Genres,Pop culture,Literature,,Poems,Romance
+0,204,Church Positions,Everyday,,Null,Archbishop,Monk
+1,204,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Mess
+2,204,Soccer Players,Pop culture,Sports,,Figueroa,Maradona
+0,205,Mexican Food,Everyday,Foods,Null,Enchilada,Pambazo
+1,205,Types of Bread,Everyday,Foods,Null,Roll,Powder
+2,205,Children's Games,Pop culture,Sports,,Hopscotch,Marbles
+0,206,Neighborhoods In Latinoamerica,Everyday,Environment,Null,El Dorado,La Mariposa
+1,206,Children's Games,Pop culture,Sports,,Hiding,Hopscotch
+2,206,Bodies of Water,Everyday,Environment,Null,Ocean,Puddle
+0,207,Latin-American Bands,Pop culture,Music,,Lobos,Tacuba
+1,207,Relatives,Everyday,,Null,Niece,Sister
+2,207,Vegetables,Everyday,Foods,Null,Potato,Carrot
+0,208,Neighborhoods In Latinoamerica,Everyday,Environment,Null,Coyoacan,La Boca
+1,208,Latin-American Poets,Pop culture,Literature,,Acevedo,Neruda
+2,208,___bol,Linguistic,Fill in the blank,,Ár,Básquet
+0,209,Cultural Sports,Pop culture,Sports,,Charrería,Rodeo
+1,209,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Solid
+2,209,Movie Directors,Pop culture,TV & Movies,,Cuarón,Llosa
+0,210,Animals,Everyday,Animals,Null,Horse,Rat
+1,210,Parts of Bodies,Everyday,Bodily,Null,Head,Mouth
+2,210,Latin-American Bands,Pop culture,Music,,Lobos,Enanitos
+0,211,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Bard,Mess
+1,211,Spanish Homophones,Linguistic,Homophones,,Cup,Rate
+2,211,___bol,Linguistic,Fill in the blank,,Ár,Fút
+0,212,Church Positions,Everyday,,Null,Monk,Priest
+1,212,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Prawn
+2,212,Mexican Food,Everyday,Foods,Null,Flauta,Grasshopper
+0,213,Mexican Food,Everyday,Foods,Null,Pambazo,Enchilada
+1,213,Names,Everyday,,Null,Eugenia,Martha
+2,213,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Fart,Mess
+0,214,Parts of Bodies,Everyday,Bodily,Null,Mouth,Nose
+1,214,Latin-American Bands,Pop culture,Music,,Enanitos,Lobos
+2,214,Artists,Pop culture,,,Rivera,Orozco
+0,215,Aquatic Animals,Everyday,Animals,Null,Axolotl,Platypus
+1,215,Types of Bread,Everyday,Foods,Null,Shortbread,Shell
+2,215,Metals,Everyday,,Null,Nickel Silver,Rhodium
+0,216,Spanish Homophones,Linguistic,Homophones,,Sew,Rate
+1,216,Neighborhoods In Latinoamerica,Everyday,Environment,Null,Coyoacan,La Mariposa
+2,216,Aquatic Animals,Everyday,Animals,Null,Turtle,Octopus
+0,217,Bodies of Water,Everyday,Environment,Null,Ocean,Lake
+1,217,Parts of Bodies,Everyday,Bodily,Null,Head,Mouth
+2,217,Words For Traffic,Linguistic,Slang/Synonyms,Null,Jam,Taco
+0,218,Movie Directors,Pop culture,TV & Movies,,Iñárritu,Llosa
+1,218,Bugs,Everyday,Animals,Null,Ladybug,Mosquito
+2,218,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Labor
+0,219,Bodies of Water,Everyday,Environment,Null,Puddle,River
+1,219,Animals,Everyday,Animals,Null,Cat,Dog
+2,219,Church Positions,Everyday,,Null,Cardinal,Priest
+0,220,Aquatic Animals,Everyday,Animals,Null,Platypus,Beaver
+1,220,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Appearance,Ghost
+2,220,Spanish Actors,Pop culture,TV & Movies,,Maura,Bardem
+0,221,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Mess,Bard
+1,221,Teams in La Liga,Pop culture,Sports,,Sociedad,Barcelona
+2,221,Mexican Food,Everyday,Foods,Null,Flauta,Pambazo
+0,222,School Supplies,Everyday,,Null,Pen,Envelope
+1,222,___tro,Linguistic,Fill in the blank,,Secues,Arbi
+2,222,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Quico
+0,223,Artists,Pop culture,,,Orozco,Izquierdo
+1,223,Parts of Trees,Everyday,Environment,Null,Branch,Trunk
+2,223,Soccer Players,Pop culture,Sports,,Maradona,Messi
+0,224,Cultural Sports,Pop culture,Sports,,Bocce,Rodeo
+1,224,Soccer Players,Pop culture,Sports,,Maradona,Messi
+2,224,Parts of Shoes,Everyday,,Null,Heel,Tongue
+0,225,Animals,Everyday,Animals,Null,Rat,Dog
+1,225,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Bard,Fart
+2,225,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chavo
+0,226,Mexican Celebrations,Pop culture,,,Dead,Wizards
+1,226,___tro,Linguistic,Fill in the blank,,Secues,Demues
+2,226,Words For Money,Linguistic,Slang/Synonyms,Null,Cash,Silver
+0,227,Church Positions,Everyday,,Null,Archbishop,Cardinal
+1,227,___tro,Linguistic,Fill in the blank,,Secues,Cilan
+2,227,Teams in La Liga,Pop culture,Sports,,Barcelona,Madrid
+0,228,Aquatic Animals,Everyday,Animals,Null,Sea Snail,Turtle
+1,228,Soccer Players,Pop culture,Sports,,Figueroa,Suárez
+2,228,Parts of Bodies,Everyday,Bodily,Null,Head,Mouth
+0,229,Words For Traffic,Linguistic,Slang/Synonyms,Null,Traffic,Jam
+1,229,School Supplies,Everyday,,Null,Pen,Eraser
+2,229,Dances,Pop culture,,,Jive,Mambo
+0,230,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Quico,Chavo
+1,230,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Delicious,Tasty
+2,230,Words For Money,Linguistic,Slang/Synonyms,Null,Cash,Lucas
+0,231,School Supplies,Everyday,,Null,Pencil,Eraser
+1,231,Parts of Bodies,Everyday,Bodily,Null,Nose,Mouth
+2,231,Mexican Celebrations,Pop culture,,,Dead,Independence
+0,232,Types of Bread,Everyday,Foods,Null,Powder,Shell
+1,232,Aquatic Animals,Everyday,Animals,Null,Dolphin,Sea Snail
+2,232,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Mess
+0,233,Words For Traffic,Linguistic,Slang/Synonyms,Null,Traffic,Taco
+1,233,Teams in La Liga,Pop culture,Sports,,Sociedad,Mallorca
+2,233,Dances,Pop culture,,,Samba,Mambo
+0,234,Nicknames,Linguistic,,Null,Lucha,Chava
+1,234,"Words For ""Work""",Linguistic,Slang/Synonyms,,Labor,Work
+2,234,Parts of Trees,Everyday,Environment,Null,Branch,Leaf
+0,235,___bol,Linguistic,Fill in the blank,,Béis,Ár
+1,235,Parts of Bodies,Everyday,Bodily,Null,Head,Mouth
+2,235,Flowers,Everyday,Environment,Null,Lily,Iris
+0,236,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Bard,Fart
+1,236,Cultural Sports,Pop culture,Sports,,Bocce,Rodeo
+2,236,Genres,Pop culture,Literature,,Poems,Mystery
+0,237,Spanish Homophones,Linguistic,Homophones,,Cook,Cup
+1,237,Parts of Bodies,Everyday,Bodily,Null,Nose,Arm
+2,237,"Words For ""Work""",Linguistic,Slang/Synonyms,,Block,Labor
+0,238,Verbs,Linguistic,,Null,Sang,Leaped
+1,238,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Excellent,Tasty
+2,238,"Words For ""Cool""",Linguistic,Fill in the blank,,Cool,Solid
+0,239,Nicknames,Linguistic,,Null,Lucha,Toño
+1,239,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Ghost
+2,239,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Rich,Excellent
+0,240,Artists,Pop culture,,,Izquierdo,Orozco
+1,240,Words For Money,Linguistic,Slang/Synonyms,Null,Cash,Silver
+2,240,Aquatic Animals,Everyday,Animals,Null,Walrus,Axolotl
+0,241,Relatives,Everyday,,Null,Mom,Sister
+1,241,Spanish Homophones,Linguistic,Homophones,,Rate,Sew
+2,241,Aquatic Animals,Everyday,Animals,Null,Octopus,Sea Snail
+0,242,Teams in La Liga,Pop culture,Sports,,Mallorca,Sociedad
+1,242,Artists,Pop culture,,,Rivera,Kahlo
+2,242,Latin-American Bands,Pop culture,Music,,Maná,Lobos
+0,243,Characters from Don Quixote,Pop culture,Literature,,Sancho,Dulcinea
+1,243,Artists,Pop culture,,,Izquierdo,Rivera
+2,243,Parts of Shoes,Everyday,,Null,Lace,Tongue
+0,244,Verbs,Linguistic,,Null,Yelled,Cried
+1,244,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Cheat,Lie
+2,244,Soccer Players,Pop culture,Sports,,Maradona,Figueroa
+0,245,Mexican Celebrations,Pop culture,,,Dead,Independence
+1,245,Genres,Pop culture,Literature,,History,Romance
+2,245,Teams in La Liga,Pop culture,Sports,,Sociedad,Barcelona
+0,246,Bodies of Water,Everyday,Environment,Null,Puddle,River
+1,246,Cultural Sports,Pop culture,Sports,,Duck,Charrería
+2,246,Mexican Food,Everyday,Foods,Null,Enchilada,Pambazo
+0,247,Metals,Everyday,,Null,Rhodium,Nickel Silver
+1,247,Types of Bread,Everyday,Foods,Null,Shortbread,Roll
+2,247,Bugs,Everyday,Animals,Null,Locust,Ladybug
+0,248,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Delicious,Rich
+1,248,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Boca,El Dorado
+2,248,Bodies of Water,Everyday,Environment,Null,Lake,Ocean
+0,249,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Ramón,Chavo
+1,249,Artists,Pop culture,,,Izquierdo,Orozco
+2,249,___tar,Linguistic,Fill in the blank,,Agi,Orien
+0,250,Verbs,Linguistic,,Null,Cried,Yelled
+1,250,Aquatic Animals,Everyday,Animals,Null,Beaver,Walrus
+2,250,Spanish Actors,Pop culture,TV & Movies,,Mollà,Bardem
+0,251,___tel,Linguistic,Fill in the blank,,Man,Ho
+1,251,Spanish Homophones,Linguistic,Homophones,,Cook,Rate
+2,251,Characters from Don Quixote,Pop culture,Literature,,Alonso,Dulcinea
+0,252,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+1,252,Parts of Shoes,Everyday,,Null,Heel,Lace
+2,252,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Scares
+0,253,Dances,Pop culture,,,Mambo,Rumba
+1,253,Spanish Homophones,Linguistic,Homophones,,Cook,Rate
+2,253,Cultural Sports,Pop culture,Sports,,Rodeo,Charrería
+0,254,Aquatic Animals,Everyday,Animals,Null,Sea Snail,Turtle
+1,254,Types of Bread,Everyday,Foods,Null,Roll,Powder
+2,254,Soccer Players,Pop culture,Sports,,Messi,Maradona
+0,255,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Scares,Appearance
+1,255,Animals,Everyday,Animals,Null,Cat,Rat
+2,255,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Delicious,Rich
+0,256,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Ramón
+1,256,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Humbug,Lie
+2,256,Bugs,Everyday,Animals,Null,Ladybug,Butterfly
+0,257,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Row,Fart
+1,257,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Sancho
+2,257,School Supplies,Everyday,,Null,Pencil,Eraser
+0,258,Latin-American Bands,Pop culture,Music,,Lobos,Enanitos
+1,258,Flowers,Everyday,Environment,Null,Poinsettia,Orange
+2,258,Spanish Actors,Pop culture,TV & Movies,,Banderas,Mollà
+0,259,___tro,Linguistic,Fill in the blank,,Arbi,Secues
+1,259,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Excellent,Delicious
+2,259,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Prawn
+0,260,Soccer Players,Pop culture,Sports,,Suárez,Figueroa
+1,260,Genres,Pop culture,Literature,,History,Poems
+2,260,Spanish Actors,Pop culture,TV & Movies,,Mollà,Banderas
+0,261,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Hoax,Cheat
+1,261,School Supplies,Everyday,,Null,Pen,Pencil
+2,261,Characters from Don Quixote,Pop culture,Literature,,Sancho,Alonso
+0,262,Mexican Celebrations,Pop culture,,,Dead,Independence
+1,262,Nicknames,Linguistic,,Null,Toño,Chava
+2,262,Children's Games,Pop culture,Sports,,Hopscotch,Marbles
+0,263,Teams in La Liga,Pop culture,Sports,,Mallorca,Sociedad
+1,263,Vegetables,Everyday,Foods,Null,Potato,Carrot
+2,263,Words For Money,Linguistic,Slang/Synonyms,Null,Prawn,Silver
+0,264,Names,Everyday,,Null,Eugenia,Rose
+1,264,Spanish Homophones,Linguistic,Homophones,,Sew,Cup
+2,264,___tel,Linguistic,Fill in the blank,,Man,Cóc
+0,265,Church Positions,Everyday,,Null,Archbishop,Monk
+1,265,Genres,Pop culture,Literature,,Poems,Romance
+2,265,Mexican Food,Everyday,Foods,Null,Enchilada,Grasshopper
+0,266,Mexican Food,Everyday,Foods,Null,Enchilada,Flauta
+1,266,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chavo,Quico
+2,266,___bol,Linguistic,Fill in the blank,,Básquet,Béis
+0,267,Church Positions,Everyday,,Null,Priest,Monk
+1,267,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Ghost
+2,267,Relatives,Everyday,,Null,Uncle,Niece
+0,268,___tar,Linguistic,Fill in the blank,,Orien,Agi
+1,268,School Supplies,Everyday,,Null,Eraser,Pencil
+2,268,Children's Games,Pop culture,Sports,,Leapfrog,Hopscotch
+0,269,Cultural Sports,Pop culture,Sports,,Charrería,Rodeo
+1,269,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Mariposa,La Boca
+2,269,Animals,Everyday,Animals,Null,Cat,Dog
+0,270,Soccer Players,Pop culture,Sports,,Maradona,Suárez
+1,270,Neighborhoods In Latinoamerica,Everyday,Environment,Null,Coyoacan,El Dorado
+2,270,Church Positions,Everyday,,Null,Archbishop,Cardinal
+0,271,Children's Games,Pop culture,Sports,,Hopscotch,Hiding
+1,271,Nicknames,Linguistic,,Null,Chucho,Toño
+2,271,Latin-American Bands,Pop culture,Music,,Lobos,Maná
+0,272,Types of Bread,Everyday,Foods,Null,Shell,Shortbread
+1,272,"Words For ""Problem""",Linguistic,Slang/Synonyms,,Bard,Row
+2,272,Dances,Pop culture,,,Rumba,Samba
+0,273,Dances,Pop culture,,,Mambo,Rumba
+1,273,Nicknames,Linguistic,,Null,Chucho,Chava
+2,273,Characters from Don Quixote,Pop culture,Literature,,Alonso,Dulcinea
+0,274,Mexican Celebrations,Pop culture,,,Wizards,Independence
+1,274,Parts of Trees,Everyday,Environment,Null,Root,Branch
+2,274,___tel,Linguistic,Fill in the blank,,Pas,Cóc
+0,275,Latin-American Singers,Pop culture,Music,,Iglesias,Santana
+1,275,Types of Bread,Everyday,Foods,Null,Shell,Powder
+2,275,Characters from Don Quixote,Pop culture,Literature,,Dulcinea,Sancho
+0,276,Animals,Everyday,Animals,Null,Horse,Dog
+1,276,Artists,Pop culture,,,Orozco,Izquierdo
+2,276,Latin-American Poets,Pop culture,Literature,,Mistral,Martí
+0,277,Parts of Shoes,Everyday,,Null,Lace,Heel
+1,277,Verbs,Linguistic,,Null,Leaped,Sang
+2,277,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Appearance,Scares
+0,278,Mexican Food,Everyday,Foods,Null,Enchilada,Flauta
+1,278,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Cheat,Humbug
+2,278,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Ghost
+0,279,Latin-American Poets,Pop culture,Literature,,Mistral,Martí
+1,279,Names,Everyday,,Null,Margaret,Eugenia
+2,279,Mexican Food,Everyday,Foods,Null,Enchilada,Pambazo
+0,280,Parts of Trees,Everyday,Environment,Null,Leaf,Branch
+1,280,Bodies of Water,Everyday,Environment,Null,River,Ocean
+2,280,Neighborhoods In Latinoamerica,Everyday,Environment,Null,La Mariposa,Coyoacan
+0,281,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Father
+1,281,Latin-American Poets,Pop culture,Literature,,Neruda,Acevedo
+2,281,Bodies of Water,Everyday,Environment,Null,River,Lake
+0,282,Names,Everyday,,Null,Margaret,Martha
+1,282,School Supplies,Everyday,,Null,Eraser,Envelope
+2,282,Bodies of Water,Everyday,Environment,Null,River,Puddle
+0,283,Soccer Players,Pop culture,Sports,,Suárez,Messi
+1,283,Flowers,Everyday,Environment,Null,Orange,Poinsettia
+2,283,Names,Everyday,,Null,Margaret,Rose
+0,284,___tro,Linguistic,Fill in the blank,,Cilan,Arbi
+1,284,Children's Games,Pop culture,Sports,,Hopscotch,Marbles
+2,284,___bol,Linguistic,Fill in the blank,,Básquet,Béis
+0,285,Relatives,Everyday,,Null,Uncle,Sister
+1,285,Verbs,Linguistic,,Null,Sang,Yelled
+2,285,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Cash
+0,286,Soccer Players,Pop culture,Sports,,Messi,Maradona
+1,286,Dances,Pop culture,,,Mambo,Jive
+2,286,Spanish Actors,Pop culture,TV & Movies,,Maura,Banderas
+0,287,Parts of Bodies,Everyday,Bodily,Null,Nose,Arm
+1,287,Children's Games,Pop culture,Sports,,Hopscotch,Marbles
+2,287,Mexican Celebrations,Pop culture,,,Children,Wizards
+0,288,Relatives,Everyday,,Null,Uncle,Niece
+1,288,Aquatic Animals,Everyday,Animals,Null,Turtle,Sea Snail
+2,288,"Words for ""Delicious""",Linguistic,Slang/Synonyms,,Tasty,Delicious
+0,289,Spanish Homophones,Linguistic,Homophones,,Cup,Cook
+1,289,"Words For ""Cool""",Linguistic,Fill in the blank,,Fantastic,Cool
+2,289,___tel,Linguistic,Fill in the blank,,Cóc,Ho
+0,290,Flowers,Everyday,Environment,Null,Iris,Lily
+1,290,Vegetables,Everyday,Foods,Null,Potato,Celery
+2,290,Soccer Players,Pop culture,Sports,,Figueroa,Messi
+0,291,"Words For ""Lie""",Linguistic,Slang/Synonyms,,Lie,Humbug
+1,291,Parts of Bodies,Everyday,Bodily,Null,Head,Nose
+2,291,Spanish Actors,Pop culture,TV & Movies,,Mollà,Bardem
+0,292,Dances,Pop culture,,,Samba,Mambo
+1,292,Movie Directors,Pop culture,TV & Movies,,Llosa,Cuarón
+2,292,Verbs,Linguistic,,Null,Leaped,Sang
+0,293,Parts of Trees,Everyday,Environment,Null,Leaf,Branch
+1,293,Words For Money,Linguistic,Slang/Synonyms,Null,Lucas,Silver
+2,293,Artists,Pop culture,,,Kahlo,Rivera
+0,294,Cultural Sports,Pop culture,Sports,,Bocce,Duck
+1,294,Teams in La Liga,Pop culture,Sports,,Barcelona,Sociedad
+2,294,Relatives,Everyday,,Null,Niece,Sister
+0,295,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chavo,Chilindrina
+1,295,Latin-American Singers,Pop culture,Music,,Martin,Iglesias
+2,295,Church Positions,Everyday,,Null,Cardinal,Priest
+0,296,___bol,Linguistic,Fill in the blank,,Fút,Béis
+1,296,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Scares,Ghost
+2,296,Characters from El Chavo del Ocho,Pop culture,TV & Movies,,Chilindrina,Ramón
+0,297,Cultural Sports,Pop culture,Sports,,Bocce,Duck
+1,297,"Words for ""Ghost""",Linguistic,Slang/Synonyms,,Souls,Appearance
+2,297,Vegetables,Everyday,Foods,Null,Potato,Carrot
+0,298,Artists,Pop culture,,,Rivera,Izquierdo
+1,298,Movie Directors,Pop culture,TV & Movies,,Toro,Llosa
+2,298,Parts of Shoes,Everyday,,Null,Heel,Tongue
+0,299,Aquatic Animals,Everyday,Animals,Null,Dolphin,Sea Snail
+1,299,"Words For ""Work""",Linguistic,Slang/Synonyms,,Employment,Labor
+2,299,Teams in La Liga,Pop culture,Sports,,Sociedad,Madrid
