@@ -1,0 +1,1201 @@
+,Game #,True Topic,Tag 1,Tag 2,Tag 3,Word 1,Word 2
+0,0,Indian Civilizations,1,,,Maurya,Vedic
+1,0,Indian Holidays,1,,,Navaratri,Diwali
+2,0,Indian Male Gods,1,,,Indra,Shiva
+3,0,Cattle,0,,,Buffalo,Cow
+0,1,West Indian Food,1,,,Khandwa,Vada Pav
+1,1,Tools,0,,,Pliers,Hammer
+2,1,Indian Female Gods,1,,,Kali,Durga
+3,1,Indian Holidays,1,,,Karva Chauth,Diwali
+0,2,Royalty,1,,,Pratap,Bhupati
+1,2,"Synonyms for ""Good""",1,,,Cool,Right
+2,2,Places to Live and Work,0,,,Home,Building
+3,2,Parts of a Train,0,,,Wheel,Brake
+0,3,Conversational Slangs,1,,,Friend,True
+1,3,Popular Indian Cities,1,,,Bengaluru,Delhi
+2,3,Vegetables,0,,,Cabbage,Calabash
+3,3,Fruits,0,,,Pineapple,Orange
+0,4,"Slang for ""Cheating""",0,,,Deceive,Fraud
+1,4,Indian Rivers,1,,,Yamuna,Saraswati
+2,4,North Indian Food,1,,,Bhatura,Paratha
+3,4,Maternal Family Members,1,,,Grandfather,Grandma
+0,5,Amar Chitra Katha Characters,1,,,Shivaji,Shakuntala
+1,5,Animal Nicknames for Teasing,1,,,Bear,Monkey
+2,5,Popular Indian Cities,1,,,Delhi,Mumbai
+3,5,Parts of a Train,0,,,Brake,Engine
+0,6,Parts of a Train,0,,,Compartment,Wheel
+1,6,East Indian Food,1,,,Khichdi,Litti Chokha
+2,6,Movie Characters,1,,,Tukaram,Baasha
+3,6,Indian Animals,0,,,Tiger,Cobra
+0,7,Indian Rivers,1,,,Brahmaputra,Yamuna
+1,7,"Synonyms for ""Good""",1,,,Ok,Good
+2,7,Indian Sweets,1,,,Jalebi,Kaju Katli
+3,7,Places to Live and Work,0,,,Office,Apartment
+0,8,Cultural Dance,1,,,Bharatanatyam,Kathakali
+1,8,Popular Indian Cities,1,,,Bengaluru,Kolkata
+2,8,Indian Bridal Adornments,1,,,Bangles,Mangalsutra
+3,8,Fairy Tales,1,,,Tenali,Panchatantra
+0,9,Different Religions,0,,,Buddhist,Jain
+1,9,West Indian Food,1,,,Vada Pav,Khandwa
+2,9,Indian Authors,1,,,Bond,Tagore
+3,9,Vegetables,0,,,Cabbage,Spinach
+0,10,Forest Animals,0,,,Elephant,Tiger
+1,10,Vegetables,0,,,Calabash,Ladyfinger
+2,10,Seasonings,0,,,Salt,Pepper
+3,10,"Slang for ""Cheating""",0,,,Deceive,Lie
+0,11,Display Devices,0,,,Monitor,Laptop
+1,11,Indian Movie Directors,1,,,Akhtar,Ray
+2,11,Royalty,1,,,Bhupati,Rama
+3,11,Fairy Tales,1,,,Hanuman,Tenali
+0,12,Indian Dish,1,,,Paneer Tikka,Biryani
+1,12,North Indian Food,1,,,Bhatura,Paratha
+2,12,Spices and Herbs,0,,,Ginger,Garlic
+3,12,Indian Male Gods,1,,,Shiva,Krishna
+0,13,Paternal Family Members,1,,,Aunt,Papa
+1,13,Conversational Slangs,1,,,Friend,True
+2,13,Maternal Family Members,1,,,Mom,Grandfather
+3,13,West Indian Food,1,,,Vada Pav,Dhokla
+0,14,Olympians,1,,,Das,Bindra
+1,14,Maternal Family Members,1,,,Aunt,Mom
+2,14,"Synonyms for ""Good""",1,,,Cool,Ok
+3,14,Folk Music Instruments,1,,,Shehnai,Dholak
+0,15,Maternal Family Members,1,,,Grandma,Grandfather
+1,15,Indian Movie Directors,1,,,Ray,Akhtar
+2,15,Indian Dish,1,,,Dosa,Paneer Tikka
+3,15,Forest Animals,0,,,Tiger,Lion
+0,16,Indian Last Names,1,,,Reddy,Sharma
+1,16,Indian Animals,0,,,Tiger,Cobra
+2,16,Sports,0,,,Cricket,Badminton
+3,16,Indian Sweets,1,,,Rasgulla,Jalebi
+0,17,Vegetables,0,,,Spinach,Ladyfinger
+1,17,Popular Indian Cities,1,,,Kolkata,Delhi
+2,17,Cattle,0,,,Buffalo,Goat
+3,17,Fairy Tales,1,,,Panchatantra,Hanuman
+0,18,Popular Indian Cities,1,,,Delhi,Mumbai
+1,18,Fruits,0,,,Banana,Orange
+2,18,Cattle,0,,,Cow,Goat
+3,18,Indian Bridal Adornments,1,,,Sindoor,Bangles
+0,19,East Indian Food,1,,,Khichdi,Litti Chokha
+1,19,Tools,0,,,Pliers,Screwdriver
+2,19,Spices and Herbs,0,,,Ginger,Garlic
+3,19,Indian Civilizations,1,,,Maurya,Sindhu
+0,20,Parts of a Train,0,,,Brake,Compartment
+1,20,Fairy Tales,1,,,Tenali,Panchatantra
+2,20,Forest Animals,0,,,Tiger,Lion
+3,20,Indian Languages,1,,,Gujarati,Hindi
+0,21,Fruits,0,,,Orange,Apple
+1,21,Indian Languages,1,,,Marathi,Punjabi
+2,21,Indian Sweets,1,,,Rasgulla,Jalebi
+3,21,Seasonings,0,,,Salt,Pepper
+0,22,East Indian Food,1,,,Machher Jhol,Dal Bati
+1,22,Indian National Sanctuaries,1,,,Kaziranga,Ranthambore
+2,22,Indian Civilizations,1,,,Vedic,Maurya
+3,22,Olympians,1,,,Bindra,Kumar
+0,23,Vegetables,0,,,Ladyfinger,Cabbage
+1,23,"Synonyms for ""Good""",1,,,Good,Cool
+2,23,South Indian Food,1,,,Upma,Vada
+3,23,Sports,0,,,Cricket,Hockey
+0,24,Tools,0,,,Screwdriver,Pliers
+1,24,Fairy Tales,1,,,Birbal,Panchatantra
+2,24,Parts of a Train,0,,,Wheel,Engine
+3,24,Conversational Slangs,1,,,True,Cool
+0,25,Folk Music Instruments,1,,,Shehnai,Mridangam
+1,25,Indian Movie Directors,1,,,Ray,Sircar
+2,25,Indian Authors,1,,,Tagore,Premchand
+3,25,Place of Worship,0,,,Temple,Church
+0,26,Fairy Tales,1,,,Tenali,Hanuman
+1,26,Display Devices,0,,,Mobile,Monitor
+2,26,Pet Animals,0,,,Dog,Rabbit
+3,26,Indian Holidays,1,,,Diwali,Dussehra
+0,27,Indian Civilizations,1,,,Vedic,Sindhu
+1,27,Indian Sweets,1,,,Jalebi,Rasgulla
+2,27,Indian Holidays,1,,,Navaratri,Diwali
+3,27,Folk Music Instruments,1,,,Mridangam,Tabla
+0,28,Popular Indian Cities,1,,,Bengaluru,Kolkata
+1,28,Spices and Herbs,0,,,Garlic,Chili
+2,28,Cattle,0,,,Goat,Buffalo
+3,28,Places to Live and Work,0,,,Home,Building
+0,29,Amar Chitra Katha Characters,1,,,Nal,Damayanti
+1,29,Indian Female Gods,1,,,Durga,Saraswati
+2,29,Indian National Sanctuaries,1,,,Kaziranga,Jim Corbett
+3,29,North Indian Food,1,,,Paratha,Bhatura
+0,30,Place of Worship,0,,,Gurudwara,Temple
+1,30,Seasonings,0,,,Cumin,Turmeric
+2,30,Indian Rivers,1,,,Brahmaputra,Saraswati
+3,30,Places to Live and Work,0,,,Office,Home
+0,31,Display Devices,0,,,Mobile,TV
+1,31,Indian Sweets,1,,,Jalebi,Gulab Jamun
+2,31,East Indian Food,1,,,Dal Bati,Litti Chokha
+3,31,North Indian Food,1,,,Poha,Paratha
+0,32,Animal Nicknames for Teasing,1,,,Monkey,Dog
+1,32,Taste,0,,,Bitter,Sour
+2,32,Olympians,1,,,Singh,Kumar
+3,32,South Indian Food,1,,,Vada,Idli
+0,33,Taste,0,,,Salty,Bitter
+1,33,Pet Animals,0,,,Dog,Rabbit
+2,33,Royalty,1,,,Pratap,Abhimanyu
+3,33,Different Religions,0,,,Sikh,Buddhist
+0,34,Pet Animals,0,,,Parrot,Cat
+1,34,Cultural Dance,1,,,Kathakali,Bharatanatyam
+2,34,Forest Animals,0,,,Deer,Lion
+3,34,"Synonyms for ""Good""",1,,,Ok,Good
+0,35,Indian Last Names,1,,,Iyer,Reddy
+1,35,Indian National Sanctuaries,1,,,Kaziranga,Sundarbans
+2,35,Places to Live and Work,0,,,Home,Building
+3,35,Tools,0,,,Screwdriver,Pliers
+0,36,East Indian Food,1,,,Khichdi,Dal Bati
+1,36,Indian Movie Directors,1,,,Bharadwaj,Sircar
+2,36,Olympians,1,,,Kumar,Bindra
+3,36,Vegetables,0,,,Cabbage,Ladyfinger
+0,37,Indian Rivers,1,,,Brahmaputra,Ganga
+1,37,Movie Characters,1,,,Karsandas,Tukaram
+2,37,Indian Sweets,1,,,Gulab Jamun,Rasgulla
+3,37,Paternal Family Members,1,,,Grandma,Aunt
+0,38,Indian Authors,1,,,Bond,Narayan
+1,38,Conversational Slangs,1,,,Cool,Friend
+2,38,Indian Clothes,1,,,Dhoti,Kurta
+3,38,Indian Sweets,1,,,Jalebi,Kaju Katli
+0,39,Cultural Dance,1,,,Bharatanatyam,Odissi
+1,39,Vegetables,0,,,Ladyfinger,Spinach
+2,39,Indian Civilizations,1,,,Gupta,Sindhu
+3,39,Paternal Family Members,1,,,Grandma,Aunt
+0,40,Popular Indian Cities,1,,,Bengaluru,Kolkata
+1,40,Indian Rivers,1,,,Ganga,Brahmaputra
+2,40,Cattle,0,,,Goat,Buffalo
+3,40,Indian Bridal Adornments,1,,,Mangalsutra,Bindi
+0,41,Animal Nicknames for Teasing,1,,,Monkey,Bear
+1,41,Amar Chitra Katha Characters,1,,,Shivaji,Nal
+2,41,Royalty,1,,,Abhimanyu,Pratap
+3,41,Paternal Family Members,1,,,Aunt,Papa
+0,42,Place of Worship,0,,,Gurudwara,Mosque
+1,42,Indian Male Gods,1,,,Krishna,Shiva
+2,42,Forest Animals,0,,,Deer,Tiger
+3,42,"Slang for ""Cheating""",0,,,Fraud,Lie
+0,43,Folk Music Instruments,1,,,Dholak,Mridangam
+1,43,Indian Animals,0,,,Tiger,Cobra
+2,43,Cattle,0,,,Buffalo,Cow
+3,43,Olympians,1,,,Singh,Das
+0,44,Indian Clothes,1,,,Sherwani,Dhoti
+1,44,Different Religions,0,,,Buddhist,Jain
+2,44,Indian Authors,1,,,Premchand,Tagore
+3,44,Indian Animals,0,,,Nilgai,Tiger
+0,45,Cultural Dance,1,,,Odissi,Bharatanatyam
+1,45,Sports,0,,,Hockey,Football
+2,45,Vegetables,0,,,Calabash,Ladyfinger
+3,45,Folk Music Instruments,1,,,Shehnai,Mridangam
+0,46,North Indian Food,1,,,Bhatura,Paratha
+1,46,Fruits,0,,,Orange,Pineapple
+2,46,Forest Animals,0,,,Deer,Tiger
+3,46,Place of Worship,0,,,Gurudwara,Church
+0,47,Conversational Slangs,1,,,Cool,Friend
+1,47,East Indian Food,1,,,Khichdi,Machher Jhol
+2,47,Taste,0,,,Sour,Salty
+3,47,Folk Music Instruments,1,,,Dholak,Mridangam
+0,48,Royalty,1,,,Rama,Pratap
+1,48,Indian Clothes,1,,,Saree,Dhoti
+2,48,Indian Sweets,1,,,Jalebi,Kaju Katli
+3,48,Display Devices,0,,,TV,Laptop
+0,49,Folk Music Instruments,1,,,Shehnai,Dholak
+1,49,West Indian Food,1,,,Vada Pav,Khandwa
+2,49,Indian Bridal Adornments,1,,,Sindoor,Bindi
+3,49,Royalty,1,,,Abhimanyu,Pratap
+0,50,North Indian Food,1,,,Poha,Paratha
+1,50,Indian Bridal Adornments,1,,,Sindoor,Bindi
+2,50,Indian Clothes,1,,,Sherwani,Saree
+3,50,Indian Holidays,1,,,Karva Chauth,Diwali
+0,51,Taste,0,,,Bitter,Salty
+1,51,Places to Live and Work,0,,,Home,Building
+2,51,Olympians,1,,,Das,Kumar
+3,51,South Indian Food,1,,,Vada,Upma
+0,52,Parts of a Train,0,,,Engine,Compartment
+1,52,Indian Civilizations,1,,,Maurya,Vedic
+2,52,Indian Languages,1,,,Marathi,Punjabi
+3,52,Places to Live and Work,0,,,Apartment,Home
+0,53,Cattle,0,,,Goat,Camel
+1,53,Indian National Sanctuaries,1,,,Ranthambore,Kaziranga
+2,53,Cultural Dance,1,,,Kathakali,Kathak
+3,53,Paternal Family Members,1,,,Aunt,Papa
+0,54,Indian National Sanctuaries,1,,,Jim Corbett,Ranthambore
+1,54,Indian Languages,1,,,Punjabi,Marathi
+2,54,Indian Female Gods,1,,,Durga,Lakshmi
+3,54,Parts of a Train,0,,,Brake,Compartment
+0,55,"Slang for ""Cheating""",0,,,Cheat,Lie
+1,55,Animal Nicknames for Teasing,1,,,Dog,Bear
+2,55,Cattle,0,,,Camel,Goat
+3,55,Paternal Family Members,1,,,Aunt,Grandma
+0,56,Indian Authors,1,,,Bond,Narayan
+1,56,Indian National Sanctuaries,1,,,Ranthambore,Sundarbans
+2,56,Indian Holidays,1,,,Navaratri,Karva Chauth
+3,56,Conversational Slangs,1,,,Friend,Cool
+0,57,Amar Chitra Katha Characters,1,,,Shivaji,Nal
+1,57,Indian Last Names,1,,,Sharma,Reddy
+2,57,Pet Animals,0,,,Cat,Rabbit
+3,57,Indian Animals,0,,,Cobra,Nilgai
+0,58,Fruits,0,,,Orange,Banana
+1,58,Indian Movie Directors,1,,,Sircar,Bharadwaj
+2,58,South Indian Food,1,,,Vada,Idli
+3,58,Vegetables,0,,,Calabash,Cabbage
+0,59,Indian Languages,1,,,Marathi,Hindi
+1,59,Forest Animals,0,,,Deer,Tiger
+2,59,West Indian Food,1,,,Khandwa,Dhokla
+3,59,Conversational Slangs,1,,,Awesome,Cool
+0,60,Sports,0,,,Badminton,Football
+1,60,Folk Music Instruments,1,,,Tabla,Mridangam
+2,60,Paternal Family Members,1,,,Papa,Grandpa
+3,60,"Slang for ""Cheating""",0,,,Cheat,Fraud
+0,61,"Synonyms for ""Good""",1,,,Good,Right
+1,61,Folk Music Instruments,1,,,Dholak,Mridangam
+2,61,Indian Holidays,1,,,Navaratri,Dussehra
+3,61,Different Religions,0,,,Jain,Hindu
+0,62,Spices and Herbs,0,,,Chili,Garlic
+1,62,Indian Sweets,1,,,Rasgulla,Kaju Katli
+2,62,Taste,0,,,Sour,Sweet
+3,62,Animal Nicknames for Teasing,1,,,Bear,Pig
+0,63,Indian Male Gods,1,,,Shiva,Ram
+1,63,Amar Chitra Katha Characters,1,,,Shivaji,Nal
+2,63,Olympians,1,,,Singh,Bindra
+3,63,Indian Holidays,1,,,Karva Chauth,Navaratri
+0,64,Seasonings,0,,,Pepper,Salt
+1,64,Folk Music Instruments,1,,,Mridangam,Shehnai
+2,64,Royalty,1,,,Pratap,Bhupati
+3,64,Olympians,1,,,Bindra,Das
+0,65,Indian Holidays,1,,,Navaratri,Diwali
+1,65,Indian National Sanctuaries,1,,,Jim Corbett,Sundarbans
+2,65,Forest Animals,0,,,Deer,Tiger
+3,65,Maternal Family Members,1,,,Mom,Grandfather
+0,66,Place of Worship,0,,,Temple,Gurudwara
+1,66,Indian Holidays,1,,,Navaratri,Dussehra
+2,66,Indian Dish,1,,,Butter Chicken,Paneer Tikka
+3,66,Indian Bridal Adornments,1,,,Bangles,Mangalsutra
+0,67,Folk Music Instruments,1,,,Mridangam,Tabla
+1,67,Indian Female Gods,1,,,Kali,Lakshmi
+2,67,Places to Live and Work,0,,,Home,Building
+3,67,Parts of a Train,0,,,Engine,Wheel
+0,68,Tools,0,,,Pliers,Hammer
+1,68,Place of Worship,0,,,Temple,Church
+2,68,Indian Male Gods,1,,,Ram,Shiva
+3,68,Cattle,0,,,Buffalo,Goat
+0,69,Vegetables,0,,,Ladyfinger,Calabash
+1,69,Indian Sweets,1,,,Rasgulla,Jalebi
+2,69,Indian Civilizations,1,,,Gupta,Maurya
+3,69,Forest Animals,0,,,Tiger,Lion
+0,70,Indian Male Gods,1,,,Indra,Shiva
+1,70,"Slang for ""Cheating""",0,,,Cheat,Lie
+2,70,Parts of a Train,0,,,Compartment,Wheel
+3,70,Indian Civilizations,1,,,Sindhu,Gupta
+0,71,Royalty,1,,,Pratap,Rama
+1,71,Places to Live and Work,0,,,Office,Home
+2,71,Maternal Family Members,1,,,Grandma,Mom
+3,71,Taste,0,,,Bitter,Sour
+0,72,Sports,0,,,Badminton,Cricket
+1,72,"Slang for ""Cheating""",0,,,Fraud,Lie
+2,72,West Indian Food,1,,,Dhokla,Vada Pav
+3,72,Pet Animals,0,,,Parrot,Cat
+0,73,Olympians,1,,,Bindra,Das
+1,73,Indian Festivals,1,,,Onam,Navaratri
+2,73,Taste,0,,,Sour,Bitter
+3,73,Indian Bridal Adornments,1,,,Mangalsutra,Bangles
+0,74,Places to Live and Work,0,,,Apartment,Office
+1,74,Display Devices,0,,,Laptop,Monitor
+2,74,Popular Indian Cities,1,,,Mumbai,Delhi
+3,74,South Indian Food,1,,,Dosa,Vada
+0,75,Place of Worship,0,,,Temple,Mosque
+1,75,Taste,0,,,Sour,Bitter
+2,75,Parts of a Train,0,,,Wheel,Engine
+3,75,Indian Movie Directors,1,,,Bharadwaj,Akhtar
+0,76,Indian Clothes,1,,,Dhoti,Kurta
+1,76,Paternal Family Members,1,,,Grandpa,Aunt
+2,76,North Indian Food,1,,,Bhatura,Paratha
+3,76,Movie Characters,1,,,Karsandas,Tukaram
+0,77,Animal Nicknames for Teasing,1,,,Pig,Monkey
+1,77,Indian Rivers,1,,,Yamuna,Brahmaputra
+2,77,"Synonyms for ""Good""",1,,,Cool,Right
+3,77,Olympians,1,,,Das,Bindra
+0,78,Fairy Tales,1,,,Tenali,Birbal
+1,78,"Synonyms for ""Good""",1,,,Right,Ok
+2,78,Indian Female Gods,1,,,Saraswati,Lakshmi
+3,78,Places to Live and Work,0,,,Home,Building
+0,79,Indian National Sanctuaries,1,,,Jim Corbett,Kaziranga
+1,79,Sports,0,,,Football,Badminton
+2,79,Display Devices,0,,,TV,Mobile
+3,79,Indian Sweets,1,,,Rasgulla,Jalebi
+0,80,"Synonyms for ""Good""",1,,,Good,Right
+1,80,Indian Dish,1,,,Paneer Tikka,Biryani
+2,80,Indian Animals,0,,,Tiger,Elephant
+3,80,South Indian Food,1,,,Dosa,Idli
+0,81,Display Devices,0,,,Mobile,TV
+1,81,"Synonyms for ""Good""",1,,,Ok,Right
+2,81,Amar Chitra Katha Characters,1,,,Shakuntala,Shivaji
+3,81,Indian Rivers,1,,,Ganga,Yamuna
+0,82,Different Religions,0,,,Jain,Sikh
+1,82,East Indian Food,1,,,Dal Bati,Litti Chokha
+2,82,Indian Male Gods,1,,,Shiva,Krishna
+3,82,Indian Rivers,1,,,Saraswati,Brahmaputra
+0,83,Indian Authors,1,,,Premchand,Narayan
+1,83,Paternal Family Members,1,,,Papa,Grandma
+2,83,Cattle,0,,,Buffalo,Camel
+3,83,Indian Last Names,1,,,Patel,Iyer
+0,84,Indian Movie Directors,1,,,Bharadwaj,Ray
+1,84,Royalty,1,,,Pratap,Bhupati
+2,84,Indian Holidays,1,,,Dussehra,Karva Chauth
+3,84,Indian Dish,1,,,Dosa,Paneer Tikka
+0,85,Vegetables,0,,,Calabash,Spinach
+1,85,Display Devices,0,,,Laptop,Mobile
+2,85,Different Religions,0,,,Buddhist,Sikh
+3,85,Indian Sweets,1,,,Kaju Katli,Rasgulla
+0,86,Indian Sweets,1,,,Kaju Katli,Rasgulla
+1,86,Indian Languages,1,,,Punjabi,Gujarati
+2,86,"Synonyms for ""Good""",1,,,Cool,Right
+3,86,West Indian Food,1,,,Dhokla,Khandwa
+0,87,Indian Clothes,1,,,Sherwani,Dhoti
+1,87,Indian Rivers,1,,,Brahmaputra,Saraswati
+2,87,Indian Male Gods,1,,,Indra,Ram
+3,87,Indian Animals,0,,,Elephant,Cobra
+0,88,East Indian Food,1,,,Dal Bati,Litti Chokha
+1,88,Indian Last Names,1,,,Iyer,Patel
+2,88,West Indian Food,1,,,Khandwa,Pav Bhaji
+3,88,Movie Characters,1,,,Tukaram,Karsandas
+0,89,"Slang for ""Cheating""",0,,,Cheat,Deceive
+1,89,Seasonings,0,,,Cumin,Turmeric
+2,89,Conversational Slangs,1,,,Friend,True
+3,89,Different Religions,0,,,Sikh,Buddhist
+0,90,Seasonings,0,,,Turmeric,Cumin
+1,90,Cattle,0,,,Goat,Cow
+2,90,Indian Last Names,1,,,Patel,Sharma
+3,90,Maternal Family Members,1,,,Mom,Grandma
+0,91,Indian Sweets,1,,,Kaju Katli,Gulab Jamun
+1,91,Different Religions,0,,,Jain,Sikh
+2,91,Indian Dish,1,,,Paneer Tikka,Dosa
+3,91,Indian Clothes,1,,,Kurta,Dhoti
+0,92,Cattle,0,,,Goat,Camel
+1,92,Spices and Herbs,0,,,Coriander,Chili
+2,92,Indian Female Gods,1,,,Kali,Lakshmi
+3,92,Indian Languages,1,,,Hindi,Marathi
+0,93,Indian Last Names,1,,,Reddy,Patel
+1,93,Indian Female Gods,1,,,Durga,Lakshmi
+2,93,Parts of a Train,0,,,Wheel,Brake
+3,93,Taste,0,,,Sour,Bitter
+0,94,East Indian Food,1,,,Khichdi,Machher Jhol
+1,94,Indian Animals,0,,,Elephant,Nilgai
+2,94,Parts of a Train,0,,,Brake,Wheel
+3,94,West Indian Food,1,,,Pav Bhaji,Khandwa
+0,95,Indian National Sanctuaries,1,,,Ranthambore,Sundarbans
+1,95,Place of Worship,0,,,Mosque,Church
+2,95,Indian Languages,1,,,Punjabi,Hindi
+3,95,East Indian Food,1,,,Litti Chokha,Machher Jhol
+0,96,Indian Authors,1,,,Tagore,Bond
+1,96,Different Religions,0,,,Hindu,Sikh
+2,96,Indian Languages,1,,,Punjabi,Marathi
+3,96,Indian Female Gods,1,,,Kali,Saraswati
+0,97,Indian Dish,1,,,Butter Chicken,Biryani
+1,97,Parts of a Train,0,,,Wheel,Brake
+2,97,Indian Male Gods,1,,,Indra,Krishna
+3,97,Fruits,0,,,Pineapple,Apple
+0,98,Indian Male Gods,1,,,Indra,Shiva
+1,98,Taste,0,,,Sweet,Sour
+2,98,Display Devices,0,,,TV,Mobile
+3,98,Indian Authors,1,,,Bond,Tagore
+0,99,Taste,0,,,Sweet,Bitter
+1,99,Conversational Slangs,1,,,True,Cool
+2,99,Places to Live and Work,0,,,Office,Home
+3,99,Indian Festivals,1,,,Diwali,Onam
+0,100,Pet Animals,0,,,Dog,Rabbit
+1,100,Vegetables,0,,,Cabbage,Calabash
+2,100,"Synonyms for ""Good""",1,,,Right,Good
+3,100,Indian Dish,1,,,Paneer Tikka,Biryani
+0,101,Seasonings,0,,,Pepper,Turmeric
+1,101,Display Devices,0,,,TV,Mobile
+2,101,Indian Movie Directors,1,,,Akhtar,Ray
+3,101,Indian Rivers,1,,,Yamuna,Brahmaputra
+0,102,Indian Animals,0,,,Elephant,Nilgai
+1,102,Indian Clothes,1,,,Dhoti,Sherwani
+2,102,Royalty,1,,,Pratap,Rama
+3,102,Display Devices,0,,,Mobile,TV
+0,103,Spices and Herbs,0,,,Coriander,Ginger
+1,103,East Indian Food,1,,,Litti Chokha,Machher Jhol
+2,103,Maternal Family Members,1,,,Aunt,Grandfather
+3,103,Indian Last Names,1,,,Iyer,Sharma
+0,104,Indian Bridal Adornments,1,,,Bindi,Bangles
+1,104,Fruits,0,,,Pineapple,Apple
+2,104,Indian Rivers,1,,,Ganga,Brahmaputra
+3,104,Vegetables,0,,,Calabash,Spinach
+0,105,"Slang for ""Cheating""",0,,,Deceive,Cheat
+1,105,Indian Sweets,1,,,Gulab Jamun,Jalebi
+2,105,Taste,0,,,Salty,Sweet
+3,105,Vegetables,0,,,Ladyfinger,Spinach
+0,106,Display Devices,0,,,Mobile,Laptop
+1,106,Place of Worship,0,,,Mosque,Gurudwara
+2,106,Indian Male Gods,1,,,Ram,Krishna
+3,106,Indian Authors,1,,,Bond,Narayan
+0,107,Spices and Herbs,0,,,Coriander,Chili
+1,107,Animal Nicknames for Teasing,1,,,Bear,Monkey
+2,107,Seasonings,0,,,Cumin,Pepper
+3,107,Indian Civilizations,1,,,Gupta,Vedic
+0,108,Cultural Dance,1,,,Kathak,Kathakali
+1,108,Indian Languages,1,,,Marathi,Hindi
+2,108,South Indian Food,1,,,Idli,Dosa
+3,108,Indian Last Names,1,,,Sharma,Patel
+0,109,Places to Live and Work,0,,,Apartment,Home
+1,109,Display Devices,0,,,Laptop,Mobile
+2,109,West Indian Food,1,,,Vada Pav,Pav Bhaji
+3,109,Indian Festivals,1,,,Holi,Navaratri
+0,110,Pet Animals,0,,,Dog,Cat
+1,110,Indian Movie Directors,1,,,Ray,Akhtar
+2,110,Indian Male Gods,1,,,Indra,Shiva
+3,110,Indian Female Gods,1,,,Kali,Saraswati
+0,111,Indian Rivers,1,,,Ganga,Brahmaputra
+1,111,Indian Movie Directors,1,,,Ray,Akhtar
+2,111,East Indian Food,1,,,Litti Chokha,Dal Bati
+3,111,Popular Indian Cities,1,,,Bengaluru,Delhi
+0,112,Taste,0,,,Sour,Salty
+1,112,"Synonyms for ""Good""",1,,,Right,Good
+2,112,Movie Characters,1,,,Baasha,Karsandas
+3,112,Animal Nicknames for Teasing,1,,,Pig,Monkey
+0,113,Indian National Sanctuaries,1,,,Kaziranga,Ranthambore
+1,113,Indian Last Names,1,,,Sharma,Patel
+2,113,Maternal Family Members,1,,,Mom,Grandfather
+3,113,Indian Clothes,1,,,Kurta,Sherwani
+0,114,Indian Holidays,1,,,Diwali,Karva Chauth
+1,114,Indian Male Gods,1,,,Krishna,Shiva
+2,114,"Slang for ""Cheating""",0,,,Lie,Cheat
+3,114,Animal Nicknames for Teasing,1,,,Pig,Bear
+0,115,North Indian Food,1,,,Bhatura,Paratha
+1,115,Fruits,0,,,Pineapple,Apple
+2,115,Places to Live and Work,0,,,Apartment,Building
+3,115,Indian Authors,1,,,Bond,Premchand
+0,116,Paternal Family Members,1,,,Papa,Grandma
+1,116,Place of Worship,0,,,Temple,Mosque
+2,116,Sports,0,,,Badminton,Cricket
+3,116,Indian Rivers,1,,,Ganga,Brahmaputra
+0,117,Animal Nicknames for Teasing,1,,,Bear,Monkey
+1,117,Spices and Herbs,0,,,Ginger,Chili
+2,117,Indian Animals,0,,,Nilgai,Elephant
+3,117,Maternal Family Members,1,,,Grandfather,Grandma
+0,118,Indian Clothes,1,,,Saree,Sherwani
+1,118,"Synonyms for ""Good""",1,,,Right,Cool
+2,118,Maternal Family Members,1,,,Grandma,Mom
+3,118,Indian Holidays,1,,,Dussehra,Karva Chauth
+0,119,Sports,0,,,Badminton,Hockey
+1,119,Indian Female Gods,1,,,Kali,Lakshmi
+2,119,Indian Animals,0,,,Tiger,Cobra
+3,119,Fairy Tales,1,,,Birbal,Panchatantra
+0,120,Indian National Sanctuaries,1,,,Sundarbans,Jim Corbett
+1,120,Indian Festivals,1,,,Holi,Onam
+2,120,Place of Worship,0,,,Gurudwara,Mosque
+3,120,West Indian Food,1,,,Vada Pav,Pav Bhaji
+0,121,Indian Movie Directors,1,,,Akhtar,Bharadwaj
+1,121,Indian Last Names,1,,,Iyer,Patel
+2,121,East Indian Food,1,,,Khichdi,Litti Chokha
+3,121,Indian Animals,0,,,Elephant,Tiger
+0,122,Movie Characters,1,,,Tukaram,Karsandas
+1,122,Place of Worship,0,,,Mosque,Church
+2,122,Folk Music Instruments,1,,,Tabla,Dholak
+3,122,Indian Dish,1,,,Dosa,Paneer Tikka
+0,123,Fruits,0,,,Pineapple,Banana
+1,123,Indian Movie Directors,1,,,Sircar,Akhtar
+2,123,East Indian Food,1,,,Dal Bati,Machher Jhol
+3,123,Pet Animals,0,,,Rabbit,Parrot
+0,124,Sports,0,,,Badminton,Hockey
+1,124,Spices and Herbs,0,,,Ginger,Coriander
+2,124,Forest Animals,0,,,Tiger,Elephant
+3,124,Royalty,1,,,Abhimanyu,Rama
+0,125,"Synonyms for ""Good""",1,,,Right,Cool
+1,125,Royalty,1,,,Bhupati,Rama
+2,125,Vegetables,0,,,Cabbage,Calabash
+3,125,"Slang for ""Cheating""",0,,,Deceive,Cheat
+0,126,Tools,0,,,Pliers,Screwdriver
+1,126,Cattle,0,,,Buffalo,Goat
+2,126,Spices and Herbs,0,,,Garlic,Chili
+3,126,North Indian Food,1,,,Poha,Kulcha
+0,127,Paternal Family Members,1,,,Grandma,Aunt
+1,127,Parts of a Train,0,,,Brake,Wheel
+2,127,Vegetables,0,,,Calabash,Cabbage
+3,127,Popular Indian Cities,1,,,Kolkata,Delhi
+0,128,Indian Female Gods,1,,,Durga,Saraswati
+1,128,Indian Civilizations,1,,,Maurya,Gupta
+2,128,Olympians,1,,,Das,Singh
+3,128,Pet Animals,0,,,Cat,Dog
+0,129,Movie Characters,1,,,Baasha,Tukaram
+1,129,Conversational Slangs,1,,,Friend,Cool
+2,129,West Indian Food,1,,,Vada Pav,Khandwa
+3,129,Indian Dish,1,,,Dosa,Paneer Tikka
+0,130,Cultural Dance,1,,,Kathakali,Bharatanatyam
+1,130,Indian Languages,1,,,Punjabi,Hindi
+2,130,Paternal Family Members,1,,,Papa,Grandpa
+3,130,Indian Movie Directors,1,,,Bharadwaj,Sircar
+0,131,Display Devices,0,,,Monitor,TV
+1,131,Indian Civilizations,1,,,Gupta,Sindhu
+2,131,Indian Languages,1,,,Marathi,Gujarati
+3,131,Folk Music Instruments,1,,,Shehnai,Dholak
+0,132,Vegetables,0,,,Ladyfinger,Spinach
+1,132,Indian Movie Directors,1,,,Akhtar,Ray
+2,132,Indian Holidays,1,,,Karva Chauth,Diwali
+3,132,Tools,0,,,Screwdriver,Drill
+0,133,Indian Languages,1,,,Marathi,Punjabi
+1,133,South Indian Food,1,,,Upma,Dosa
+2,133,Different Religions,0,,,Sikh,Buddhist
+3,133,Movie Characters,1,,,Baasha,Bahubali
+0,134,Indian Animals,0,,,Elephant,Cobra
+1,134,Amar Chitra Katha Characters,1,,,Nal,Damayanti
+2,134,Different Religions,0,,,Sikh,Jain
+3,134,North Indian Food,1,,,Bhatura,Kulcha
+0,135,Place of Worship,0,,,Gurudwara,Temple
+1,135,Fruits,0,,,Banana,Apple
+2,135,Folk Music Instruments,1,,,Mridangam,Dholak
+3,135,Indian Female Gods,1,,,Lakshmi,Kali
+0,136,Cattle,0,,,Goat,Camel
+1,136,Fruits,0,,,Apple,Banana
+2,136,Indian Movie Directors,1,,,Akhtar,Bharadwaj
+3,136,Pet Animals,0,,,Dog,Rabbit
+0,137,Indian Bridal Adornments,1,,,Bangles,Mangalsutra
+1,137,Places to Live and Work,0,,,Office,Apartment
+2,137,Vegetables,0,,,Ladyfinger,Calabash
+3,137,Indian Rivers,1,,,Yamuna,Brahmaputra
+0,138,Royalty,1,,,Pratap,Rama
+1,138,Popular Indian Cities,1,,,Mumbai,Bengaluru
+2,138,Indian Bridal Adornments,1,,,Mangalsutra,Bindi
+3,138,Indian Movie Directors,1,,,Bharadwaj,Ray
+0,139,Royalty,1,,,Abhimanyu,Rama
+1,139,Amar Chitra Katha Characters,1,,,Shivaji,Shakuntala
+2,139,Movie Characters,1,,,Bahubali,Karsandas
+3,139,Olympians,1,,,Das,Bindra
+0,140,Conversational Slangs,1,,,Cool,Friend
+1,140,Indian Movie Directors,1,,,Ray,Akhtar
+2,140,Spices and Herbs,0,,,Chili,Coriander
+3,140,Indian Last Names,1,,,Patel,Iyer
+0,141,Indian Last Names,1,,,Iyer,Patel
+1,141,Different Religions,0,,,Jain,Hindu
+2,141,Pet Animals,0,,,Rabbit,Cat
+3,141,Fairy Tales,1,,,Tenali,Panchatantra
+0,142,Display Devices,0,,,Monitor,Mobile
+1,142,Indian Sweets,1,,,Gulab Jamun,Jalebi
+2,142,Indian Female Gods,1,,,Saraswati,Lakshmi
+3,142,Animal Nicknames for Teasing,1,,,Monkey,Pig
+0,143,Indian Animals,0,,,Nilgai,Tiger
+1,143,Olympians,1,,,Bindra,Kumar
+2,143,Indian Languages,1,,,Gujarati,Hindi
+3,143,Indian Holidays,1,,,Karva Chauth,Dussehra
+0,144,Indian Bridal Adornments,1,,,Bindi,Bangles
+1,144,Folk Music Instruments,1,,,Tabla,Shehnai
+2,144,Indian Civilizations,1,,,Sindhu,Vedic
+3,144,Amar Chitra Katha Characters,1,,,Nal,Shivaji
+0,145,Display Devices,0,,,TV,Laptop
+1,145,Conversational Slangs,1,,,True,Friend
+2,145,Indian Dish,1,,,Paneer Tikka,Biryani
+3,145,Fairy Tales,1,,,Panchatantra,Hanuman
+0,146,Conversational Slangs,1,,,True,Cool
+1,146,Indian Female Gods,1,,,Durga,Lakshmi
+2,146,Olympians,1,,,Bindra,Das
+3,146,Indian Movie Directors,1,,,Sircar,Ray
+0,147,Indian Male Gods,1,,,Indra,Shiva
+1,147,Tools,0,,,Hammer,Pliers
+2,147,Places to Live and Work,0,,,Apartment,Office
+3,147,Indian Languages,1,,,Punjabi,Gujarati
+0,148,Vegetables,0,,,Ladyfinger,Calabash
+1,148,Fruits,0,,,Pineapple,Banana
+2,148,Tools,0,,,Hammer,Pliers
+3,148,Olympians,1,,,Singh,Bindra
+0,149,Indian Bridal Adornments,1,,,Sindoor,Bangles
+1,149,Pet Animals,0,,,Parrot,Rabbit
+2,149,Indian National Sanctuaries,1,,,Kaziranga,Sundarbans
+3,149,East Indian Food,1,,,Machher Jhol,Khichdi
+0,150,East Indian Food,1,,,Machher Jhol,Litti Chokha
+1,150,Indian Dish,1,,,Biryani,Paneer Tikka
+2,150,Indian Authors,1,,,Premchand,Narayan
+3,150,Indian Male Gods,1,,,Ram,Indra
+0,151,Indian Clothes,1,,,Saree,Dhoti
+1,151,Fairy Tales,1,,,Hanuman,Tenali
+2,151,Forest Animals,0,,,Tiger,Lion
+3,151,Maternal Family Members,1,,,Mom,Grandfather
+0,152,Fruits,0,,,Apple,Orange
+1,152,Conversational Slangs,1,,,Cool,True
+2,152,Indian Bridal Adornments,1,,,Bindi,Mangalsutra
+3,152,South Indian Food,1,,,Vada,Upma
+0,153,Amar Chitra Katha Characters,1,,,Damayanti,Shivaji
+1,153,Indian Animals,0,,,Elephant,Tiger
+2,153,Indian National Sanctuaries,1,,,Jim Corbett,Ranthambore
+3,153,Fruits,0,,,Banana,Pineapple
+0,154,Indian Civilizations,1,,,Vedic,Gupta
+1,154,Cattle,0,,,Goat,Camel
+2,154,Sports,0,,,Cricket,Football
+3,154,Indian Authors,1,,,Narayan,Tagore
+0,155,South Indian Food,1,,,Dosa,Idli
+1,155,Fruits,0,,,Orange,Apple
+2,155,Indian Clothes,1,,,Saree,Kurta
+3,155,Popular Indian Cities,1,,,Delhi,Mumbai
+0,156,Forest Animals,0,,,Lion,Elephant
+1,156,Tools,0,,,Drill,Pliers
+2,156,Indian Last Names,1,,,Patel,Iyer
+3,156,"Slang for ""Cheating""",0,,,Deceive,Fraud
+0,157,Indian Male Gods,1,,,Indra,Krishna
+1,157,Royalty,1,,,Rama,Pratap
+2,157,Spices and Herbs,0,,,Garlic,Chili
+3,157,Indian National Sanctuaries,1,,,Kaziranga,Jim Corbett
+0,158,Fairy Tales,1,,,Panchatantra,Birbal
+1,158,Indian Male Gods,1,,,Krishna,Shiva
+2,158,Forest Animals,0,,,Deer,Elephant
+3,158,Maternal Family Members,1,,,Aunt,Grandfather
+0,159,South Indian Food,1,,,Upma,Vada
+1,159,Royalty,1,,,Abhimanyu,Rama
+2,159,North Indian Food,1,,,Paratha,Poha
+3,159,Sports,0,,,Badminton,Football
+0,160,Tools,0,,,Hammer,Screwdriver
+1,160,Fruits,0,,,Pineapple,Apple
+2,160,Indian National Sanctuaries,1,,,Kaziranga,Jim Corbett
+3,160,Place of Worship,0,,,Mosque,Gurudwara
+0,161,Indian Female Gods,1,,,Saraswati,Durga
+1,161,Sports,0,,,Football,Badminton
+2,161,Conversational Slangs,1,,,Friend,Cool
+3,161,Spices and Herbs,0,,,Ginger,Garlic
+0,162,West Indian Food,1,,,Khandwa,Vada Pav
+1,162,"Slang for ""Cheating""",0,,,Deceive,Fraud
+2,162,Indian Languages,1,,,Hindi,Marathi
+3,162,Pet Animals,0,,,Rabbit,Cat
+0,163,Indian Rivers,1,,,Brahmaputra,Yamuna
+1,163,Maternal Family Members,1,,,Aunt,Mom
+2,163,Animal Nicknames for Teasing,1,,,Pig,Monkey
+3,163,Amar Chitra Katha Characters,1,,,Damayanti,Shakuntala
+0,164,"Synonyms for ""Good""",1,,,Good,Cool
+1,164,Indian Last Names,1,,,Reddy,Patel
+2,164,Forest Animals,0,,,Lion,Deer
+3,164,Indian Festivals,1,,,Diwali,Holi
+0,165,Tools,0,,,Pliers,Screwdriver
+1,165,Indian Last Names,1,,,Iyer,Sharma
+2,165,Indian Rivers,1,,,Ganga,Saraswati
+3,165,Popular Indian Cities,1,,,Kolkata,Bengaluru
+0,166,Indian Dish,1,,,Paneer Tikka,Biryani
+1,166,Conversational Slangs,1,,,Cool,Friend
+2,166,Indian Holidays,1,,,Dussehra,Navaratri
+3,166,Parts of a Train,0,,,Wheel,Brake
+0,167,Cultural Dance,1,,,Kathakali,Odissi
+1,167,Different Religions,0,,,Jain,Buddhist
+2,167,Indian Bridal Adornments,1,,,Bindi,Sindoor
+3,167,Indian Holidays,1,,,Diwali,Dussehra
+0,168,Indian Authors,1,,,Bond,Tagore
+1,168,Animal Nicknames for Teasing,1,,,Pig,Monkey
+2,168,Folk Music Instruments,1,,,Shehnai,Dholak
+3,168,Indian Rivers,1,,,Yamuna,Brahmaputra
+0,169,Amar Chitra Katha Characters,1,,,Nal,Damayanti
+1,169,Conversational Slangs,1,,,Friend,Awesome
+2,169,Indian Clothes,1,,,Kurta,Sherwani
+3,169,Royalty,1,,,Pratap,Abhimanyu
+0,170,Indian Animals,0,,,Tiger,Nilgai
+1,170,Indian Bridal Adornments,1,,,Mangalsutra,Bangles
+2,170,Indian Female Gods,1,,,Kali,Saraswati
+3,170,Place of Worship,0,,,Temple,Gurudwara
+0,171,South Indian Food,1,,,Idli,Upma
+1,171,Olympians,1,,,Singh,Das
+2,171,Indian Last Names,1,,,Reddy,Iyer
+3,171,Indian Clothes,1,,,Dhoti,Sherwani
+0,172,Fruits,0,,,Pineapple,Apple
+1,172,Indian Festivals,1,,,Onam,Diwali
+2,172,Different Religions,0,,,Sikh,Buddhist
+3,172,"Slang for ""Cheating""",0,,,Cheat,Lie
+0,173,Display Devices,0,,,TV,Monitor
+1,173,Indian Last Names,1,,,Sharma,Reddy
+2,173,Cultural Dance,1,,,Odissi,Bharatanatyam
+3,173,Indian National Sanctuaries,1,,,Sundarbans,Jim Corbett
+0,174,Indian Festivals,1,,,Diwali,Navaratri
+1,174,Olympians,1,,,Bindra,Singh
+2,174,Royalty,1,,,Pratap,Abhimanyu
+3,174,Indian Civilizations,1,,,Maurya,Gupta
+0,175,Folk Music Instruments,1,,,Dholak,Shehnai
+1,175,Taste,0,,,Salty,Sweet
+2,175,Fairy Tales,1,,,Birbal,Panchatantra
+3,175,"Slang for ""Cheating""",0,,,Lie,Deceive
+0,176,Indian Movie Directors,1,,,Bharadwaj,Akhtar
+1,176,Indian Clothes,1,,,Dhoti,Saree
+2,176,Indian Male Gods,1,,,Krishna,Ram
+3,176,Taste,0,,,Bitter,Sour
+0,177,Indian Civilizations,1,,,Vedic,Maurya
+1,177,Forest Animals,0,,,Tiger,Lion
+2,177,Vegetables,0,,,Ladyfinger,Calabash
+3,177,Indian Female Gods,1,,,Saraswati,Durga
+0,178,Seasonings,0,,,Salt,Cumin
+1,178,Olympians,1,,,Kumar,Bindra
+2,178,Indian National Sanctuaries,1,,,Sundarbans,Kaziranga
+3,178,Paternal Family Members,1,,,Grandma,Grandpa
+0,179,Indian Languages,1,,,Hindi,Marathi
+1,179,Parts of a Train,0,,,Compartment,Brake
+2,179,Conversational Slangs,1,,,True,Friend
+3,179,Tools,0,,,Pliers,Hammer
+0,180,Indian National Sanctuaries,1,,,Kaziranga,Sundarbans
+1,180,Indian Clothes,1,,,Kurta,Dhoti
+2,180,Movie Characters,1,,,Baasha,Bahubali
+3,180,Indian Animals,0,,,Elephant,Tiger
+0,181,East Indian Food,1,,,Khichdi,Litti Chokha
+1,181,South Indian Food,1,,,Vada,Dosa
+2,181,Indian Last Names,1,,,Reddy,Patel
+3,181,Indian Sweets,1,,,Gulab Jamun,Jalebi
+0,182,Indian Dish,1,,,Dosa,Paneer Tikka
+1,182,Royalty,1,,,Rama,Pratap
+2,182,Forest Animals,0,,,Deer,Lion
+3,182,Vegetables,0,,,Spinach,Ladyfinger
+0,183,Maternal Family Members,1,,,Aunt,Grandma
+1,183,Cultural Dance,1,,,Kathak,Bharatanatyam
+2,183,Indian Female Gods,1,,,Lakshmi,Durga
+3,183,Indian Rivers,1,,,Yamuna,Ganga
+0,184,Taste,0,,,Salty,Sweet
+1,184,Indian Last Names,1,,,Sharma,Iyer
+2,184,"Synonyms for ""Good""",1,,,Right,Ok
+3,184,Indian Languages,1,,,Gujarati,Hindi
+0,185,Olympians,1,,,Kumar,Bindra
+1,185,Pet Animals,0,,,Parrot,Rabbit
+2,185,Cultural Dance,1,,,Kathakali,Bharatanatyam
+3,185,"Synonyms for ""Good""",1,,,Good,Right
+0,186,Indian Sweets,1,,,Gulab Jamun,Kaju Katli
+1,186,Display Devices,0,,,Mobile,TV
+2,186,Tools,0,,,Hammer,Drill
+3,186,Spices and Herbs,0,,,Ginger,Chili
+0,187,Indian Authors,1,,,Tagore,Bond
+1,187,Indian Festivals,1,,,Diwali,Onam
+2,187,Indian Languages,1,,,Gujarati,Marathi
+3,187,Olympians,1,,,Das,Bindra
+0,188,Place of Worship,0,,,Temple,Church
+1,188,Indian Sweets,1,,,Jalebi,Rasgulla
+2,188,Seasonings,0,,,Salt,Turmeric
+3,188,"Synonyms for ""Good""",1,,,Right,Cool
+0,189,Indian Movie Directors,1,,,Bharadwaj,Akhtar
+1,189,Indian Bridal Adornments,1,,,Sindoor,Bindi
+2,189,Different Religions,0,,,Hindu,Buddhist
+3,189,Parts of a Train,0,,,Wheel,Brake
+0,190,Tools,0,,,Drill,Pliers
+1,190,West Indian Food,1,,,Vada Pav,Pav Bhaji
+2,190,Seasonings,0,,,Cumin,Turmeric
+3,190,Indian Authors,1,,,Premchand,Narayan
+0,191,Indian Festivals,1,,,Onam,Navaratri
+1,191,North Indian Food,1,,,Paratha,Kulcha
+2,191,Indian Languages,1,,,Gujarati,Punjabi
+3,191,Places to Live and Work,0,,,Office,Home
+0,192,Vegetables,0,,,Spinach,Ladyfinger
+1,192,Maternal Family Members,1,,,Grandma,Mom
+2,192,Tools,0,,,Drill,Screwdriver
+3,192,Indian Dish,1,,,Paneer Tikka,Butter Chicken
+0,193,Cultural Dance,1,,,Kathakali,Kathak
+1,193,North Indian Food,1,,,Kulcha,Paratha
+2,193,Tools,0,,,Drill,Hammer
+3,193,Indian Authors,1,,,Premchand,Bond
+0,194,Indian Clothes,1,,,Saree,Kurta
+1,194,Folk Music Instruments,1,,,Shehnai,Mridangam
+2,194,Indian Sweets,1,,,Rasgulla,Kaju Katli
+3,194,Indian Authors,1,,,Premchand,Bond
+0,195,Indian Clothes,1,,,Sherwani,Dhoti
+1,195,Indian Movie Directors,1,,,Akhtar,Bharadwaj
+2,195,Indian Holidays,1,,,Karva Chauth,Dussehra
+3,195,Display Devices,0,,,Mobile,Monitor
+0,196,Forest Animals,0,,,Tiger,Elephant
+1,196,North Indian Food,1,,,Paratha,Kulcha
+2,196,Conversational Slangs,1,,,Friend,True
+3,196,East Indian Food,1,,,Khichdi,Machher Jhol
+0,197,Pet Animals,0,,,Dog,Parrot
+1,197,Popular Indian Cities,1,,,Bengaluru,Delhi
+2,197,Spices and Herbs,0,,,Coriander,Ginger
+3,197,Animal Nicknames for Teasing,1,,,Bear,Monkey
+0,198,South Indian Food,1,,,Idli,Vada
+1,198,Animal Nicknames for Teasing,1,,,Dog,Pig
+2,198,Indian Movie Directors,1,,,Akhtar,Ray
+3,198,Indian Sweets,1,,,Kaju Katli,Jalebi
+0,199,Indian Languages,1,,,Punjabi,Hindi
+1,199,Parts of a Train,0,,,Wheel,Engine
+2,199,Olympians,1,,,Kumar,Bindra
+3,199,Indian Last Names,1,,,Reddy,Patel
+0,200,Fruits,0,,,Banana,Orange
+1,200,Indian Animals,0,,,Cobra,Nilgai
+2,200,Indian Rivers,1,,,Saraswati,Yamuna
+3,200,Places to Live and Work,0,,,Office,Apartment
+0,201,Parts of a Train,0,,,Brake,Engine
+1,201,Indian Clothes,1,,,Kurta,Saree
+2,201,Places to Live and Work,0,,,Home,Building
+3,201,Indian Authors,1,,,Bond,Narayan
+0,202,Indian Sweets,1,,,Gulab Jamun,Jalebi
+1,202,Fairy Tales,1,,,Tenali,Birbal
+2,202,Paternal Family Members,1,,,Aunt,Papa
+3,202,Indian Animals,0,,,Cobra,Tiger
+0,203,Taste,0,,,Sour,Bitter
+1,203,Fairy Tales,1,,,Tenali,Hanuman
+2,203,West Indian Food,1,,,Khandwa,Pav Bhaji
+3,203,Fruits,0,,,Banana,Pineapple
+0,204,Taste,0,,,Bitter,Salty
+1,204,West Indian Food,1,,,Khandwa,Pav Bhaji
+2,204,Amar Chitra Katha Characters,1,,,Shakuntala,Nal
+3,204,Pet Animals,0,,,Cat,Rabbit
+0,205,Indian Female Gods,1,,,Kali,Lakshmi
+1,205,Cattle,0,,,Buffalo,Goat
+2,205,Fairy Tales,1,,,Birbal,Panchatantra
+3,205,Animal Nicknames for Teasing,1,,,Pig,Dog
+0,206,Folk Music Instruments,1,,,Shehnai,Dholak
+1,206,South Indian Food,1,,,Vada,Upma
+2,206,Seasonings,0,,,Pepper,Salt
+3,206,Forest Animals,0,,,Lion,Deer
+0,207,Indian Holidays,1,,,Dussehra,Navaratri
+1,207,Spices and Herbs,0,,,Chili,Garlic
+2,207,Animal Nicknames for Teasing,1,,,Monkey,Dog
+3,207,Seasonings,0,,,Salt,Pepper
+0,208,Indian Bridal Adornments,1,,,Sindoor,Bindi
+1,208,Amar Chitra Katha Characters,1,,,Damayanti,Shakuntala
+2,208,Fruits,0,,,Pineapple,Orange
+3,208,Indian Rivers,1,,,Yamuna,Brahmaputra
+0,209,Seasonings,0,,,Salt,Cumin
+1,209,Amar Chitra Katha Characters,1,,,Nal,Shakuntala
+2,209,Indian Dish,1,,,Paneer Tikka,Butter Chicken
+3,209,Indian Male Gods,1,,,Shiva,Krishna
+0,210,Fairy Tales,1,,,Panchatantra,Hanuman
+1,210,Indian National Sanctuaries,1,,,Ranthambore,Sundarbans
+2,210,Place of Worship,0,,,Church,Mosque
+3,210,Indian Movie Directors,1,,,Ray,Sircar
+0,211,Spices and Herbs,0,,,Chili,Garlic
+1,211,Indian Movie Directors,1,,,Bharadwaj,Akhtar
+2,211,East Indian Food,1,,,Khichdi,Dal Bati
+3,211,Indian Dish,1,,,Dosa,Paneer Tikka
+0,212,Seasonings,0,,,Turmeric,Pepper
+1,212,Indian Male Gods,1,,,Krishna,Ram
+2,212,"Synonyms for ""Good""",1,,,Cool,Good
+3,212,Indian Female Gods,1,,,Saraswati,Durga
+0,213,Indian Civilizations,1,,,Sindhu,Gupta
+1,213,"Slang for ""Cheating""",0,,,Lie,Deceive
+2,213,Different Religions,0,,,Jain,Sikh
+3,213,Cattle,0,,,Cow,Buffalo
+0,214,Indian Festivals,1,,,Onam,Navaratri
+1,214,Indian Dish,1,,,Paneer Tikka,Butter Chicken
+2,214,Spices and Herbs,0,,,Ginger,Garlic
+3,214,Seasonings,0,,,Cumin,Salt
+0,215,Royalty,1,,,Pratap,Bhupati
+1,215,Pet Animals,0,,,Rabbit,Dog
+2,215,Indian Languages,1,,,Punjabi,Gujarati
+3,215,Amar Chitra Katha Characters,1,,,Shakuntala,Damayanti
+0,216,South Indian Food,1,,,Idli,Upma
+1,216,Indian Animals,0,,,Elephant,Tiger
+2,216,Amar Chitra Katha Characters,1,,,Shakuntala,Damayanti
+3,216,Vegetables,0,,,Spinach,Ladyfinger
+0,217,Indian Civilizations,1,,,Gupta,Maurya
+1,217,Indian Female Gods,1,,,Lakshmi,Kali
+2,217,Forest Animals,0,,,Deer,Tiger
+3,217,Vegetables,0,,,Ladyfinger,Cabbage
+0,218,Movie Characters,1,,,Tukaram,Bahubali
+1,218,Indian Clothes,1,,,Sherwani,Saree
+2,218,Spices and Herbs,0,,,Garlic,Coriander
+3,218,Forest Animals,0,,,Lion,Tiger
+0,219,Indian Male Gods,1,,,Ram,Krishna
+1,219,West Indian Food,1,,,Khandwa,Vada Pav
+2,219,Different Religions,0,,,Sikh,Jain
+3,219,Indian Authors,1,,,Tagore,Bond
+0,220,Spices and Herbs,0,,,Coriander,Chili
+1,220,Pet Animals,0,,,Cat,Parrot
+2,220,Indian Sweets,1,,,Rasgulla,Jalebi
+3,220,Royalty,1,,,Bhupati,Rama
+0,221,Indian Authors,1,,,Narayan,Premchand
+1,221,Conversational Slangs,1,,,True,Friend
+2,221,Indian Languages,1,,,Marathi,Punjabi
+3,221,Indian Civilizations,1,,,Gupta,Sindhu
+0,222,Indian Bridal Adornments,1,,,Sindoor,Bangles
+1,222,"Slang for ""Cheating""",0,,,Cheat,Deceive
+2,222,Pet Animals,0,,,Cat,Dog
+3,222,Spices and Herbs,0,,,Coriander,Ginger
+0,223,North Indian Food,1,,,Paratha,Poha
+1,223,Tools,0,,,Hammer,Drill
+2,223,Royalty,1,,,Rama,Bhupati
+3,223,Indian Rivers,1,,,Brahmaputra,Saraswati
+0,224,Indian Civilizations,1,,,Sindhu,Vedic
+1,224,Maternal Family Members,1,,,Grandma,Mom
+2,224,Animal Nicknames for Teasing,1,,,Dog,Bear
+3,224,Tools,0,,,Hammer,Screwdriver
+0,225,Fruits,0,,,Banana,Apple
+1,225,"Synonyms for ""Good""",1,,,Good,Right
+2,225,Fairy Tales,1,,,Birbal,Hanuman
+3,225,Pet Animals,0,,,Parrot,Dog
+0,226,Fairy Tales,1,,,Birbal,Tenali
+1,226,Indian National Sanctuaries,1,,,Sundarbans,Jim Corbett
+2,226,Places to Live and Work,0,,,Home,Building
+3,226,Fruits,0,,,Apple,Banana
+0,227,Indian Holidays,1,,,Diwali,Karva Chauth
+1,227,Maternal Family Members,1,,,Aunt,Mom
+2,227,"Slang for ""Cheating""",0,,,Lie,Deceive
+3,227,Vegetables,0,,,Calabash,Cabbage
+0,228,Indian Languages,1,,,Punjabi,Marathi
+1,228,Indian Bridal Adornments,1,,,Sindoor,Mangalsutra
+2,228,Seasonings,0,,,Cumin,Pepper
+3,228,"Slang for ""Cheating""",0,,,Fraud,Cheat
+0,229,Indian Authors,1,,,Premchand,Narayan
+1,229,East Indian Food,1,,,Khichdi,Litti Chokha
+2,229,Indian Languages,1,,,Gujarati,Punjabi
+3,229,"Synonyms for ""Good""",1,,,Ok,Right
+0,230,Spices and Herbs,0,,,Ginger,Coriander
+1,230,Forest Animals,0,,,Elephant,Lion
+2,230,Display Devices,0,,,Laptop,TV
+3,230,Amar Chitra Katha Characters,1,,,Shakuntala,Nal
+0,231,Indian National Sanctuaries,1,,,Sundarbans,Ranthambore
+1,231,Different Religions,0,,,Jain,Hindu
+2,231,Indian Female Gods,1,,,Lakshmi,Kali
+3,231,Indian Sweets,1,,,Jalebi,Gulab Jamun
+0,232,Indian Movie Directors,1,,,Bharadwaj,Ray
+1,232,Maternal Family Members,1,,,Mom,Grandfather
+2,232,Animal Nicknames for Teasing,1,,,Monkey,Bear
+3,232,Different Religions,0,,,Hindu,Buddhist
+0,233,"Slang for ""Cheating""",0,,,Cheat,Deceive
+1,233,Indian Authors,1,,,Premchand,Bond
+2,233,Tools,0,,,Pliers,Screwdriver
+3,233,Indian Holidays,1,,,Dussehra,Diwali
+0,234,Indian Last Names,1,,,Sharma,Reddy
+1,234,Cattle,0,,,Cow,Camel
+2,234,Parts of a Train,0,,,Engine,Wheel
+3,234,Maternal Family Members,1,,,Aunt,Grandfather
+0,235,Movie Characters,1,,,Karsandas,Bahubali
+1,235,Indian Last Names,1,,,Iyer,Patel
+2,235,Parts of a Train,0,,,Compartment,Wheel
+3,235,North Indian Food,1,,,Paratha,Kulcha
+0,236,Different Religions,0,,,Buddhist,Hindu
+1,236,Paternal Family Members,1,,,Papa,Grandpa
+2,236,Amar Chitra Katha Characters,1,,,Shivaji,Damayanti
+3,236,"Synonyms for ""Good""",1,,,Good,Right
+0,237,Indian Civilizations,1,,,Gupta,Sindhu
+1,237,Indian National Sanctuaries,1,,,Kaziranga,Ranthambore
+2,237,Seasonings,0,,,Pepper,Salt
+3,237,Indian Sweets,1,,,Kaju Katli,Gulab Jamun
+0,238,Taste,0,,,Salty,Bitter
+1,238,Olympians,1,,,Kumar,Das
+2,238,Cultural Dance,1,,,Odissi,Kathak
+3,238,Cattle,0,,,Cow,Camel
+0,239,Pet Animals,0,,,Parrot,Cat
+1,239,Indian Movie Directors,1,,,Akhtar,Ray
+2,239,Animal Nicknames for Teasing,1,,,Monkey,Bear
+3,239,Indian Animals,0,,,Cobra,Tiger
+0,240,Popular Indian Cities,1,,,Delhi,Bengaluru
+1,240,Parts of a Train,0,,,Compartment,Brake
+2,240,Indian Clothes,1,,,Kurta,Saree
+3,240,Indian Dish,1,,,Dosa,Biryani
+0,241,Fairy Tales,1,,,Tenali,Birbal
+1,241,Indian Civilizations,1,,,Sindhu,Gupta
+2,241,"Slang for ""Cheating""",0,,,Cheat,Deceive
+3,241,Indian Authors,1,,,Tagore,Premchand
+0,242,Fruits,0,,,Banana,Apple
+1,242,Vegetables,0,,,Ladyfinger,Spinach
+2,242,"Slang for ""Cheating""",0,,,Fraud,Cheat
+3,242,Maternal Family Members,1,,,Grandfather,Aunt
+0,243,Display Devices,0,,,TV,Laptop
+1,243,Popular Indian Cities,1,,,Bengaluru,Kolkata
+2,243,"Slang for ""Cheating""",0,,,Cheat,Deceive
+3,243,Indian Dish,1,,,Butter Chicken,Dosa
+0,244,Indian Movie Directors,1,,,Akhtar,Sircar
+1,244,Cattle,0,,,Cow,Buffalo
+2,244,Conversational Slangs,1,,,True,Awesome
+3,244,Place of Worship,0,,,Church,Temple
+0,245,Spices and Herbs,0,,,Ginger,Chili
+1,245,Indian Male Gods,1,,,Indra,Shiva
+2,245,Fairy Tales,1,,,Hanuman,Birbal
+3,245,Tools,0,,,Hammer,Drill
+0,246,Conversational Slangs,1,,,Awesome,Cool
+1,246,Indian Dish,1,,,Butter Chicken,Biryani
+2,246,Vegetables,0,,,Spinach,Cabbage
+3,246,Fairy Tales,1,,,Birbal,Panchatantra
+0,247,"Synonyms for ""Good""",1,,,Right,Cool
+1,247,Cultural Dance,1,,,Kathakali,Odissi
+2,247,Seasonings,0,,,Cumin,Salt
+3,247,Taste,0,,,Sweet,Salty
+0,248,Indian Sweets,1,,,Jalebi,Rasgulla
+1,248,South Indian Food,1,,,Dosa,Idli
+2,248,Display Devices,0,,,Monitor,Laptop
+3,248,Seasonings,0,,,Salt,Pepper
+0,249,Parts of a Train,0,,,Engine,Brake
+1,249,East Indian Food,1,,,Khichdi,Machher Jhol
+2,249,Indian Civilizations,1,,,Sindhu,Maurya
+3,249,Indian Clothes,1,,,Saree,Kurta
+0,250,Spices and Herbs,0,,,Garlic,Chili
+1,250,Conversational Slangs,1,,,True,Awesome
+2,250,Amar Chitra Katha Characters,1,,,Shivaji,Damayanti
+3,250,Folk Music Instruments,1,,,Shehnai,Dholak
+0,251,North Indian Food,1,,,Kulcha,Bhatura
+1,251,Indian Languages,1,,,Hindi,Marathi
+2,251,East Indian Food,1,,,Litti Chokha,Machher Jhol
+3,251,Popular Indian Cities,1,,,Kolkata,Delhi
+0,252,Indian Last Names,1,,,Sharma,Patel
+1,252,Seasonings,0,,,Cumin,Salt
+2,252,Display Devices,0,,,Monitor,Laptop
+3,252,Indian Movie Directors,1,,,Bharadwaj,Ray
+0,253,Indian Sweets,1,,,Kaju Katli,Gulab Jamun
+1,253,Indian Clothes,1,,,Saree,Dhoti
+2,253,"Synonyms for ""Good""",1,,,Right,Ok
+3,253,Indian National Sanctuaries,1,,,Jim Corbett,Kaziranga
+0,254,Indian National Sanctuaries,1,,,Ranthambore,Sundarbans
+1,254,Indian Languages,1,,,Punjabi,Hindi
+2,254,Indian Last Names,1,,,Reddy,Iyer
+3,254,Different Religions,0,,,Hindu,Jain
+0,255,Movie Characters,1,,,Tukaram,Baasha
+1,255,Indian Clothes,1,,,Saree,Dhoti
+2,255,Fairy Tales,1,,,Panchatantra,Birbal
+3,255,Conversational Slangs,1,,,True,Awesome
+0,256,Indian Dish,1,,,Paneer Tikka,Biryani
+1,256,Pet Animals,0,,,Rabbit,Parrot
+2,256,Seasonings,0,,,Turmeric,Salt
+3,256,Royalty,1,,,Bhupati,Pratap
+0,257,Indian Holidays,1,,,Navaratri,Karva Chauth
+1,257,Indian Languages,1,,,Gujarati,Hindi
+2,257,South Indian Food,1,,,Dosa,Vada
+3,257,Place of Worship,0,,,Church,Mosque
+0,258,Indian Languages,1,,,Punjabi,Gujarati
+1,258,Taste,0,,,Salty,Bitter
+2,258,Pet Animals,0,,,Dog,Rabbit
+3,258,Maternal Family Members,1,,,Grandma,Aunt
+0,259,Amar Chitra Katha Characters,1,,,Shakuntala,Damayanti
+1,259,Indian Last Names,1,,,Sharma,Patel
+2,259,"Synonyms for ""Good""",1,,,Ok,Cool
+3,259,Indian Male Gods,1,,,Shiva,Ram
+0,260,Vegetables,0,,,Spinach,Cabbage
+1,260,Indian Authors,1,,,Bond,Narayan
+2,260,East Indian Food,1,,,Litti Chokha,Machher Jhol
+3,260,Fruits,0,,,Orange,Banana
+0,261,Taste,0,,,Sweet,Salty
+1,261,North Indian Food,1,,,Kulcha,Bhatura
+2,261,West Indian Food,1,,,Khandwa,Dhokla
+3,261,Fairy Tales,1,,,Tenali,Hanuman
+0,262,Pet Animals,0,,,Dog,Cat
+1,262,Place of Worship,0,,,Mosque,Temple
+2,262,Conversational Slangs,1,,,Friend,True
+3,262,Indian Movie Directors,1,,,Sircar,Ray
+0,263,West Indian Food,1,,,Pav Bhaji,Dhokla
+1,263,Places to Live and Work,0,,,Home,Apartment
+2,263,Spices and Herbs,0,,,Chili,Ginger
+3,263,Paternal Family Members,1,,,Papa,Grandma
+0,264,Movie Characters,1,,,Bahubali,Karsandas
+1,264,Amar Chitra Katha Characters,1,,,Damayanti,Nal
+2,264,Forest Animals,0,,,Lion,Elephant
+3,264,Indian Sweets,1,,,Jalebi,Kaju Katli
+0,265,"Slang for ""Cheating""",0,,,Cheat,Deceive
+1,265,Indian Last Names,1,,,Iyer,Sharma
+2,265,Spices and Herbs,0,,,Garlic,Chili
+3,265,Olympians,1,,,Singh,Bindra
+0,266,Indian National Sanctuaries,1,,,Kaziranga,Jim Corbett
+1,266,Indian Clothes,1,,,Kurta,Saree
+2,266,Taste,0,,,Bitter,Sweet
+3,266,Fairy Tales,1,,,Tenali,Birbal
+0,267,North Indian Food,1,,,Kulcha,Poha
+1,267,Indian Bridal Adornments,1,,,Bangles,Mangalsutra
+2,267,Place of Worship,0,,,Church,Mosque
+3,267,"Slang for ""Cheating""",0,,,Lie,Fraud
+0,268,Display Devices,0,,,Laptop,Mobile
+1,268,South Indian Food,1,,,Dosa,Idli
+2,268,Different Religions,0,,,Sikh,Buddhist
+3,268,Paternal Family Members,1,,,Aunt,Papa
+0,269,Indian National Sanctuaries,1,,,Sundarbans,Jim Corbett
+1,269,Fairy Tales,1,,,Hanuman,Birbal
+2,269,Animal Nicknames for Teasing,1,,,Monkey,Bear
+3,269,Cattle,0,,,Buffalo,Goat
+0,270,Movie Characters,1,,,Baasha,Tukaram
+1,270,Animal Nicknames for Teasing,1,,,Dog,Pig
+2,270,Tools,0,,,Hammer,Screwdriver
+3,270,North Indian Food,1,,,Bhatura,Kulcha
+0,271,Indian Female Gods,1,,,Lakshmi,Durga
+1,271,Indian Authors,1,,,Bond,Narayan
+2,271,Conversational Slangs,1,,,Awesome,Cool
+3,271,Indian Holidays,1,,,Dussehra,Navaratri
+0,272,Popular Indian Cities,1,,,Mumbai,Bengaluru
+1,272,Cattle,0,,,Goat,Cow
+2,272,Different Religions,0,,,Jain,Sikh
+3,272,Indian Bridal Adornments,1,,,Bindi,Bangles
+0,273,Indian Movie Directors,1,,,Bharadwaj,Sircar
+1,273,Place of Worship,0,,,Temple,Gurudwara
+2,273,North Indian Food,1,,,Paratha,Kulcha
+3,273,South Indian Food,1,,,Idli,Upma
+0,274,West Indian Food,1,,,Pav Bhaji,Khandwa
+1,274,Folk Music Instruments,1,,,Mridangam,Shehnai
+2,274,Indian Languages,1,,,Gujarati,Punjabi
+3,274,Cultural Dance,1,,,Bharatanatyam,Kathak
+0,275,East Indian Food,1,,,Machher Jhol,Khichdi
+1,275,Olympians,1,,,Das,Kumar
+2,275,Cultural Dance,1,,,Kathakali,Odissi
+3,275,Amar Chitra Katha Characters,1,,,Shakuntala,Damayanti
+0,276,Amar Chitra Katha Characters,1,,,Nal,Damayanti
+1,276,North Indian Food,1,,,Paratha,Poha
+2,276,Display Devices,0,,,Laptop,Mobile
+3,276,"Synonyms for ""Good""",1,,,Ok,Good
+0,277,Indian Festivals,1,,,Onam,Diwali
+1,277,Folk Music Instruments,1,,,Tabla,Mridangam
+2,277,Indian Male Gods,1,,,Shiva,Indra
+3,277,Conversational Slangs,1,,,Friend,Cool
+0,278,Indian Rivers,1,,,Ganga,Brahmaputra
+1,278,Animal Nicknames for Teasing,1,,,Monkey,Pig
+2,278,Paternal Family Members,1,,,Papa,Grandma
+3,278,Parts of a Train,0,,,Brake,Engine
+0,279,Popular Indian Cities,1,,,Bengaluru,Mumbai
+1,279,Indian Rivers,1,,,Ganga,Saraswati
+2,279,Animal Nicknames for Teasing,1,,,Pig,Monkey
+3,279,Indian Clothes,1,,,Dhoti,Saree
+0,280,East Indian Food,1,,,Dal Bati,Litti Chokha
+1,280,South Indian Food,1,,,Upma,Idli
+2,280,Vegetables,0,,,Ladyfinger,Spinach
+3,280,North Indian Food,1,,,Bhatura,Paratha
+0,281,Olympians,1,,,Kumar,Singh
+1,281,Indian National Sanctuaries,1,,,Kaziranga,Jim Corbett
+2,281,Indian Dish,1,,,Biryani,Butter Chicken
+3,281,Cattle,0,,,Goat,Cow
+0,282,Animal Nicknames for Teasing,1,,,Monkey,Dog
+1,282,Sports,0,,,Cricket,Football
+2,282,Indian Female Gods,1,,,Durga,Lakshmi
+3,282,Indian Last Names,1,,,Iyer,Patel
+0,283,Conversational Slangs,1,,,Awesome,True
+1,283,Royalty,1,,,Rama,Bhupati
+2,283,Fairy Tales,1,,,Panchatantra,Tenali
+3,283,Maternal Family Members,1,,,Mom,Aunt
+0,284,Animal Nicknames for Teasing,1,,,Pig,Bear
+1,284,Royalty,1,,,Bhupati,Abhimanyu
+2,284,Indian Female Gods,1,,,Saraswati,Kali
+3,284,Different Religions,0,,,Jain,Hindu
+0,285,South Indian Food,1,,,Idli,Dosa
+1,285,Different Religions,0,,,Jain,Hindu
+2,285,Indian Clothes,1,,,Saree,Sherwani
+3,285,Places to Live and Work,0,,,Home,Office
+0,286,Folk Music Instruments,1,,,Tabla,Mridangam
+1,286,Royalty,1,,,Rama,Bhupati
+2,286,Indian Festivals,1,,,Diwali,Onam
+3,286,Sports,0,,,Football,Badminton
+0,287,Indian Rivers,1,,,Brahmaputra,Yamuna
+1,287,Paternal Family Members,1,,,Aunt,Papa
+2,287,Places to Live and Work,0,,,Home,Building
+3,287,Movie Characters,1,,,Baasha,Karsandas
+0,288,Folk Music Instruments,1,,,Mridangam,Tabla
+1,288,Amar Chitra Katha Characters,1,,,Nal,Shivaji
+2,288,Different Religions,0,,,Buddhist,Hindu
+3,288,Animal Nicknames for Teasing,1,,,Dog,Monkey
+0,289,Taste,0,,,Salty,Bitter
+1,289,Forest Animals,0,,,Deer,Lion
+2,289,Parts of a Train,0,,,Brake,Engine
+3,289,Different Religions,0,,,Buddhist,Jain
+0,290,Royalty,1,,,Abhimanyu,Pratap
+1,290,Paternal Family Members,1,,,Aunt,Papa
+2,290,Indian Animals,0,,,Tiger,Cobra
+3,290,Places to Live and Work,0,,,Home,Office
+0,291,Movie Characters,1,,,Bahubali,Tukaram
+1,291,North Indian Food,1,,,Kulcha,Paratha
+2,291,Popular Indian Cities,1,,,Delhi,Bengaluru
+3,291,Indian National Sanctuaries,1,,,Kaziranga,Ranthambore
+0,292,Indian Last Names,1,,,Iyer,Sharma
+1,292,Indian Festivals,1,,,Onam,Navaratri
+2,292,Indian Holidays,1,,,Dussehra,Karva Chauth
+3,292,Seasonings,0,,,Pepper,Cumin
+0,293,South Indian Food,1,,,Upma,Vada
+1,293,Maternal Family Members,1,,,Grandfather,Grandma
+2,293,Animal Nicknames for Teasing,1,,,Bear,Dog
+3,293,Popular Indian Cities,1,,,Bengaluru,Mumbai
+0,294,Conversational Slangs,1,,,Cool,Friend
+1,294,Fairy Tales,1,,,Birbal,Panchatantra
+2,294,Olympians,1,,,Bindra,Kumar
+3,294,Movie Characters,1,,,Baasha,Tukaram
+0,295,Fairy Tales,1,,,Tenali,Panchatantra
+1,295,Tools,0,,,Hammer,Pliers
+2,295,Indian Holidays,1,,,Dussehra,Karva Chauth
+3,295,Seasonings,0,,,Cumin,Turmeric
+0,296,Maternal Family Members,1,,,Grandma,Grandfather
+1,296,"Synonyms for ""Good""",1,,,Ok,Good
+2,296,"Slang for ""Cheating""",0,,,Deceive,Fraud
+3,296,North Indian Food,1,,,Bhatura,Paratha
+0,297,Olympians,1,,,Das,Bindra
+1,297,Animal Nicknames for Teasing,1,,,Monkey,Dog
+2,297,Seasonings,0,,,Turmeric,Cumin
+3,297,Indian Clothes,1,,,Sherwani,Dhoti
+0,298,Indian Languages,1,,,Punjabi,Gujarati
+1,298,Indian Rivers,1,,,Brahmaputra,Saraswati
+2,298,Forest Animals,0,,,Lion,Elephant
+3,298,Parts of a Train,0,,,Wheel,Compartment
+0,299,Indian Movie Directors,1,,,Ray,Bharadwaj
+1,299,Cattle,0,,,Goat,Cow
+2,299,Animal Nicknames for Teasing,1,,,Pig,Monkey
+3,299,Indian Animals,0,,,Nilgai,Elephant

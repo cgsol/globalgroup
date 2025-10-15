@@ -1,0 +1,606 @@
+,Game #,True Topic,Tag 1,Tag 2,Tag 3,Word 1,Word 2,Word 3
+0,0,水果,Everyday,Foods,,香蕉,橙子,苹果
+1,0,心理学理论,Everyday,Math and science,,认知心理学,行为主义,精神分析
+0,1,乐器,Pop culture,Music,,钢琴,鼓,吉他
+1,1,两点水的字,Linguistic,,,冷,净,准
+0,2,反刍动物,Everyday,Animals,,梅花鹿,驯鹿,羊
+1,2,语言学理论,Everyday,Math and science,,普遍语法理论,语言相对论,萨丕尔-沃尔夫假说
+0,3,一只__,Linguistic,Fill in the blank,,猫,喇叭,笔筒
+1,3,春节装饰,Everyday,Global,,灯笼,红包,烟花
+0,4,味道,Everyday,,,甜,咸,酸
+1,4,端午节习俗,Everyday,traditional culture,,粽子,雄黄酒,龙舟
+0,5,科学定理,Everyday,Math and science,,相对论,热力学定律,量子力学
+1,5,语言学理论,Everyday,Math and science,,普遍语法理论,语言相对论,符号互动主义
+0,6,传统文化旅游景点,Everyday,Global,,兵马俑,莫高窟,长城
+1,6,宗教,Everyday,traditional culture,,佛家,道家,儒家
+0,7,NBA队伍,Pop culture,Sports,,湖人,马刺,快船
+1,7,艺术流派,Pop culture,Art,,印象派,表现主义,抽象表现主义
+0,8,数学定理,Everyday,Math and science,,毕达哥拉斯定理,费马大定理,欧拉公式
+1,8,语言学理论,Everyday,Math and science,,语言相对论,普遍语法理论,萨丕尔-沃尔夫假说
+0,9,水果,Everyday,Foods,,苹果,橙子,葡萄
+1,9,传统文化,Everyday,traditional culture,,风水,八卦,太极
+0,10,哲学概念,Everyday,Literature,,存在主义,唯心主义,实用主义
+1,10,艺术流派,Pop culture,Art,,印象派,立体派,表现主义
+0,11,英国足球超级联赛队伍,Pop culture,Sports,,水晶宫,阿森纳,曼联
+1,11,传统节日美食,Everyday,Foods,,粽子, 饺子,月饼
+0,12,心理学理论,Everyday,Math and science,,行为主义,精神分析,认知心理学
+1,12,诸葛亮相关成语,Linguistic,traditional culture,,草船借箭,三顾茅庐,七擒七纵
+0,13,心理学理论,Everyday,Math and science,,精神分析,行为主义,人本主义心理学
+1,13,__三角形,Linguistic,Fill in the blank,,等边,钝角,锐角
+0,14,星期,Everyday,,,星期二,"星期一
+",星期四
+1,14,学习科目,Everyday,,,数学,英语,语文
+0,15,生物学理论,Everyday,Math and science,,自然选择理论,内共生起源学说,遗传中心法则
+1,15,中国传统文艺表演,Everyday,,,舞蹈,杂技,功夫
+0,16,学习科目,Everyday,,,英语,语文,物理
+1,16,德国足球甲级联赛,Pop culture,Sports,,勒沃库森,多特蒙德,拜仁
+0,17,经济理论,Everyday,Math and science,,货币主义,凯恩斯主义,供需理论
+1,17,网络用语,Linguistic,Slang and synonyms,,绷不住,内卷,躺平
+0,18,春节习俗,Everyday,traditional culture,,春联,窗花,年画
+1,18,传统文化旅游景点,Everyday,Global,,莫高窟,长城,故宫
+0,19,动物,Everyday,Animals,,猫,狗,鸟
+1,19,四书,Pop culture,Literature,,论语,大学,孟子
+0,20,文章不同类型,Linguistic,Literature,,记叙文,说明文,议论文
+1,20,水果,Everyday,Foods,,香蕉,苹果,葡萄
+0,21,传统文化旅游景点,Everyday,Global,,兵马俑,长城,故宫
+1,21,天干,Everyday,traditional culture,,己,戊,辛
+0,22,四君子,Everyday,traditional culture,,兰,竹,梅
+1,22,中文外来语,Linguistic,,,咖啡,雷达,坦克
+0,23,法律原则,Everyday,,,法律面前人人平等,无罪推定,正当防卫
+1,23,物理学定律,Everyday,Math and science,,能量守恒定律,广义相对论等效原理,熵增原理
+0,24,传统节日美食,Everyday,Foods,,粽子,月饼,元宵
+1,24,传统文化,Everyday,traditional culture,,八卦,中医,风水
+0,25,春节习俗,Everyday,traditional culture,,灯笼,春联,窗花
+1,25,中文外来语,Linguistic,,,坦克,咖啡,尼龙
+0,26,心理学理论,Everyday,Math and science,,人本主义心理学,行为主义,精神分析
+1,26,德国足球甲级联赛,Pop culture,Sports,,勒沃库森,多特蒙德,拜仁
+0,27,天干,Everyday,traditional culture,,戊,己,辛
+1,27,金字旁的字,Linguistic,,,针,钱,钉
+0,28,历史时期,Everyday,History,,冷战时期,信息时代,文艺复兴
+1,28,烹饪手法,Everyday,Foods,,蒸,烤,煎
+0,29,__笑,Linguistic,Fill in the blank,,苦,嘲,冷
+1,29,法律原则,Everyday,,,公平原则,无罪推定,正当防卫
+0,30,语言学理论,Everyday,Math and science,,普遍语法理论,萨丕尔-沃尔夫假说,符号互动主义
+1,30,宗教,Everyday,traditional culture,,道家,佛家,儒家
+0,31,中国传统文艺表演,Everyday,,,杂技,舞蹈,功夫
+1,31,电脑的不同表达方式,Linguistic,,,电脑,笔记本,台式机
+0,32,一只__,Linguistic,Fill in the blank,,喇叭,笔筒,猫
+1,32,传统节日,Everyday,traditional culture,,中秋节,端午节,清明节
+0,33,运动项目,Pop culture,Sports,,足球,篮球,网球
+1,33,__三角形,Linguistic,Fill in the blank,,等边,直角,钝角
+0,34,宝石,Everyday,,,红宝石,钻石,绿宝石
+1,34,NBA队伍,Pop culture,Sports,,湖人,马刺,热火
+0,35,端午节习俗,Everyday,traditional culture,,艾草,粽子,龙舟
+1,35,传统发明,Everyday,,,玉器,瓷器,漆器
+0,36,英国足球超级联赛队伍,Pop culture,Sports,,水晶宫,阿森纳,曼城
+1,36,历史时期,Everyday,History,,信息时代,冷战时期,工业革命
+0,37,德国足球甲级联赛,Pop culture,Sports,,拜仁,门兴,勒沃库森
+1,37,法律原则,Everyday,,,无罪推定,公平原则,正当防卫
+0,38,烹饪手法,Everyday,Foods,,煎,炒,烤
+1,38,传统文人,Everyday,traditional culture,,老子,孟子,孔子 
+0,39,艺术流派,Pop culture,Art,,立体派,表现主义,抽象表现主义
+1,39,情感,Everyday,,,悲伤,愤怒,惊讶
+0,40,春节习俗,Everyday,traditional culture,,窗花,春联,年画
+1,40,德国足球甲级联赛,Pop culture,Sports,,拜仁,门兴,勒沃库森
+0,41,季节,Everyday,Environment,,冬季,秋季,春季
+1,41,天干,Everyday,traditional culture,,己,辛,戊
+0,42,水果,Everyday,Foods,,香蕉,葡萄,橙子
+1,42,星期,Everyday,,,星期二,星期三,"星期一
+"
+0,43,中国足球超级联赛球队,Pop culture,Sports,,武汉三镇,广州恒大,北京国安
+1,43,天气,Everyday,Environment,,雪,风,雨
+0,44,天气,Everyday,Environment,,雪,雷,风
+1,44,经典川菜,Everyday,Foods,,辣子鸡,宫保鸡丁,麻婆豆腐
+0,45,颜色,Everyday,,,绿色,红色,蓝色
+1,45,三点水的字,Linguistic,,,淡,法,河
+0,46,四书,Pop culture,Literature,,孟子,论语,大学
+1,46,英国足球超级联赛队伍,Pop culture,Sports,,水晶宫,曼联,阿森纳
+0,47,艺术流派,Pop culture,Art,,立体派,表现主义,抽象表现主义
+1,47,出自唐代时期成语,Linguistic,traditional culture,,班门弄斧,独树一帜,背道而驰
+0,48,__三角形,Linguistic,Fill in the blank,,锐角,等边,直角
+1,48,季节,Everyday,Environment,,秋季,夏季,春季
+0,49,爵士鼓组成,Pop culture,Music,,军鼓,底鼓,吊嚓
+1,49,历史时期,Everyday,History,,信息时代,文艺复兴,工业革命
+0,50,法律原则,Everyday,,,正当防卫,法律面前人人平等,公平原则
+1,50,乐器,Pop culture,Music,,鼓,钢琴,吉他
+0,51,古建筑,Everyday,Global,,秦始皇陵,故宫,长城
+1,51,法国足球甲级联赛,Pop culture,Sports,,马赛,巴黎,里昂
+0,52,端午节习俗,Everyday,traditional culture,,雄黄酒,粽子,龙舟
+1,52,网络游戏,Pop culture,Games,,反恐精英,英雄联盟,绝地求生
+0,53,乐器,Pop culture,Music,,钢琴,小提琴,吉他
+1,53,动物,Everyday,Animals,,狗,鸟,鱼
+0,54,中文外来语,Linguistic,,,坦克,雷达,咖啡
+1,54,颜色,Everyday,,,黄色,蓝色,红色
+0,55,英国足球超级联赛队伍,Pop culture,Sports,,曼联,曼城,阿森纳
+1,55,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,热水,开水,烧水
+0,56,诸葛亮相关成语,Linguistic,traditional culture,,草船借箭,七擒七纵,三顾茅庐
+1,56,CBA联赛球队,Pop culture,Sports,,广东东莞银行,北京首钢,辽宁本钢
+0,57,中国传统文艺表演,Everyday,,,音乐,功夫,杂技
+1,57,金字旁的字,Linguistic,,,针,钱,钉
+0,58,地支,Everyday,traditional culture,,亥,酉,戌
+1,58,四大家鱼,Everyday,Animals,,草鱼,青鱼,鲢鱼
+0,59,地支,Everyday,traditional culture,,申,戌,亥
+1,59,传统美食，非中国人难以接受,Everyday,Foods,,鸡爪,松花蛋,猪蹄
+0,60,传统美食，非中国人难以接受,Everyday,Foods,,猪蹄,鸡爪,松花蛋
+1,60,心理学理论,Everyday,Math and science,,认知心理学,人本主义心理学,精神分析
+0,61,情感,Everyday,,,快乐,惊讶,愤怒
+1,61,地支,Everyday,traditional culture,,酉,戌,申
+0,62,季节,Everyday,Environment,,冬季,春季,夏季
+1,62,网络游戏,Pop culture,Games,,英雄联盟,反恐精英,绝地求生
+0,63,数学定理,Everyday,Math and science,,毕达哥拉斯定理,哥德尔不完备定理,欧拉公式
+1,63,爵士鼓组成,Pop culture,Music,,吊嚓,底鼓,踩嚓
+0,64,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,烧水,做水,热水
+1,64,中国传统文艺表演,Everyday,,,音乐,功夫,舞蹈
+0,65,行星,Everyday,Math and science,,水星,地球,火星
+1,65,颜色,Everyday,,,红色,黄色,蓝色
+0,66,运动项目,Pop culture,Sports,,篮球,游泳,网球
+1,66,语气词,Linguistic,,,啊,吧,呢
+0,67,历史时期,Everyday,History,,信息时代,工业革命,冷战时期
+1,67,四君子,Everyday,traditional culture,,竹,菊,梅
+0,68,意大利足球甲级联赛,Pop culture,Sports,,罗马,国际米兰,AC米兰
+1,68,科学定理,Everyday,Math and science,,相对论,量子力学,热力学定律
+0,69,端午节习俗,Everyday,traditional culture,,雄黄酒,艾草,龙舟
+1,69,艺术流派,Pop culture,Art,,表现主义,印象派,抽象表现主义
+0,70,文章不同类型,Linguistic,Literature,,记叙文,散文,说明文
+1,70,历史时期,Everyday,History,,文艺复兴,冷战时期,工业革命
+0,71,科学定理,Everyday,Math and science,,量子力学,相对论,热力学定律
+1,71,中国传统文艺表演,Everyday,,,功夫,舞蹈,杂技
+0,72,诸葛亮相关成语,Linguistic,traditional culture,,三顾茅庐,七擒七纵,草船借箭
+1,72,足球技术动作,Pop culture,Sports,,传,射,带
+0,73,中国传统文艺表演,Everyday,,,功夫,音乐,舞蹈
+1,73,乐器,Pop culture,Music,,钢琴,小提琴,吉他
+0,74,动物,Everyday,Animals,,狗,猫,鸟
+1,74,爵士鼓组成,Pop culture,Music,,底鼓,吊嚓,军鼓
+0,75,季节,Everyday,Environment,,秋季,春季,夏季
+1,75,英国足球超级联赛队伍,Pop culture,Sports,,水晶宫,阿森纳,曼城
+0,76,地支,Everyday,traditional culture,,申,酉,戌
+1,76,春节习俗,Everyday,traditional culture,,窗花,灯笼,春联
+0,77,意大利足球甲级联赛,Pop culture,Sports,,AC米兰,国际米兰,都灵
+1,77,NBA队伍,Pop culture,Sports,,快船,热火,马刺
+0,78,情感,Everyday,,,快乐,悲伤,惊讶
+1,78,中国传统文艺表演,Everyday,,,音乐,功夫,杂技
+0,79,味道,Everyday,,,酸,甜,苦
+1,79,网络用语,Linguistic,Slang and synonyms,,破防了,绷不住,躺平
+0,80,四君子,Everyday,traditional culture,,菊,兰,梅
+1,80,文学作品,Everyday,Literature,,悲剧,自传体小说,讽刺小说
+0,81,数学定理,Everyday,Math and science,,毕达哥拉斯定理,哥德尔不完备定理,欧拉公式
+1,81,地支,Everyday,traditional culture,,申,亥,戌
+0,82, ___ 树,Linguistic,,,桃,柳,槐
+1,82,经济理论,Everyday,Math and science,,凯恩斯主义,货币主义,供需理论
+0,83,天气,Everyday,Environment,,雨,雪,风
+1,83,古建筑,Everyday,Global,,长城,故宫,兵马俑
+0,84,生物学理论,Everyday,Math and science,,自然选择理论,内共生起源学说,基因组学
+1,84,经典川菜,Everyday,Foods,,宫保鸡丁,毛血旺,麻婆豆腐
+0,85,传统节日,Everyday,traditional culture,,春节,中秋节,清明节
+1,85,英国足球超级联赛队伍,Pop culture,Sports,,曼联,水晶宫,阿森纳
+0,86,历史时期,Everyday,History,,工业革命,信息时代,文艺复兴
+1,86,科学定理,Everyday,Math and science,,热力学定律,牛顿运动定律,量子力学
+0,87,足球技术动作,Pop culture,Sports,,射,传,带
+1,87,春节装饰,Everyday,Global,,红包,烟花,灯笼
+0,88,学习科目,Everyday,,,数学,英语,物理
+1,88,四君子,Everyday,traditional culture,,菊,竹,梅
+0,89,五经,Pop culture,Literature,,礼记,诗经,周易
+1,89,经济理论,Everyday,Math and science,,货币主义,新自由主义,凯恩斯主义
+0,90,春节习俗,Everyday,traditional culture,,春联,窗花,年画
+1,90,红色电影,Pop culture,TV and Movies,,红色娘子军,红岩,铁道游击队
+0,91,传统节日,Everyday,traditional culture,,春节,清明节,端午节
+1,91,传统文人,Everyday,traditional culture,,孟子,庄子,老子
+0,92,颜色,Everyday,,,红色,黄色,绿色
+1,92,春节装饰,Everyday,Global,,红包,灯笼,烟花
+0,93,颜色,Everyday,,,黄色,蓝色,绿色
+1,93,__三角形,Linguistic,Fill in the blank,,直角,锐角,等边
+0,94,宝石,Everyday,,,蓝宝石,红宝石,绿宝石
+1,94,德国足球甲级联赛,Pop culture,Sports,,勒沃库森,门兴,多特蒙德
+0,95,经典川菜,Everyday,Foods,,辣子鸡,麻婆豆腐,宫保鸡丁
+1,95,语言学理论,Everyday,Math and science,,语言相对论,普遍语法理论,符号互动主义
+0,96,自然元素,Everyday,Math and science,,土,风,水
+1,96,行星,Everyday,Math and science,,火星,地球,水星
+0,97,数学定理,Everyday,Math and science,,欧拉公式,费马大定理,毕达哥拉斯定理
+1,97,红色电影,Pop culture,TV and Movies,,红岩,红色娘子军,铁道游击队
+0,98,四君子,Everyday,traditional culture,,梅,菊,竹
+1,98,季节,Everyday,Environment,,春季,冬季,秋季
+0,99,哲学概念,Everyday,Literature,,实用主义,存在主义,唯心主义
+1,99,__笑,Linguistic,Fill in the blank,,冷,微,嘲
+0,100,水果,Everyday,Foods,,橙子,葡萄,香蕉
+1,100,宗教,Everyday,traditional culture,,佛家,道家,法家
+0,101,烹饪手法,Everyday,Foods,,炒,煎,蒸
+1,101,网络用语,Linguistic,Slang and synonyms,,破防了,躺平,绷不住
+0,102,传统文人,Everyday,traditional culture,,孟子,孔子 ,老子
+1,102,地理学理论,Everyday,Math and science,,中心地理论,环境决定论,板块构造理论
+0,103,经典川菜,Everyday,Foods,,麻婆豆腐,宫保鸡丁,毛血旺
+1,103,传统文化旅游景点,Everyday,Global,,兵马俑,长城,莫高窟
+0,104,两点水的字,Linguistic,,,净,冷,凉
+1,104,动物,Everyday,Animals,,鸟,猫,鱼
+0,105,电脑的不同表达方式,Linguistic,,,台式机,电脑,计算机
+1,105,学习科目,Everyday,,,物理,英语,语文
+0,106,语气词,Linguistic,,,吧,呀,呢
+1,106,语言学理论,Everyday,Math and science,,符号互动主义,语言相对论,萨丕尔-沃尔夫假说
+0,107,网络游戏,Pop culture,Games,,星际争霸,反恐精英,绝地求生
+1,107,物理学定律,Everyday,Math and science,,能量守恒定律,广义相对论等效原理,熵增原理
+0,108,艺术流派,Pop culture,Art,,立体派,抽象表现主义,印象派
+1,108,足球技术动作,Pop culture,Sports,,射,传,停
+0,109,文学作品,Everyday,Literature,,讽刺小说,自传体小说,悲剧
+1,109,经典川菜,Everyday,Foods,,宫保鸡丁,麻婆豆腐,辣子鸡
+0,110,__三角形,Linguistic,Fill in the blank,,直角,锐角,钝角
+1,110,学习科目,Everyday,,,物理,英语,语文
+0,111,法律原则,Everyday,,,正当防卫,无罪推定,法律面前人人平等
+1,111,中文外来语,Linguistic,,,雷达,咖啡,坦克
+0,112,出自唐代时期成语,Linguistic,traditional culture,,班门弄斧,背道而驰,独树一帜
+1,112,天干,Everyday,traditional culture,,戊,己,辛
+0,113,情感,Everyday,,,快乐,愤怒,悲伤
+1,113,运动项目,Pop culture,Sports,,足球,网球,游泳
+0,114,乐器,Pop culture,Music,,吉他,小提琴,钢琴
+1,114,文学作品,Everyday,Literature,,自传体小说,悲剧,史诗
+0,115,传统发明,Everyday,,,漆器,瓷器,玉器
+1,115,味道,Everyday,,,咸,酸,甜
+0,116,红色电影,Pop culture,TV and Movies,,红色娘子军,地道战,铁道游击队
+1,116,语气词,Linguistic,,,啊,呢,呀
+0,117,宗教,Everyday,traditional culture,,佛家,儒家,法家
+1,117,传统美食，非中国人难以接受,Everyday,Foods,,鸡爪,动物内脏,猪蹄
+0,118,传统文化,Everyday,traditional culture,,中医,风水,八卦
+1,118,中国足球超级联赛球队,Pop culture,Sports,,武汉三镇,上海上港,广州恒大
+0,119,心理学理论,Everyday,Math and science,,精神分析,人本主义心理学,认知心理学
+1,119,中国足球超级联赛球队,Pop culture,Sports,,上海上港,武汉三镇,广州恒大
+0,120,季节,Everyday,Environment,,春季,秋季,冬季
+1,120,味道,Everyday,,,咸,酸,甜
+0,121,文学作品,Everyday,Literature,,史诗,自传体小说,悲剧
+1,121,足球技术动作,Pop culture,Sports,,带,传,停
+0,122,爵士鼓组成,Pop culture,Music,,踩嚓,底鼓,吊嚓
+1,122,春节习俗,Everyday,traditional culture,,灯笼,窗花,春联
+0,123,地理学理论,Everyday,Math and science,,中心地理论,环境决定论,人类地理决定论
+1,123,中国诗歌形式分类,Linguistic,Literature,,词,曲,近体诗
+0,124,动物,Everyday,Animals,,猫,狗,鸟
+1,124,法律原则,Everyday,,,公平原则,无罪推定,法律面前人人平等
+0,125,意大利足球甲级联赛,Pop culture,Sports,,AC米兰,罗马,都灵
+1,125,传统文人,Everyday,traditional culture,,庄子,孔子 ,老子
+0,126,四大家鱼,Everyday,Animals,,鳙鱼,草鱼,鲢鱼
+1,126,两点水的字,Linguistic,,,冷,净,准
+0,127,传统节日美食,Everyday,Foods,,粽子, 饺子,元宵
+1,127,宝石,Everyday,,,钻石,蓝宝石,绿宝石
+0,128,颜色,Everyday,,,红色,绿色,蓝色
+1,128,CBA联赛球队,Pop culture,Sports,,北京首钢,广东东莞银行,北控
+0,129,CBA联赛球队,Pop culture,Sports,,辽宁本钢,北控,广东东莞银行
+1,129,具有齿的物体,Everyday,,,锯子,齿轮,梳子
+0,130,红色电影,Pop culture,TV and Movies,,红岩,地道战,铁道游击队
+1,130,哲学概念,Everyday,Literature,,存在主义,实用主义,唯心主义
+0,131,乐器,Pop culture,Music,,小提琴,钢琴,吉他
+1,131,传统节日,Everyday,traditional culture,,春节,中秋节,清明节
+0,132,金字旁的字,Linguistic,,,锋,针,钱
+1,132,中国足球超级联赛球队,Pop culture,Sports,,北京国安,广州恒大,武汉三镇
+0,133,季节,Everyday,Environment,,秋季,夏季,冬季
+1,133,传统节日美食,Everyday,Foods,,元宵,粽子, 饺子
+0,134,物理学定律,Everyday,Math and science,,广义相对论等效原理,能量守恒定律,熵增原理
+1,134,法律原则,Everyday,,,公平原则,无罪推定,法律面前人人平等
+0,135,水果,Everyday,Foods,,橙子,香蕉,葡萄
+1,135,宝石,Everyday,,,蓝宝石,绿宝石,红宝石
+0,136,生物学理论,Everyday,Math and science,,遗传中心法则,内共生起源学说,自然选择理论
+1,136,一只__,Linguistic,Fill in the blank,,笔筒,猫,喇叭
+0,137,爵士鼓组成,Pop culture,Music,,军鼓,吊嚓,底鼓
+1,137,天气,Everyday,Environment,,风,雷,雪
+0,138,五经,Pop culture,Literature,,周易,诗经,礼记
+1,138,科学定理,Everyday,Math and science,,牛顿运动定律,相对论,量子力学
+0,139,传统文人,Everyday,traditional culture,,孔子 ,庄子,老子
+1,139,意大利足球甲级联赛,Pop culture,Sports,,AC米兰,国际米兰,罗马
+0,140,法律原则,Everyday,,,公平原则,法律面前人人平等,正当防卫
+1,140,三点水的字,Linguistic,,,淡,河,法
+0,141,传统文人,Everyday,traditional culture,,庄子,老子,孔子 
+1,141,网络游戏,Pop culture,Games,,英雄联盟,绝地求生,反恐精英
+0,142,生物学理论,Everyday,Math and science,,内共生起源学说,自然选择理论,遗传中心法则
+1,142,文章不同类型,Linguistic,Literature,,说明文,记叙文,议论文
+0,143,反刍动物,Everyday,Animals,,羊,牛,驯鹿
+1,143,情感,Everyday,,,快乐,惊讶,悲伤
+0,144,文学作品,Everyday,Literature,,史诗,自传体小说,悲剧
+1,144,传统发明,Everyday,,,漆器,瓷器,玉器
+0,145,一只__,Linguistic,Fill in the blank,,喇叭,笔筒,羊
+1,145,春节装饰,Everyday,Global,,灯笼,烟花,春联
+0,146,网络游戏,Pop culture,Games,,英雄联盟,反恐精英,绝地求生
+1,146,水果,Everyday,Foods,,橙子,香蕉,苹果
+0,147,天干,Everyday,traditional culture,,戊,辛,庚
+1,147,四大家鱼,Everyday,Animals,,草鱼,青鱼,鳙鱼
+0,148,中国诗歌形式分类,Linguistic,Literature,,近体诗,古体诗,曲
+1,148,两点水的字,Linguistic,,,净,冷,准
+0,149,中文外来语,Linguistic,,,坦克,咖啡,雷达
+1,149,经济理论,Everyday,Math and science,,供需理论,新自由主义,货币主义
+0,150,传统文化旅游景点,Everyday,Global,,长城,莫高窟,故宫
+1,150,情感,Everyday,,,愤怒,惊讶,快乐
+0,151,爵士鼓组成,Pop culture,Music,,军鼓,踩嚓,底鼓
+1,151,端午节习俗,Everyday,traditional culture,,雄黄酒,龙舟,艾草
+0,152,学习科目,Everyday,,,数学,语文,英语
+1,152,行星,Everyday,Math and science,,地球,水星,金星
+0,153,四书,Pop culture,Literature,,论语,孟子,大学
+1,153,网络游戏,Pop culture,Games,,英雄联盟,绝地求生,反恐精英
+0,154,四大家鱼,Everyday,Animals,,草鱼,青鱼,鳙鱼
+1,154,历史时期,Everyday,History,,文艺复兴,工业革命,信息时代
+0,155,经典川菜,Everyday,Foods,,宫保鸡丁,毛血旺,麻婆豆腐
+1,155,文学作品,Everyday,Literature,,悲剧,讽刺小说,自传体小说
+0,156,情感,Everyday,,,快乐,愤怒,惊讶
+1,156,传统文化,Everyday,traditional culture,,八卦,风水,太极
+0,157,西班牙足球甲级联赛,Pop culture,Sports,,巴萨罗那,皇家社会,马德里竞技
+1,157,经典川菜,Everyday,Foods,,辣子鸡,宫保鸡丁,麻婆豆腐
+0,158,物理学定律,Everyday,Math and science,,广义相对论等效原理,海森堡不确定性原理,能量守恒定律
+1,158,春节装饰,Everyday,Global,,春联,红包,烟花
+0,159,四书,Pop culture,Literature,,孟子,大学,论语
+1,159,NBA队伍,Pop culture,Sports,,热火,湖人,快船
+0,160,生物学理论,Everyday,Math and science,,内共生起源学说,自然选择理论,遗传中心法则
+1,160,两点水的字,Linguistic,,,冷,凉,准
+0,161,两点水的字,Linguistic,,,准,冷,凉
+1,161,三点水的字,Linguistic,,,湖,淡,河
+0,162,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,做水,开水,烧水
+1,162,哲学概念,Everyday,Literature,,实用主义,唯心主义,实证主义
+0,163,运动项目,Pop culture,Sports,,网球,游泳,篮球
+1,163,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,做水,开水,热水
+0,164,传统文化旅游景点,Everyday,Global,,兵马俑,长城,故宫
+1,164,传统美食，非中国人难以接受,Everyday,Foods,,松花蛋,动物内脏,猪蹄
+0,165,英国足球超级联赛队伍,Pop culture,Sports,,曼联,曼城,水晶宫
+1,165,法国足球甲级联赛,Pop culture,Sports,,巴黎,尼斯,马赛
+0,166,颜色,Everyday,,,蓝色,红色,黄色
+1,166,行星,Everyday,Math and science,,地球,火星,水星
+0,167,具有齿的物体,Everyday,,,拉链,梳子,齿轮
+1,167,文章不同类型,Linguistic,Literature,,散文,议论文,说明文
+0,168,星期,Everyday,,,星期二,"星期一
+",星期四
+1,168,季节,Everyday,Environment,,秋季,春季,夏季
+0,169,天干,Everyday,traditional culture,,戊,辛,己
+1,169,哲学概念,Everyday,Literature,,唯心主义,存在主义,实证主义
+0,170,艺术流派,Pop culture,Art,,抽象表现主义,表现主义,立体派
+1,170,春节装饰,Everyday,Global,,红包,烟花,春联
+0,171,中国诗歌形式分类,Linguistic,Literature,,词,古体诗,近体诗
+1,171,出自唐代时期成语,Linguistic,traditional culture,,背道而驰,独树一帜,班门弄斧
+0,172,艺术流派,Pop culture,Art,,表现主义,印象派,抽象表现主义
+1,172,中国诗歌形式分类,Linguistic,Literature,,近体诗,古体诗,曲
+0,173,两点水的字,Linguistic,,,准,凉,冷
+1,173,历史时期,Everyday,History,,信息时代,工业革命,冷战时期
+0,174,传统节日美食,Everyday,Foods,,月饼, 饺子,粽子
+1,174,春节装饰,Everyday,Global,,灯笼,红包,烟花
+0,175,地理学理论,Everyday,Math and science,,中心地理论,板块构造理论,人类地理决定论
+1,175,宝石,Everyday,,,蓝宝石,钻石,绿宝石
+0,176,端午节习俗,Everyday,traditional culture,,雄黄酒,艾草,粽子
+1,176,传统文人,Everyday,traditional culture,,老子,孟子,孔子 
+0,177,三点水的字,Linguistic,,,淡,法,湖
+1,177,NBA队伍,Pop culture,Sports,,快船,湖人,马刺
+0,178,诸葛亮相关成语,Linguistic,traditional culture,,初出茅庐,三顾茅庐,七擒七纵
+1,178,爵士鼓组成,Pop culture,Music,,吊嚓,军鼓,底鼓
+0,179,传统文人,Everyday,traditional culture,,老子,孟子,庄子
+1,179,经济理论,Everyday,Math and science,,供需理论,凯恩斯主义,新自由主义
+0,180,古建筑,Everyday,Global,,秦始皇陵,长城,故宫
+1,180,心理学理论,Everyday,Math and science,,认知心理学,行为主义,精神分析
+0,181,宝石,Everyday,,,蓝宝石,钻石,绿宝石
+1,181,一只__,Linguistic,Fill in the blank,,笔筒,喇叭,羊
+0,182,传统文化,Everyday,traditional culture,,八卦,太极,中医
+1,182,中国诗歌形式分类,Linguistic,Literature,,近体诗,古体诗,词
+0,183,历史时期,Everyday,History,,文艺复兴,冷战时期,信息时代
+1,183,文学作品,Everyday,Literature,,史诗,讽刺小说,悲剧
+0,184,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,热水,做水,开水
+1,184,四君子,Everyday,traditional culture,,竹,兰,梅
+0,185,情感,Everyday,,,悲伤,惊讶,愤怒
+1,185,四大家鱼,Everyday,Animals,,鳙鱼,青鱼,草鱼
+0,186,宝石,Everyday,,,钻石,蓝宝石,红宝石
+1,186,红色电影,Pop culture,TV and Movies,,红岩,铁道游击队,红色娘子军
+0,187, ___ 树,Linguistic,,,梨,槐,柳
+1,187,足球技术动作,Pop culture,Sports,,带,射,传
+0,188,__三角形,Linguistic,Fill in the blank,,直角,锐角,钝角
+1,188,一只__,Linguistic,Fill in the blank,,猫,羊,笔筒
+0,189,行星,Everyday,Math and science,,火星,水星,地球
+1,189,法律原则,Everyday,,,公平原则,无罪推定,正当防卫
+0,190,两点水的字,Linguistic,,,准,冷,净
+1,190,金字旁的字,Linguistic,,,锋,钉,钱
+0,191,红色电影,Pop culture,TV and Movies,,红岩,铁道游击队,地道战
+1,191,中文外来语,Linguistic,,,尼龙,雷达,坦克
+0,192,文章不同类型,Linguistic,Literature,,说明文,议论文,记叙文
+1,192,语言学理论,Everyday,Math and science,,普遍语法理论,萨丕尔-沃尔夫假说,符号互动主义
+0,193,心理学理论,Everyday,Math and science,,精神分析,行为主义,人本主义心理学
+1,193,反刍动物,Everyday,Animals,,牛,羊,梅花鹿
+0,194,历史时期,Everyday,History,,工业革命,文艺复兴,冷战时期
+1,194,传统美食，非中国人难以接受,Everyday,Foods,,动物内脏,松花蛋,鸡爪
+0,195,物理学定律,Everyday,Math and science,,能量守恒定律,广义相对论等效原理,海森堡不确定性原理
+1,195,树的组成,Everyday,Environment,,干,根,树枝
+0,196,物理学定律,Everyday,Math and science,,广义相对论等效原理,海森堡不确定性原理,熵增原理
+1,196,天干,Everyday,traditional culture,,戊,庚,己
+0,197,数学定理,Everyday,Math and science,,哥德尔不完备定理,毕达哥拉斯定理,欧拉公式
+1,197,传统文化旅游景点,Everyday,Global,,莫高窟,故宫,长城
+0,198,出自唐代时期成语,Linguistic,traditional culture,,独树一帜,班门弄斧,背道而驰
+1,198,西班牙足球甲级联赛,Pop culture,Sports,,巴萨罗那,马德里竞技,皇家社会
+0,199,春节习俗,Everyday,traditional culture,,灯笼,年画,春联
+1,199,艺术流派,Pop culture,Art,,抽象表现主义,表现主义,印象派
+0,200,网络用语,Linguistic,Slang and synonyms,,绷不住,内卷,破防了
+1,200,语言学理论,Everyday,Math and science,,符号互动主义,萨丕尔-沃尔夫假说,语言相对论
+0,201,中文外来语,Linguistic,,,咖啡,尼龙,坦克
+1,201,树的组成,Everyday,Environment,,树皮,树枝,根
+0,202,乐器,Pop culture,Music,,钢琴,小提琴,鼓
+1,202,地支,Everyday,traditional culture,,申,亥,酉
+0,203,传统文人,Everyday,traditional culture,,孔子 ,老子,庄子
+1,203,英国足球超级联赛队伍,Pop culture,Sports,,曼联,水晶宫,阿森纳
+0,204,天干,Everyday,traditional culture,,戊,辛,己
+1,204,中国足球超级联赛球队,Pop culture,Sports,,北京国安,上海上港,广州恒大
+0,205,足球技术动作,Pop culture,Sports,,射,带,停
+1,205,经典川菜,Everyday,Foods,,毛血旺,辣子鸡,宫保鸡丁
+0,206,五经,Pop culture,Literature,,礼记,诗经,尚书
+1,206,四君子,Everyday,traditional culture,,梅,竹,菊
+0,207,科学定理,Everyday,Math and science,,热力学定律,量子力学,相对论
+1,207,数学定理,Everyday,Math and science,,欧拉公式,费马大定理,毕达哥拉斯定理
+0,208,经济理论,Everyday,Math and science,,新自由主义,供需理论,凯恩斯主义
+1,208,味道,Everyday,,,甜,酸,苦
+0,209,历史时期,Everyday,History,,工业革命,信息时代,文艺复兴
+1,209,天气,Everyday,Environment,,雪,风,雨
+0,210,数学定理,Everyday,Math and science,,费马大定理,欧拉公式,哥德尔不完备定理
+1,210,经济理论,Everyday,Math and science,,新自由主义,货币主义,供需理论
+0,211,电脑的不同表达方式,Linguistic,,,台式机,计算机,笔记本
+1,211,传统发明,Everyday,,,瓷器,漆器,丝绸
+0,212,足球技术动作,Pop culture,Sports,,传,射,带
+1,212,两点水的字,Linguistic,,,凉,净,准
+0,213,传统节日,Everyday,traditional culture,,中秋节,春节,端午节
+1,213,宗教,Everyday,traditional culture,,法家,佛家,儒家
+0,214,颜色,Everyday,,,黄色,蓝色,红色
+1,214,传统美食，非中国人难以接受,Everyday,Foods,,鸡爪,松花蛋,猪蹄
+0,215,味道,Everyday,,,甜,苦,咸
+1,215,宗教,Everyday,traditional culture,,道家,佛家,法家
+0,216,星期,Everyday,,,星期四,星期三,"星期一
+"
+1,216,地支,Everyday,traditional culture,,酉,亥,申
+0,217,生物学理论,Everyday,Math and science,,遗传中心法则,内共生起源学说,自然选择理论
+1,217,四君子,Everyday,traditional culture,,竹,梅,兰
+0,218,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,开水,烧水,做水
+1,218,学习科目,Everyday,,,数学,物理,语文
+0,219,春节装饰,Everyday,Global,,春联,烟花,灯笼
+1,219,金字旁的字,Linguistic,,,钉,钱,锋
+0,220,动物,Everyday,Animals,,鸟,鱼,狗
+1,220,传统文化,Everyday,traditional culture,,风水,中医,太极
+0,221,学习科目,Everyday,,,英语,数学,物理
+1,221,四书,Pop culture,Literature,,中庸,大学,孟子
+0,222,具有齿的物体,Everyday,,,梳子,锯子,齿轮
+1,222,中国传统文艺表演,Everyday,,,舞蹈,功夫,杂技
+0,223,宝石,Everyday,,,绿宝石,红宝石,蓝宝石
+1,223,艺术流派,Pop culture,Art,,印象派,抽象表现主义,表现主义
+0,224,两点水的字,Linguistic,,,净,准,凉
+1,224,CBA联赛球队,Pop culture,Sports,,北京首钢,广东东莞银行,北控
+0,225,运动项目,Pop culture,Sports,,篮球,网球,游泳
+1,225,西班牙足球甲级联赛,Pop culture,Sports,,巴萨罗那,马德里竞技,皇家马德里
+0,226,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,烧水,热水,开水
+1,226,金字旁的字,Linguistic,,,锋,钉,针
+0,227,历史时期,Everyday,History,,冷战时期,工业革命,信息时代
+1,227,味道,Everyday,,,咸,甜,酸
+0,228,情感,Everyday,,,悲伤,惊讶,快乐
+1,228, ___ 树,Linguistic,,,柳,槐,梨
+0,229,三点水的字,Linguistic,,,法,河,淡
+1,229,__笑,Linguistic,Fill in the blank,,苦,嘲,冷
+0,230,生物学理论,Everyday,Math and science,,内共生起源学说,自然选择理论,遗传中心法则
+1,230,语气词,Linguistic,,,呢,呀,啊
+0,231,艺术流派,Pop culture,Art,,立体派,表现主义,抽象表现主义
+1,231,数学定理,Everyday,Math and science,,欧拉公式,哥德尔不完备定理,费马大定理
+0,232,行星,Everyday,Math and science,,地球,水星,火星
+1,232,运动项目,Pop culture,Sports,,网球,足球,篮球
+0,233,意大利足球甲级联赛,Pop culture,Sports,,都灵,AC米兰,国际米兰
+1,233,行星,Everyday,Math and science,,水星,金星,地球
+0,234,颜色,Everyday,,,绿色,蓝色,红色
+1,234,__笑,Linguistic,Fill in the blank,,嘲,冷,微
+0,235,艺术流派,Pop culture,Art,,印象派,表现主义,立体派
+1,235,乐器,Pop culture,Music,,小提琴,钢琴,鼓
+0,236,运动项目,Pop culture,Sports,,篮球,网球,游泳
+1,236,中文外来语,Linguistic,,,尼龙,咖啡,雷达
+0,237,网络用语,Linguistic,Slang and synonyms,,破防了,躺平,内卷
+1,237,水果,Everyday,Foods,,橙子,苹果,香蕉
+0,238,天气,Everyday,Environment,,雪,风,雷
+1,238,传统美食，非中国人难以接受,Everyday,Foods,,鸡爪,松花蛋,动物内脏
+0,239,五经,Pop culture,Literature,,周易,尚书,诗经
+1,239,传统文化,Everyday,traditional culture,,中医,八卦,太极
+0,240,爵士鼓组成,Pop culture,Music,,吊嚓,底鼓,踩嚓
+1,240,英国足球超级联赛队伍,Pop culture,Sports,,曼城,曼联,水晶宫
+0,241,五经,Pop culture,Literature,,礼记,周易,尚书
+1,241,经典川菜,Everyday,Foods,,辣子鸡,宫保鸡丁,麻婆豆腐
+0,242,树的组成,Everyday,Environment,,根,树枝,树皮
+1,242,网络用语,Linguistic,Slang and synonyms,,破防了,内卷,躺平
+0,243,科学定理,Everyday,Math and science,,牛顿运动定律,相对论,量子力学
+1,243,艺术流派,Pop culture,Art,,印象派,抽象表现主义,立体派
+0,244,__三角形,Linguistic,Fill in the blank,,钝角,直角,等边
+1,244,法律原则,Everyday,,,法律面前人人平等,无罪推定,公平原则
+0,245,金字旁的字,Linguistic,,,锋,钉,钱
+1,245,传统节日美食,Everyday,Foods,, 饺子,元宵,月饼
+0,246,学习科目,Everyday,,,英语,物理,数学
+1,246,烹饪手法,Everyday,Foods,,炒,烤,蒸
+0,247,味道,Everyday,,,咸,苦,酸
+1,247,学习科目,Everyday,,,数学,语文,英语
+0,248,中国诗歌形式分类,Linguistic,Literature,,古体诗,曲,近体诗
+1,248,四大家鱼,Everyday,Animals,,草鱼,鳙鱼,鲢鱼
+0,249,经典川菜,Everyday,Foods,,辣子鸡,宫保鸡丁,毛血旺
+1,249,中国足球超级联赛球队,Pop culture,Sports,,上海上港,广州恒大,武汉三镇
+0,250,经济理论,Everyday,Math and science,,供需理论,凯恩斯主义,新自由主义
+1,250,天干,Everyday,traditional culture,,己,庚,戊
+0,251,运动项目,Pop culture,Sports,,篮球,游泳,足球
+1,251,树的组成,Everyday,Environment,,干,根,树枝
+0,252,德国足球甲级联赛,Pop culture,Sports,,多特蒙德,门兴,拜仁
+1,252,情感,Everyday,,,快乐,愤怒,悲伤
+0,253,天气,Everyday,Environment,,雨,雷,雪
+1,253,传统美食，非中国人难以接受,Everyday,Foods,,动物内脏,猪蹄,松花蛋
+0,254,天干,Everyday,traditional culture,,辛,庚,戊
+1,254,经典川菜,Everyday,Foods,,宫保鸡丁,毛血旺,辣子鸡
+0,255,宝石,Everyday,,,蓝宝石,钻石,红宝石
+1,255,树的组成,Everyday,Environment,,干,树枝,根
+0,256,中国足球超级联赛球队,Pop culture,Sports,,北京国安,上海上港,武汉三镇
+1,256,经典鲁菜,Everyday,Foods,,把子肉,糖醋鲤鱼,九转大肠
+0,257,艺术流派,Pop culture,Art,,印象派,表现主义,抽象表现主义
+1,257,CBA联赛球队,Pop culture,Sports,,北京首钢,北控,辽宁本钢
+0,258,四大家鱼,Everyday,Animals,,鲢鱼,鳙鱼,草鱼
+1,258,电脑的不同表达方式,Linguistic,,,电脑,笔记本,计算机
+0,259,四大家鱼,Everyday,Animals,,青鱼,鳙鱼,鲢鱼
+1,259,一只__,Linguistic,Fill in the blank,,猫,喇叭,笔筒
+0,260,四书,Pop culture,Literature,,孟子,论语,中庸
+1,260,__三角形,Linguistic,Fill in the blank,,等边,锐角,直角
+0,261,英国足球超级联赛队伍,Pop culture,Sports,,水晶宫,阿森纳,曼城
+1,261,两点水的字,Linguistic,,,准,冷,凉
+0,262,天气,Everyday,Environment,,雪,雨,风
+1,262,__三角形,Linguistic,Fill in the blank,,锐角,等边,钝角
+0,263,红色电影,Pop culture,TV and Movies,,红色娘子军,地道战,红岩
+1,263,行星,Everyday,Math and science,,地球,火星,金星
+0,264,经济理论,Everyday,Math and science,,货币主义,供需理论,新自由主义
+1,264,地支,Everyday,traditional culture,,申,酉,戌
+0,265,NBA队伍,Pop culture,Sports,,湖人,热火,快船
+1,265,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,做水,开水,烧水
+0,266,红色电影,Pop culture,TV and Movies,,红岩,地道战,红色娘子军
+1,266,__笑,Linguistic,Fill in the blank,,苦,微,嘲
+0,267,英国足球超级联赛队伍,Pop culture,Sports,,曼城,曼联,水晶宫
+1,267,五经,Pop culture,Literature,,诗经,周易,尚书
+0,268,把水加热至沸腾的不同方言,Linguistic,Slang and synonyms,,做水,开水,热水
+1,268,红色电影,Pop culture,TV and Movies,,地道战,红岩,红色娘子军
+0,269,NBA队伍,Pop culture,Sports,,湖人,热火,马刺
+1,269,传统文化,Everyday,traditional culture,,八卦,太极,中医
+0,270,传统发明,Everyday,,,玉器,瓷器,丝绸
+1,270,运动项目,Pop culture,Sports,,游泳,篮球,网球
+0,271,文学作品,Everyday,Literature,,悲剧,讽刺小说,史诗
+1,271,古建筑,Everyday,Global,,兵马俑,故宫,长城
+0,272,诸葛亮相关成语,Linguistic,traditional culture,,七擒七纵,草船借箭,初出茅庐
+1,272,中国传统文艺表演,Everyday,,,功夫,音乐,舞蹈
+0,273,传统文化,Everyday,traditional culture,,风水,中医,太极
+1,273,春节装饰,Everyday,Global,,红包,灯笼,春联
+0,274,西班牙足球甲级联赛,Pop culture,Sports,,巴萨罗那,马德里竞技,皇家马德里
+1,274,宗教,Everyday,traditional culture,,法家,佛家,道家
+0,275,季节,Everyday,Environment,,秋季,夏季,冬季
+1,275,反刍动物,Everyday,Animals,,牛,驯鹿,羊
+0,276,春节习俗,Everyday,traditional culture,,春联,灯笼,年画
+1,276,网络用语,Linguistic,Slang and synonyms,,破防了,绷不住,内卷
+0,277,春节习俗,Everyday,traditional culture,,窗花,灯笼,春联
+1,277,德国足球甲级联赛,Pop culture,Sports,,多特蒙德,拜仁,勒沃库森
+0,278,NBA队伍,Pop culture,Sports,,快船,马刺,热火
+1,278,经济理论,Everyday,Math and science,,货币主义,凯恩斯主义,供需理论
+0,279,__笑,Linguistic,Fill in the blank,,微,苦,冷
+1,279,数学定理,Everyday,Math and science,,欧拉公式,毕达哥拉斯定理,费马大定理
+0,280,法国足球甲级联赛,Pop culture,Sports,,尼斯,马赛,巴黎
+1,280,宗教,Everyday,traditional culture,,法家,道家,佛家
+0,281,艺术流派,Pop culture,Art,,印象派,立体派,表现主义
+1,281,宝石,Everyday,,,蓝宝石,红宝石,绿宝石
+0,282,文学作品,Everyday,Literature,,讽刺小说,史诗,自传体小说
+1,282,乐器,Pop culture,Music,,钢琴,吉他,小提琴
+0,283,诸葛亮相关成语,Linguistic,traditional culture,,三顾茅庐,七擒七纵,初出茅庐
+1,283,意大利足球甲级联赛,Pop culture,Sports,,都灵,AC米兰,罗马
+0,284,金字旁的字,Linguistic,,,钉,钱,针
+1,284,中国传统文艺表演,Everyday,,,功夫,舞蹈,音乐
+0,285,语言学理论,Everyday,Math and science,,萨丕尔-沃尔夫假说,普遍语法理论,符号互动主义
+1,285,端午节习俗,Everyday,traditional culture,,龙舟,艾草,雄黄酒
+0,286,传统文化,Everyday,traditional culture,,八卦,风水,太极
+1,286,语言学理论,Everyday,Math and science,,普遍语法理论,符号互动主义,语言相对论
+0,287,传统美食，非中国人难以接受,Everyday,Foods,,猪蹄,松花蛋,动物内脏
+1,287,味道,Everyday,,,苦,咸,甜
+0,288,传统发明,Everyday,,,丝绸,玉器,漆器
+1,288,颜色,Everyday,,,红色,黄色,绿色
+0,289,端午节习俗,Everyday,traditional culture,,雄黄酒,艾草,龙舟
+1,289,文学作品,Everyday,Literature,,讽刺小说,自传体小说,史诗
+0,290,中文外来语,Linguistic,,,咖啡,尼龙,坦克
+1,290,古建筑,Everyday,Global,,兵马俑,长城,秦始皇陵
+0,291,哲学概念,Everyday,Literature,,唯心主义,实证主义,存在主义
+1,291,四君子,Everyday,traditional culture,,梅,竹,兰
+0,292,法律原则,Everyday,,,无罪推定,法律面前人人平等,公平原则
+1,292,文学作品,Everyday,Literature,,讽刺小说,悲剧,史诗
+0,293,艺术流派,Pop culture,Art,,印象派,立体派,表现主义
+1,293,传统美食，非中国人难以接受,Everyday,Foods,,松花蛋,鸡爪,动物内脏
+0,294,艺术流派,Pop culture,Art,,抽象表现主义,立体派,表现主义
+1,294,足球技术动作,Pop culture,Sports,,带,停,传
+0,295,传统文化旅游景点,Everyday,Global,,兵马俑,长城,故宫
+1,295,中国诗歌形式分类,Linguistic,Literature,,曲,词,古体诗
+0,296,星期,Everyday,,,星期四,"星期一
+",星期二
+1,296,行星,Everyday,Math and science,,水星,地球,火星
+0,297,天干,Everyday,traditional culture,,辛,庚,己
+1,297,西班牙足球甲级联赛,Pop culture,Sports,,马德里竞技,巴萨罗那,皇家社会
+0,298,__三角形,Linguistic,Fill in the blank,,等边,钝角,直角
+1,298, ___ 树,Linguistic,,,柳,槐,梨
+0,299,天气,Everyday,Environment,,雨,雷,雪
+1,299,经济理论,Everyday,Math and science,,货币主义,供需理论,新自由主义
