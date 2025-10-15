@@ -1,0 +1,918 @@
+,Game #,True Topic,Tag 1,Tag 2,Tag 3,Word 1,Word 2
+0,0,Spring Festival customs,Everyday,traditional culture,,New Year pictures,Spring couplets
+1,0,season,Everyday,Environment,,autumn,summer
+2,0,cooking techniques,Everyday,Foods,,fry,saute
+0,1,legal principles,Everyday,,,justifiable defense,Everyone is equal before the law
+1,1,Different ways to say computer.,Linguistic,,,Laptop,computer
+2,1,scientific theorem,Everyday,Math and science,,laws of thermodynamics,Newton's laws of motion
+0,2,Chinese loanwords,Linguistic,,,tank,nylon
+1,2,Spring Festival decoration,Everyday,Global,,fireworks,lantern
+2,2,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,Songhua eggs,chicken feet
+0,3,Classic Sichuan Cuisine,Everyday,Foods,,Duck Blood in Chili Sauce,Kung Pao Chicken
+1,3,Spanish Football League,Pop culture,Sports,,Atletico Madrid,Barcelona
+2,3,__smile,Linguistic,Fill in the blank,,wry,ridicule
+0,4,red movie,Pop culture,TV and Movies,,Red Detachment of Women,tunnel warfare
+1,4,Week,Everyday,,,"Monday
+",Wednesday
+2,4,ancient building,Everyday,Global,,Qin Shi Huang Mausoleum,Terracotta Warriors and Horses
+0,5,Dragon Boat Festival customs,Everyday,traditional culture,,realgar wine,Zongzi
+1,5,Chinese Football Super League team,Pop culture,Sports,,Guangzhou Hengda,Wuhan Sanzhen
+2,5,The character with water radical,Linguistic,,,river,lake
+0,6,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Visit the thatched cottage three times,fledgling
+1,6,a __,Linguistic,Fill in the blank,,sheep,trumpet
+2,6,Dragon Boat Festival customs,Everyday,traditional culture,,realgar wine,Zongzi
+0,7,An idiom from the Tang Dynasty,Linguistic,traditional culture,,Going in the opposite direction,Playing tricks
+1,7,weather,Everyday,Environment,,Snow,wind
+2,7,Week,Everyday,,,Tuesday,"Monday
+"
+0,8,Network language,Linguistic,Slang and synonyms,,Lie down,Involution
+1,8,An idiom from the Tang Dynasty,Linguistic,traditional culture,,ends of the earth,Playing tricks
+2,8,Chinese loanwords,Linguistic,,,tank,coffee
+0,9,historical period,Everyday,History,,Renaissance,cold war period
+1,9,a __,Linguistic,Fill in the blank,,Pen holder,cat
+2,9,Different ways to say computer.,Linguistic,,,Laptop,desktop
+0,10,Spanish Football League,Pop culture,Sports,,Real Madrid,Royal Football Society
+1,10,animal,Everyday,Animals,,fish,dog
+2,10,season,Everyday,Environment,,spring,winter
+0,11,The Five Classics,Pop culture,Literature,,Book of Documents,The Book of Rites
+1,11,Network language,Linguistic,Slang and synonyms,,Involution,Lie down
+2,11,The Four Books,Pop culture,Literature,,The Doctrine of the Mean,Mencius
+0,12,traditional invention,Everyday,,,jade,lacquerware
+1,12, ___ tree,Linguistic,,,willow,pear
+2,12,Traditional holiday food,Everyday,Foods,,Lantern Festival,moon cake
+0,13,The character with ice radical,Linguistic,,,cold,cool
+1,13,historical period,Everyday,History,,cold war period,Renaissance
+2,13,British Premier League teams,Pop culture,Sports,,Manchester City,Arsenal
+0,14,Traditional cultural tourist attractions,Everyday,Global,,Terracotta Warriors and Horses,Forbidden City
+1,14,traditional invention,Everyday,,,jade,silk
+2,14,historical period,Everyday,History,,cold war period,Renaissance
+0,15,smell,Everyday,,,acid,sweet
+1,15,legal principles,Everyday,,,justifiable defense,Everyone is equal before the law
+2,15,British Premier League teams,Pop culture,Sports,,Crystal palace,Manchester United
+0,16,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,boiling water,make water
+1,16, ___ tree,Linguistic,,,peach,pear
+2,16,a __,Linguistic,Fill in the blank,,Pen holder,sheep
+0,17,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,Pig's trotters,animal organs
+1,17,color,Everyday,,,blue,red
+2,17,__smile,Linguistic,Fill in the blank,,smile,ridicule
+0,18,traditional festival,Everyday,traditional culture,,Mid-Autumn Festival,Dragon Boat Festival
+1,18,Sports,Pop culture,Sports,,swim,basketball
+2,18,Online game,Pop culture,Games,,Counter Strike,PUBG
+0,19,geographical theory,Everyday,Math and science,,human geographical determinism,environmental determinism
+1,19,musical instrument,Pop culture,Music,,violin,Guitar
+2,19,Dragon Boat Festival customs,Everyday,traditional culture,,mugwort,realgar wine
+0,20,The character with ice radical,Linguistic,,,cold,clean
+1,20,literature,Everyday,Literature,,satire,autobiographical novel
+2,20,cooking techniques,Everyday,Foods,,Steam,fry
+0,21,Traditional Culture,Everyday,traditional culture,,Tai Chi,the Eight Trigrams
+1,21,historical period,Everyday,History,,Industrial Revolution,Renaissance
+2,21,German Football League,Pop culture,Sports,,Gladbach,Dortmund
+0,22,Week,Everyday,,,Tuesday,Wednesday
+1,22,geographical theory,Everyday,Math and science,,environmental determinism,plate tectonics theory
+2,22,musical instrument,Pop culture,Music,,drum,violin
+0,23,four gentlemen,Everyday,traditional culture,,plum,orchid
+1,23,color,Everyday,,,green,blue
+2,23,Classification of Chinese Poetry Forms,Linguistic,Literature,,word,song
+0,24,traditional literati,Everyday,traditional culture,,Mencius,Confucius
+1,24,Week,Everyday,,,"Monday
+",Tuesday
+2,24,planet,Everyday,Math and science,,Mercury,Mars
+0,25,traditional literati,Everyday,traditional culture,,Zhuangzi,Lao Tzu
+1,25,football technical moves,Pop culture,Sports,,stop,dribble
+2,25,Sports,Pop culture,Sports,,basketball,tennis
+0,26,Dragon Boat Festival customs,Everyday,traditional culture,,Zongzi,realgar wine
+1,26,Classification of Chinese Poetry Forms,Linguistic,Literature,,song,ancient poetry
+2,26,animal,Everyday,Animals,,cat,dog
+0,27,linguistic theory,Everyday,Math and science,,symbolic interactionism,linguistic relativity
+1,27,geographical theory,Everyday,Math and science,,environmental determinism,plate tectonics theory
+2,27,literature,Everyday,Literature,,epic,satire
+0,28,Spring Festival decoration,Everyday,Global,,Spring couplets,fireworks
+1,28,gem,Everyday,,,sapphire,ruby
+2,28,Online game,Pop culture,Games,,Starcraft,PUBG
+0,29,British Premier League teams,Pop culture,Sports,,Crystal palace,Manchester United
+1,29,natural elements,Everyday,Math and science,,earth,water
+2,29,legal principles,Everyday,,,The principle of fairness,justifiable defense
+0,30,animal,Everyday,Animals,,cat,fish
+1,30,laws of physics,Everyday,Math and science,,Heisenberg uncertainty principle,The principle of entropy increase
+2,30,__triangle,Linguistic,Fill in the blank,,acute angle,right angle
+0,31,Online game,Pop culture,Games,,League of Legends,Counter Strike
+1,31,emotion,Everyday,,,sad,hapiness
+2,31,linguistic theory,Everyday,Math and science,,universal grammar theory,Sapir-Whorf hypothesis
+0,32,__triangle,Linguistic,Fill in the blank,,Equilateral,obtuse angle
+1,32,ancient building,Everyday,Global,,Terracotta Warriors and Horses,Great Wall
+2,32,literature,Everyday,Literature,,autobiographical novel,satire
+0,33,Spanish Football League,Pop culture,Sports,,Real Madrid,Atletico Madrid
+1,33,weather,Everyday,Environment,,wind,rain
+2,33,Jazz drum composition,Pop culture,Music,,bass drum,Snare
+0,34,natural elements,Everyday,Math and science,,water,earth
+1,34,The character with ice radical,Linguistic,,,clean,accurate
+2,34,NBA team,Pop culture,Sports,,Clippers,Lakers
+0,35,__triangle,Linguistic,Fill in the blank,,right angle,Equilateral
+1,35,French Football League,Pop culture,Sports,,Marseille,Paris
+2,35,color,Everyday,,,yellow,red
+0,36,philosophical concept,Everyday,Literature,,positivism,idealism
+1,36,smell,Everyday,,,sweet,bitter
+2,36,The character with water radical,Linguistic,,,river,light
+0,37,smell,Everyday,,,sweet,bitter
+1,37,Different types of articles,Linguistic,Literature,,prose,argumentative essay
+2,37,Network language,Linguistic,Slang and synonyms,,Broken defense,Can't hold it tight
+0,38,Classic Shandong cuisine,Everyday,Foods,,Nine turns of large intestine,Sweet and sour carp
+1,38,Chinese traditional theatrical performance,Everyday,,,Kungfu,dance
+2,38,British Premier League teams,Pop culture,Sports,,Arsenal,Manchester City
+0,39, ___ tree,Linguistic,,,pear,peach
+1,39,Network language,Linguistic,Slang and synonyms,,Can't hold it tight,Lie down
+2,39,Classic Sichuan Cuisine,Everyday,Foods,,Spicy Chicken,Kung Pao Chicken
+0,40,The Five Classics,Pop culture,Literature,,The Book of Rites,Book of Documents
+1,40,The character with ice radical,Linguistic,,,cool,clean
+2,40,British Premier League teams,Pop culture,Sports,,Crystal palace,Manchester United
+0,41,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,Pig's trotters,Songhua eggs
+1,41,weather,Everyday,Environment,,rain,Snow
+2,41,laws of physics,Everyday,Math and science,,The principle of entropy increase,Heisenberg uncertainty principle
+0,42,Study subjects,Everyday,,,Chinese,math
+1,42,Ruminants,Everyday,Animals,,ox,reindeer
+2,42,The character with water radical,Linguistic,,,law,light
+0,43,smell,Everyday,,,bitter,sweet
+1,43,Jazz drum composition,Pop culture,Music,,bass drum,Tread
+2,43,geographical theory,Everyday,Math and science,,human geographical determinism,environmental determinism
+0,44,CBA league team,Pop culture,Sports,,Guangdong Dongguan Bank,Liaoning Bengang
+1,44,Chinese traditional theatrical performance,Everyday,,,acrobatics,music
+2,44,Online game,Pop culture,Games,,PUBG,League of Legends
+0,45,historical period,Everyday,History,,Information age,cold war period
+1,45,geographical theory,Everyday,Math and science,,central place theory,human geographical determinism
+2,45,An idiom from the Tang Dynasty,Linguistic,traditional culture,,unique,Going in the opposite direction
+0,46,objects with gear,Everyday,,,saw,gear
+1,46,color,Everyday,,,blue,yellow
+2,46,The Four Books,Pop culture,Literature,,Mencius,The Analects of Confucius
+0,47,planet,Everyday,Math and science,,Venus,Mercury
+1,47,art genre,Pop culture,Art,,Expressionism,cubism
+2,47,cooking techniques,Everyday,Foods,,Steam,saute
+0,48,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,boil water,hot water
+1,48,philosophical concept,Everyday,Literature,,positivism,idealism
+2,48,Classic Sichuan Cuisine,Everyday,Foods,,Duck Blood in Chili Sauce,Kung Pao Chicken
+0,49,historical period,Everyday,History,,Industrial Revolution,Information age
+1,49,traditional invention,Everyday,,,silk,lacquerware
+2,49,emotion,Everyday,,,anger,sad
+0,50,Ruminants,Everyday,Animals,,ox,sika deer
+1,50,red movie,Pop culture,TV and Movies,,tunnel warfare,Red Detachment of Women
+2,50,literature,Everyday,Literature,,tragedy,autobiographical novel
+0,51,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Borrowing arrows from a straw boat,Visit the thatched cottage three times
+1,51,The Five Classics,Pop culture,Literature,,The Book of Changes,The Book of Songs
+2,51,Different ways to say computer.,Linguistic,,,Laptop,desktop
+0,52,four gentlemen,Everyday,traditional culture,,chrysanthemum,bamboo
+1,52,fruit,Everyday,Foods,,apple,Grape
+2,52,season,Everyday,Environment,,spring,summer
+0,53,Heavenly Stem,Everyday,traditional culture,,Wu,Geng
+1,53,Study subjects,Everyday,,,Chinese,English
+2,53,The Five Classics,Pop culture,Literature,,Book of Documents,The Book of Rites
+0,54,__smile,Linguistic,Fill in the blank,,ridicule,sneer
+1,54,biological theory,Everyday,Math and science,,natural selection theory,Theory of the origin of endosymbiosis
+2,54,color,Everyday,,,blue,green
+0,55,legal principles,Everyday,,,The principle of fairness,justifiable defense
+1,55,Chinese loanwords,Linguistic,,,coffee,nylon
+2,55,smell,Everyday,,,salty,bitter
+0,56,traditional festival,Everyday,traditional culture,,Ching Ming Festival,Mid-Autumn Festival
+1,56,__smile,Linguistic,Fill in the blank,,wry,sneer
+2,56,religion,Everyday,traditional culture,,Confucianism,Legalism
+0,57,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,Pig's trotters,animal organs
+1,57,four gentlemen,Everyday,traditional culture,,chrysanthemum,plum
+2,57,The Five Classics,Pop culture,Literature,,The Book of Changes,The Book of Rites
+0,58,Ruminants,Everyday,Animals,,ox,sheep
+1,58,__triangle,Linguistic,Fill in the blank,,obtuse angle,right angle
+2,58,color,Everyday,,,green,yellow
+0,59,color,Everyday,,,green,yellow
+1,59,religion,Everyday,traditional culture,,Buddhist,Taoist
+2,59,legal principles,Everyday,,,Presumption of innocence,Everyone is equal before the law
+0,60,tree composition,Everyday,Environment,,branches,root
+1,60,smell,Everyday,,,acid,bitter
+2,60,NBA team,Pop culture,Sports,,Heat,Spurs
+0,61,linguistic theory,Everyday,Math and science,,universal grammar theory,Sapir-Whorf hypothesis
+1,61,Classic Sichuan Cuisine,Everyday,Foods,,Mapo Tofu,Kung Pao Chicken
+2,61,ancient building,Everyday,Global,,Terracotta Warriors and Horses,Forbidden City
+0,62,Traditional cultural tourist attractions,Everyday,Global,,Great Wall,Forbidden City
+1,62,planet,Everyday,Math and science,,Mars,Venus
+2,62,traditional literati,Everyday,traditional culture,,Lao Tzu,Confucius
+0,63,geographical theory,Everyday,Math and science,,plate tectonics theory,central place theory
+1,63,biological theory,Everyday,Math and science,,central dogma of heredity,Theory of the origin of endosymbiosis
+2,63,animal,Everyday,Animals,,dog,cat
+0,64,Chinese loanwords,Linguistic,,,nylon,tank
+1,64,Modal,Linguistic,,,ne,ya
+2,64,__smile,Linguistic,Fill in the blank,,wry,sneer
+0,65,emotion,Everyday,,,sad,hapiness
+1,65,mathematical theorem,Everyday,Math and science,,Euler's formula,Pythagoras theorem
+2,65,Study subjects,Everyday,,,math,English
+0,66,Classification of Chinese Poetry Forms,Linguistic,Literature,,modern poetry,ancient poetry
+1,66,four gentlemen,Everyday,traditional culture,,chrysanthemum,plum
+2,66,scientific theorem,Everyday,Math and science,,relativity,Newton's laws of motion
+0,67,Traditional Culture,Everyday,traditional culture,,Traditional Chinese Medicine,Feng Shui
+1,67,art genre,Pop culture,Art,,abstract expressionism,Expressionism
+2,67,planet,Everyday,Math and science,,Mercury,Venus
+0,68,Dragon Boat Festival customs,Everyday,traditional culture,,mugwort,realgar wine
+1,68,weather,Everyday,Environment,,thunder,wind
+2,68,a __,Linguistic,Fill in the blank,,cat,Pen holder
+0,69,Four major fish kinds,Everyday,Animals,,grass carp,bighead carp
+1,69,Chinese loanwords,Linguistic,,,radar,tank
+2,69,cooking techniques,Everyday,Foods,,bake,saute
+0,70,Traditional Culture,Everyday,traditional culture,,Tai Chi,Feng Shui
+1,70,natural elements,Everyday,Math and science,,wind,water
+2,70,four gentlemen,Everyday,traditional culture,,plum,bamboo
+0,71,Classic Shandong cuisine,Everyday,Foods,,Stewed Meat,Sweet and sour carp
+1,71,planet,Everyday,Math and science,,Earth,Mars
+2,71,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Borrowing arrows from a straw boat,Seven captures and seven attempts
+0,72,color,Everyday,,,red,yellow
+1,72,red movie,Pop culture,TV and Movies,,Red Detachment of Women,railway guerrillas
+2,72,fruit,Everyday,Foods,,Grape,apple
+0,73,traditional festival,Everyday,traditional culture,,Mid-Autumn Festival,Dragon Boat Festival
+1,73,German Football League,Pop culture,Sports,,Bayern,Dortmund
+2,73,The character with ice radical,Linguistic,,,accurate,cool
+0,74,animal,Everyday,Animals,,cat,fish
+1,74,biological theory,Everyday,Math and science,,Theory of the origin of endosymbiosis,Genomics
+2,74,season,Everyday,Environment,,spring,summer
+0,75,literature,Everyday,Literature,,satire,epic
+1,75,season,Everyday,Environment,,autumn,winter
+2,75,ancient building,Everyday,Global,,Terracotta Warriors and Horses,Forbidden City
+0,76,Spring Festival customs,Everyday,traditional culture,,window grilles,Spring couplets
+1,76,four gentlemen,Everyday,traditional culture,,chrysanthemum,orchid
+2,76,ancient building,Everyday,Global,,Forbidden City,Great Wall
+0,77,smell,Everyday,,,acid,salty
+1,77,The Four Books,Pop culture,Literature,,Mencius,The Doctrine of the Mean
+2,77,religion,Everyday,traditional culture,,Confucianism,Buddhist
+0,78,mathematical theorem,Everyday,Math and science,,Gödel's incompleteness theorem,Fermat's Last Theorem
+1,78,natural elements,Everyday,Math and science,,earth,water
+2,78,CBA league team,Pop culture,Sports,,Beikong,Beijing Shougang
+0,79,__smile,Linguistic,Fill in the blank,,ridicule,sneer
+1,79,NBA team,Pop culture,Sports,,Heat,Clippers
+2,79,Sports,Pop culture,Sports,,basketball,tennis
+0,80,psychological theory,Everyday,Math and science,,Behaviorism,cognitive psychology
+1,80,emotion,Everyday,,,anger,sad
+2,80,natural elements,Everyday,Math and science,,water,wind
+0,81,Heavenly Stem,Everyday,traditional culture,,Wu,Geng
+1,81,four gentlemen,Everyday,traditional culture,,plum,chrysanthemum
+2,81,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Borrowing arrows from a straw boat,fledgling
+0,82,Chinese Football Super League team,Pop culture,Sports,,Shanghai SIPG,Wuhan Sanzhen
+1,82,Jazz drum composition,Pop culture,Music,,Tread,bass drum
+2,82,economic theory,Everyday,Math and science,,monetarism,Keynesian
+0,83,traditional festival,Everyday,traditional culture,,Spring Festival,Ching Ming Festival
+1,83,Chinese loanwords,Linguistic,,,tank,nylon
+2,83,animal,Everyday,Animals,,cat,bird
+0,84,Network language,Linguistic,Slang and synonyms,,Can't hold it tight,Involution
+1,84,French Football League,Pop culture,Sports,,Marseille,Nice
+2,84,tree composition,Everyday,Environment,,Dry,branches
+0,85,ancient building,Everyday,Global,,Forbidden City,Great Wall
+1,85,Idioms related to Zhuge Liang,Linguistic,traditional culture,,fledgling,Seven captures and seven attempts
+2,85,weather,Everyday,Environment,,Snow,rain
+0,86,Dragon Boat Festival customs,Everyday,traditional culture,,realgar wine,dragon boat
+1,86,mathematical theorem,Everyday,Math and science,,Fermat's Last Theorem,Euler's formula
+2,86,geographical theory,Everyday,Math and science,,environmental determinism,human geographical determinism
+0,87,Different ways to say computer.,Linguistic,,,desktop,calculation machine
+1,87,art genre,Pop culture,Art,,Impressionism,abstract expressionism
+2,87,NBA team,Pop culture,Sports,,Lakers,Heat
+0,88,football technical moves,Pop culture,Sports,,shoot,pass
+1,88,a __,Linguistic,Fill in the blank,,sheep,trumpet
+2,88,traditional literati,Everyday,traditional culture,,Mencius,Zhuangzi
+0,89,scientific theorem,Everyday,Math and science,,relativity,laws of thermodynamics
+1,89,Jazz drum composition,Pop culture,Music,,bass drum,Snare
+2,89,ancient building,Everyday,Global,,Forbidden City,Terracotta Warriors and Horses
+0,90,mathematical theorem,Everyday,Math and science,,Euler's formula,Gödel's incompleteness theorem
+1,90,color,Everyday,,,red,blue
+2,90,economic theory,Everyday,Math and science,,Keynesian,Neo-liberalism
+0,91,Spring Festival decoration,Everyday,Global,,Spring couplets,fireworks
+1,91,Study subjects,Everyday,,,physics,math
+2,91,Chinese loanwords,Linguistic,,,radar,nylon
+0,92,laws of physics,Everyday,Math and science,,The principle of entropy increase,Energy conservation law
+1,92,Spring Festival decoration,Everyday,Global,,Red envelope,fireworks
+2,92,art genre,Pop culture,Art,,Expressionism,abstract expressionism
+0,93,Dragon Boat Festival customs,Everyday,traditional culture,,dragon boat,mugwort
+1,93,cooking techniques,Everyday,Foods,,saute,fry
+2,93,legal principles,Everyday,,,The principle of fairness,Everyone is equal before the law
+0,94,laws of physics,Everyday,Math and science,,Heisenberg uncertainty principle,The principle of entropy increase
+1,94,Sports,Pop culture,Sports,,swim,basketball
+2,94,literature,Everyday,Literature,,epic,satire
+0,95,objects with gear,Everyday,,,saw,comb
+1,95,Spring Festival customs,Everyday,traditional culture,,window grilles,New Year pictures
+2,95,CBA league team,Pop culture,Sports,,Beikong,Liaoning Bengang
+0,96,musical instrument,Pop culture,Music,,violin,piano
+1,96,Jazz drum composition,Pop culture,Music,,Snare,Hanging
+2,96,traditional invention,Everyday,,,jade,silk
+0,97,geographical theory,Everyday,Math and science,,human geographical determinism,plate tectonics theory
+1,97,Earthly Branch,Everyday,traditional culture,,Hai,You
+2,97,The character with water radical,Linguistic,,,light,law
+0,98,Spanish Football League,Pop culture,Sports,,Atletico Madrid,Barcelona
+1,98,Earthly Branch,Everyday,traditional culture,,Xu,Shen
+2,98,Spring Festival customs,Everyday,traditional culture,,Spring couplets,window grilles
+0,99,traditional literati,Everyday,traditional culture,,Confucius,Zhuangzi
+1,99,emotion,Everyday,,,anger,hapiness
+2,99,CBA league team,Pop culture,Sports,,Beijing Shougang,Beikong
+0,100,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Borrowing arrows from a straw boat,Seven captures and seven attempts
+1,100,Chinese traditional theatrical performance,Everyday,,,acrobatics,Kungfu
+2,100,emotion,Everyday,,,anger,hapiness
+0,101,traditional festival,Everyday,traditional culture,,Ching Ming Festival,Mid-Autumn Festival
+1,101,Chinese loanwords,Linguistic,,,coffee,radar
+2,101,The character with metal radical,Linguistic,,,front,nail
+0,102,Classic Shandong cuisine,Everyday,Foods,,Nine turns of large intestine,Sixi meatballs
+1,102,biological theory,Everyday,Math and science,,Theory of the origin of endosymbiosis,central dogma of heredity
+2,102,Four major fish kinds,Everyday,Animals,,grass carp,herring
+0,103,Traditional Culture,Everyday,traditional culture,,Tai Chi,Feng Shui
+1,103,NBA team,Pop culture,Sports,,Heat,Clippers
+2,103,four gentlemen,Everyday,traditional culture,,orchid,chrysanthemum
+0,104,color,Everyday,,,red,green
+1,104,NBA team,Pop culture,Sports,,Spurs,Clippers
+2,104,Week,Everyday,,,"Monday
+",Thursday
+0,105,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,make water,boil water
+1,105,animal,Everyday,Animals,,cat,fish
+2,105,scientific theorem,Everyday,Math and science,,Quantum mechanics,Newton's laws of motion
+0,106,Spring Festival decoration,Everyday,Global,,Spring couplets,lantern
+1,106,An idiom from the Tang Dynasty,Linguistic,traditional culture,,Playing tricks,unique
+2,106,The Four Books,Pop culture,Literature,,The Great Learning,The Analects of Confucius
+0,107,Network language,Linguistic,Slang and synonyms,,Lie down,Involution
+1,107,planet,Everyday,Math and science,,Venus,Mars
+2,107,four gentlemen,Everyday,traditional culture,,chrysanthemum,plum
+0,108,__smile,Linguistic,Fill in the blank,,wry,ridicule
+1,108,Classic Shandong cuisine,Everyday,Foods,,Sweet and sour carp,Stewed Meat
+2,108,musical instrument,Pop culture,Music,,piano,violin
+0,109,historical period,Everyday,History,,cold war period,Information age
+1,109,gem,Everyday,,,diamond,Emerald
+2,109,Ruminants,Everyday,Animals,,ox,sheep
+0,110,An idiom from the Tang Dynasty,Linguistic,traditional culture,,unique,Playing tricks
+1,110,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,animal organs,Songhua eggs
+2,110,natural elements,Everyday,Math and science,,wind,earth
+0,111,NBA team,Pop culture,Sports,,Lakers,Spurs
+1,111,Spanish Football League,Pop culture,Sports,,Real Madrid,Royal Football Society
+2,111,planet,Everyday,Math and science,,Venus,Mercury
+0,112,Classification of Chinese Poetry Forms,Linguistic,Literature,,ancient poetry,word
+1,112,German Football League,Pop culture,Sports,,Bayern,Bayer Leverkusen
+2,112,The character with ice radical,Linguistic,,,cold,clean
+0,113,natural elements,Everyday,Math and science,,wind,fire
+1,113,economic theory,Everyday,Math and science,,supply and demand theory,Neo-liberalism
+2,113,Sports,Pop culture,Sports,,tennis,basketball
+0,114,Week,Everyday,,,"Monday
+",Tuesday
+1,114,Dragon Boat Festival customs,Everyday,traditional culture,,mugwort,realgar wine
+2,114,German Football League,Pop culture,Sports,,Bayer Leverkusen,Dortmund
+0,115,Heavenly Stem,Everyday,traditional culture,,Wu,Xin
+1,115,gem,Everyday,,,diamond,ruby
+2,115,season,Everyday,Environment,,spring,summer
+0,116, ___ tree,Linguistic,,,peach,locust
+1,116,Traditional holiday food,Everyday,Foods,,moon cake,dumpling
+2,116,emotion,Everyday,,,anger,sad
+0,117,fruit,Everyday,Foods,,orange,apple
+1,117,religion,Everyday,traditional culture,,Buddhist,Confucianism
+2,117,The character with metal radical,Linguistic,,,needle,"money
+"
+0,118,The character with water radical,Linguistic,,,lake,light
+1,118,NBA team,Pop culture,Sports,,Clippers,Lakers
+2,118,scientific theorem,Everyday,Math and science,,Quantum mechanics,relativity
+0,119,Sports,Pop culture,Sports,,tennis,swim
+1,119,Spring Festival customs,Everyday,traditional culture,,lantern,Spring couplets
+2,119,Chinese Football Super League team,Pop culture,Sports,,Shanghai SIPG,Wuhan Sanzhen
+0,120,Modal,Linguistic,,,ba,ya
+1,120,Classification of Chinese Poetry Forms,Linguistic,Literature,,word,ancient poetry
+2,120,color,Everyday,,,yellow,blue
+0,121,The character with metal radical,Linguistic,,,nail,needle
+1,121,four gentlemen,Everyday,traditional culture,,chrysanthemum,plum
+2,121,French Football League,Pop culture,Sports,,Lyon,Nice
+0,122,__smile,Linguistic,Fill in the blank,,sneer,smile
+1,122,ancient building,Everyday,Global,,Forbidden City,Terracotta Warriors and Horses
+2,122,The character with water radical,Linguistic,,,lake,river
+0,123,red movie,Pop culture,TV and Movies,,railway guerrillas,red rock
+1,123,religion,Everyday,traditional culture,,Buddhist,Confucianism
+2,123,Traditional cultural tourist attractions,Everyday,Global,,Mogao Grottoes,Forbidden City
+0,124,planet,Everyday,Math and science,,Mars,Venus
+1,124,CBA league team,Pop culture,Sports,,Guangdong Dongguan Bank,Liaoning Bengang
+2,124,a __,Linguistic,Fill in the blank,,cat,trumpet
+0,125,Different ways to say computer.,Linguistic,,,calculation machine,desktop
+1,125,Traditional holiday food,Everyday,Foods,,Lantern Festival,moon cake
+2,125,__triangle,Linguistic,Fill in the blank,,Equilateral,obtuse angle
+0,126, ___ tree,Linguistic,,,willow,pear
+1,126,biological theory,Everyday,Math and science,,central dogma of heredity,Theory of the origin of endosymbiosis
+2,126,traditional literati,Everyday,traditional culture,,Lao Tzu,Mencius
+0,127,geographical theory,Everyday,Math and science,,plate tectonics theory,human geographical determinism
+1,127,traditional literati,Everyday,traditional culture,,Zhuangzi,Mencius
+2,127,NBA team,Pop culture,Sports,,Spurs,Lakers
+0,128,four gentlemen,Everyday,traditional culture,,bamboo,plum
+1,128,Study subjects,Everyday,,,English,Chinese
+2,128,Week,Everyday,,,"Monday
+",Tuesday
+0,129,natural elements,Everyday,Math and science,,water,earth
+1,129,musical instrument,Pop culture,Music,,Guitar,violin
+2,129,season,Everyday,Environment,,autumn,spring
+0,130,Italian Football League,Pop culture,Sports,,Turin,Inter Milan
+1,130,The character with ice radical,Linguistic,,,cold,cool
+2,130,NBA team,Pop culture,Sports,,Spurs,Heat
+0,131,The character with water radical,Linguistic,,,light,lake
+1,131,traditional festival,Everyday,traditional culture,,Dragon Boat Festival,Ching Ming Festival
+2,131,Italian Football League,Pop culture,Sports,,Rome,Inter Milan
+0,132,Traditional Culture,Everyday,traditional culture,,the Eight Trigrams,Traditional Chinese Medicine
+1,132,Italian Football League,Pop culture,Sports,,Inter Milan,Turin
+2,132,Spring Festival decoration,Everyday,Global,,Spring couplets,lantern
+0,133,Week,Everyday,,,"Monday
+",Thursday
+1,133,cooking techniques,Everyday,Foods,,Steam,bake
+2,133,Spanish Football League,Pop culture,Sports,,Atletico Madrid,Barcelona
+0,134,Italian Football League,Pop culture,Sports,,Rome,Turin
+1,134,religion,Everyday,traditional culture,,Confucianism,Buddhist
+2,134,Spring Festival customs,Everyday,traditional culture,,Spring couplets,lantern
+0,135,linguistic theory,Everyday,Math and science,,symbolic interactionism,linguistic relativity
+1,135,British Premier League teams,Pop culture,Sports,,Manchester City,Manchester United
+2,135,The Four Books,Pop culture,Literature,,Mencius,The Analects of Confucius
+0,136,musical instrument,Pop culture,Music,,violin,piano
+1,136,The character with metal radical,Linguistic,,,"money
+",needle
+2,136,French Football League,Pop culture,Sports,,Lyon,Nice
+0,137,Different types of articles,Linguistic,Literature,,argumentative essay,prose
+1,137,Chinese loanwords,Linguistic,,,tank,radar
+2,137,Jazz drum composition,Pop culture,Music,,Tread,bass drum
+0,138,legal principles,Everyday,,,Everyone is equal before the law,justifiable defense
+1,138,Online game,Pop culture,Games,,PUBG,Counter Strike
+2,138,The character with ice radical,Linguistic,,,cool,clean
+0,139,__triangle,Linguistic,Fill in the blank,,right angle,obtuse angle
+1,139,Chinese traditional theatrical performance,Everyday,,,music,Kungfu
+2,139,Ruminants,Everyday,Animals,,sheep,sika deer
+0,140,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,boil water,make water
+1,140,gem,Everyday,,,diamond,ruby
+2,140,traditional literati,Everyday,traditional culture,,Zhuangzi,Confucius
+0,141,scientific theorem,Everyday,Math and science,,relativity,Newton's laws of motion
+1,141,The Five Classics,Pop culture,Literature,,Book of Documents,The Book of Changes
+2,141,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Borrowing arrows from a straw boat,Visit the thatched cottage three times
+0,142,tree composition,Everyday,Environment,,bark,Dry
+1,142,Classification of Chinese Poetry Forms,Linguistic,Literature,,song,ancient poetry
+2,142,CBA league team,Pop culture,Sports,,Guangdong Dongguan Bank,Liaoning Bengang
+0,143,season,Everyday,Environment,,summer,winter
+1,143,linguistic theory,Everyday,Math and science,,linguistic relativity,universal grammar theory
+2,143,philosophical concept,Everyday,Literature,,Existentialism,pragmatism
+0,144,a __,Linguistic,Fill in the blank,,cat,trumpet
+1,144,Chinese traditional theatrical performance,Everyday,,,dance,acrobatics
+2,144,planet,Everyday,Math and science,,Mercury,Earth
+0,145,historical period,Everyday,History,,Information age,Renaissance
+1,145,Traditional holiday food,Everyday,Foods,,moon cake,dumpling
+2,145,British Premier League teams,Pop culture,Sports,,Arsenal,Manchester United
+0,146,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Visit the thatched cottage three times,Borrowing arrows from a straw boat
+1,146,NBA team,Pop culture,Sports,,Clippers,Heat
+2,146,The Four Books,Pop culture,Literature,,The Great Learning,The Analects of Confucius
+0,147,Spring Festival customs,Everyday,traditional culture,,New Year pictures,Spring couplets
+1,147,Ruminants,Everyday,Animals,,sika deer,ox
+2,147,natural elements,Everyday,Math and science,,water,earth
+0,148,Classic Shandong cuisine,Everyday,Foods,,Nine turns of large intestine,Stewed Meat
+1,148,ancient building,Everyday,Global,,Qin Shi Huang Mausoleum,Terracotta Warriors and Horses
+2,148,Week,Everyday,,,"Monday
+",Wednesday
+0,149,The Five Classics,Pop culture,Literature,,Book of Documents,The Book of Songs
+1,149,Ruminants,Everyday,Animals,,sika deer,ox
+2,149,traditional invention,Everyday,,,jade,lacquerware
+0,150,Chinese traditional theatrical performance,Everyday,,,music,Kungfu
+1,150,traditional literati,Everyday,traditional culture,,Zhuangzi,Confucius
+2,150,musical instrument,Pop culture,Music,,Guitar,drum
+0,151,__triangle,Linguistic,Fill in the blank,,acute angle,Equilateral
+1,151,emotion,Everyday,,,sad,anger
+2,151,Classic Shandong cuisine,Everyday,Foods,,Sweet and sour carp,Stewed Meat
+0,152,Online game,Pop culture,Games,,Starcraft,PUBG
+1,152,Dragon Boat Festival customs,Everyday,traditional culture,,Zongzi,mugwort
+2,152,biological theory,Everyday,Math and science,,central dogma of heredity,Genomics
+0,153,psychological theory,Everyday,Math and science,,Psychoanalysis,cognitive psychology
+1,153,Chinese Football Super League team,Pop culture,Sports,,Beijing Guoan,Guangzhou Hengda
+2,153,Ruminants,Everyday,Animals,,reindeer,sheep
+0,154,economic theory,Everyday,Math and science,,Neo-liberalism,monetarism
+1,154,CBA league team,Pop culture,Sports,,Liaoning Bengang,Beijing Shougang
+2,154,Traditional Culture,Everyday,traditional culture,,Traditional Chinese Medicine,Feng Shui
+0,155,season,Everyday,Environment,,summer,spring
+1,155,Earthly Branch,Everyday,traditional culture,,Hai,You
+2,155,weather,Everyday,Environment,,thunder,Snow
+0,156,Four major fish kinds,Everyday,Animals,,grass carp,bighead carp
+1,156,animal,Everyday,Animals,,cat,bird
+2,156,Spring Festival decoration,Everyday,Global,,Red envelope,fireworks
+0,157,Chinese Football Super League team,Pop culture,Sports,,Beijing Guoan,Shanghai SIPG
+1,157,CBA league team,Pop culture,Sports,,Liaoning Bengang,Beijing Shougang
+2,157,planet,Everyday,Math and science,,Mercury,Mars
+0,158,weather,Everyday,Environment,,Snow,thunder
+1,158,economic theory,Everyday,Math and science,,monetarism,Neo-liberalism
+2,158,CBA league team,Pop culture,Sports,,Beikong,Liaoning Bengang
+0,159,Week,Everyday,,,Tuesday,Wednesday
+1,159,legal principles,Everyday,,,The principle of fairness,Presumption of innocence
+2,159,color,Everyday,,,blue,red
+0,160,Modal,Linguistic,,,ya,a
+1,160,Classification of Chinese Poetry Forms,Linguistic,Literature,,ancient poetry,modern poetry
+2,160,Chinese Football Super League team,Pop culture,Sports,,Guangzhou Hengda,Beijing Guoan
+0,161,Sports,Pop culture,Sports,,tennis,swim
+1,161,Ruminants,Everyday,Animals,,reindeer,ox
+2,161,legal principles,Everyday,,,Everyone is equal before the law,justifiable defense
+0,162,Classic Sichuan Cuisine,Everyday,Foods,,Mapo Tofu,Spicy Chicken
+1,162,art genre,Pop culture,Art,,abstract expressionism,Impressionism
+2,162,Chinese Football Super League team,Pop culture,Sports,,Beijing Guoan,Shanghai SIPG
+0,163,animal,Everyday,Animals,,fish,dog
+1,163,red movie,Pop culture,TV and Movies,,red rock,railway guerrillas
+2,163,Traditional Culture,Everyday,traditional culture,,Feng Shui,Tai Chi
+0,164,economic theory,Everyday,Math and science,,monetarism,Neo-liberalism
+1,164,Classification of Chinese Poetry Forms,Linguistic,Literature,,word,modern poetry
+2,164,historical period,Everyday,History,,Renaissance,cold war period
+0,165,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,make water,boil water
+1,165,Spring Festival customs,Everyday,traditional culture,,Spring couplets,lantern
+2,165,planet,Everyday,Math and science,,Mercury,Earth
+0,166,Chinese Football Super League team,Pop culture,Sports,,Beijing Guoan,Wuhan Sanzhen
+1,166,Ruminants,Everyday,Animals,,reindeer,sika deer
+2,166,NBA team,Pop culture,Sports,,Heat,Lakers
+0,167,Online game,Pop culture,Games,,League of Legends,Counter Strike
+1,167,German Football League,Pop culture,Sports,,Gladbach,Bayer Leverkusen
+2,167,Different ways to say computer.,Linguistic,,,Laptop,desktop
+0,168,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Seven captures and seven attempts,Visit the thatched cottage three times
+1,168,Earthly Branch,Everyday,traditional culture,,Xu,You
+2,168,Traditional Culture,Everyday,traditional culture,,Tai Chi,Feng Shui
+0,169,tree composition,Everyday,Environment,,branches,root
+1,169,Spanish Football League,Pop culture,Sports,,Royal Football Society,Real Madrid
+2,169,Sports,Pop culture,Sports,,tennis,basketball
+0,170,The Five Classics,Pop culture,Literature,,The Book of Rites,The Book of Changes
+1,170,Classic Shandong cuisine,Everyday,Foods,,Sixi meatballs,Stewed Meat
+2,170,The character with water radical,Linguistic,,,lake,river
+0,171,Ruminants,Everyday,Animals,,sika deer,sheep
+1,171,Different types of articles,Linguistic,Literature,,argumentative essay,prose
+2,171,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,make water,hot water
+0,172,__smile,Linguistic,Fill in the blank,,sneer,wry
+1,172,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,animal organs,Pig's trotters
+2,172,Network language,Linguistic,Slang and synonyms,,Lie down,Broken defense
+0,173,traditional festival,Everyday,traditional culture,,Ching Ming Festival,Dragon Boat Festival
+1,173,Four major fish kinds,Everyday,Animals,,silver carp,bighead carp
+2,173,__smile,Linguistic,Fill in the blank,,smile,ridicule
+0,174,psychological theory,Everyday,Math and science,,cognitive psychology,Behaviorism
+1,174,British Premier League teams,Pop culture,Sports,,Manchester City,Arsenal
+2,174,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,make water,hot water
+0,175,laws of physics,Everyday,Math and science,,Energy conservation law,Heisenberg uncertainty principle
+1,175,Jazz drum composition,Pop culture,Music,,Snare,Tread
+2,175,Chinese Football Super League team,Pop culture,Sports,,Shanghai SIPG,Guangzhou Hengda
+0,176,Four major fish kinds,Everyday,Animals,,herring,bighead carp
+1,176,Classic Shandong cuisine,Everyday,Foods,,Nine turns of large intestine,Stewed Meat
+2,176,color,Everyday,,,green,red
+0,177,natural elements,Everyday,Math and science,,wind,earth
+1,177,art genre,Pop culture,Art,,abstract expressionism,Expressionism
+2,177,The character with ice radical,Linguistic,,,cold,clean
+0,178,red movie,Pop culture,TV and Movies,,railway guerrillas,red rock
+1,178,Study subjects,Everyday,,,Chinese,physics
+2,178,religion,Everyday,traditional culture,,Confucianism,Taoist
+0,179,An idiom from the Tang Dynasty,Linguistic,traditional culture,,ends of the earth,unique
+1,179,__triangle,Linguistic,Fill in the blank,,obtuse angle,acute angle
+2,179,religion,Everyday,traditional culture,,Legalism,Taoist
+0,180,Spring Festival decoration,Everyday,Global,,Red envelope,Spring couplets
+1,180,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,hot water,make water
+2,180,geographical theory,Everyday,Math and science,,central place theory,human geographical determinism
+0,181,religion,Everyday,traditional culture,,Taoist,Confucianism
+1,181,British Premier League teams,Pop culture,Sports,,Arsenal,Manchester United
+2,181,smell,Everyday,,,acid,bitter
+0,182,CBA league team,Pop culture,Sports,,Liaoning Bengang,Beikong
+1,182,Classic Shandong cuisine,Everyday,Foods,,Sweet and sour carp,Stewed Meat
+2,182,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Seven captures and seven attempts,Visit the thatched cottage three times
+0,183,Four major fish kinds,Everyday,Animals,,herring,bighead carp
+1,183,Ruminants,Everyday,Animals,,sheep,reindeer
+2,183,Week,Everyday,,,Tuesday,"Monday
+"
+0,184,Dragon Boat Festival customs,Everyday,traditional culture,,mugwort,realgar wine
+1,184,art genre,Pop culture,Art,,cubism,Expressionism
+2,184,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Visit the thatched cottage three times,Borrowing arrows from a straw boat
+0,185,red movie,Pop culture,TV and Movies,,red rock,Red Detachment of Women
+1,185, ___ tree,Linguistic,,,peach,pear
+2,185,cooking techniques,Everyday,Foods,,fry,saute
+0,186,planet,Everyday,Math and science,,Venus,Mercury
+1,186,a __,Linguistic,Fill in the blank,,sheep,Pen holder
+2,186,The character with ice radical,Linguistic,,,clean,cool
+0,187,historical period,Everyday,History,,Information age,cold war period
+1,187,animal,Everyday,Animals,,bird,cat
+2,187,Week,Everyday,,,Tuesday,"Monday
+"
+0,188,Network language,Linguistic,Slang and synonyms,,Involution,Lie down
+1,188,season,Everyday,Environment,,spring,autumn
+2,188,musical instrument,Pop culture,Music,,violin,Guitar
+0,189,biological theory,Everyday,Math and science,,central dogma of heredity,Theory of the origin of endosymbiosis
+1,189,__smile,Linguistic,Fill in the blank,,wry,smile
+2,189,Earthly Branch,Everyday,traditional culture,,Hai,Shen
+0,190,economic theory,Everyday,Math and science,,Keynesian,supply and demand theory
+1,190,Different ways to say computer.,Linguistic,,,calculation machine,desktop
+2,190,tree composition,Everyday,Environment,,bark,root
+0,191,__triangle,Linguistic,Fill in the blank,,Equilateral,acute angle
+1,191,Traditional cultural tourist attractions,Everyday,Global,,Great Wall,Mogao Grottoes
+2,191,historical period,Everyday,History,,cold war period,Renaissance
+0,192,Classification of Chinese Poetry Forms,Linguistic,Literature,,word,modern poetry
+1,192,legal principles,Everyday,,,Everyone is equal before the law,Presumption of innocence
+2,192,Spanish Football League,Pop culture,Sports,,Atletico Madrid,Royal Football Society
+0,193,French Football League,Pop culture,Sports,,Marseille,Nice
+1,193,The character with water radical,Linguistic,,,lake,light
+2,193,tree composition,Everyday,Environment,,branches,Dry
+0,194,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Borrowing arrows from a straw boat,fledgling
+1,194,Different ways to say computer.,Linguistic,,,calculation machine,Laptop
+2,194,An idiom from the Tang Dynasty,Linguistic,traditional culture,,Playing tricks,ends of the earth
+0,195,Sports,Pop culture,Sports,,basketball,tennis
+1,195,mathematical theorem,Everyday,Math and science,,Pythagoras theorem,Gödel's incompleteness theorem
+2,195,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,animal organs,chicken feet
+0,196,musical instrument,Pop culture,Music,,violin,drum
+1,196,objects with gear,Everyday,,,comb,gear
+2,196,Earthly Branch,Everyday,traditional culture,,You,Hai
+0,197,red movie,Pop culture,TV and Movies,,red rock,Red Detachment of Women
+1,197,Chinese loanwords,Linguistic,,,tank,coffee
+2,197,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,boil water,boiling water
+0,198,French Football League,Pop culture,Sports,,Lyon,Nice
+1,198,Traditional holiday food,Everyday,Foods,,dumpling,Lantern Festival
+2,198,laws of physics,Everyday,Math and science,,The principle of entropy increase,Heisenberg uncertainty principle
+0,199,Chinese loanwords,Linguistic,,,radar,coffee
+1,199,tree composition,Everyday,Environment,,branches,bark
+2,199,The character with ice radical,Linguistic,,,accurate,cool
+0,200,religion,Everyday,traditional culture,,Legalism,Buddhist
+1,200,cooking techniques,Everyday,Foods,,fry,bake
+2,200,Spring Festival decoration,Everyday,Global,,fireworks,Red envelope
+0,201,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,chicken feet,Pig's trotters
+1,201,art genre,Pop culture,Art,,Expressionism,abstract expressionism
+2,201,Chinese traditional theatrical performance,Everyday,,,dance,Kungfu
+0,202,Jazz drum composition,Pop culture,Music,,Snare,Tread
+1,202,psychological theory,Everyday,Math and science,,humanistic psychology,Behaviorism
+2,202,traditional festival,Everyday,traditional culture,,Dragon Boat Festival,Ching Ming Festival
+0,203,Traditional cultural tourist attractions,Everyday,Global,,Mogao Grottoes,Terracotta Warriors and Horses
+1,203,legal principles,Everyday,,,The principle of fairness,Everyone is equal before the law
+2,203,gem,Everyday,,,ruby,diamond
+0,204,Ruminants,Everyday,Animals,,sika deer,reindeer
+1,204,linguistic theory,Everyday,Math and science,,Sapir-Whorf hypothesis,universal grammar theory
+2,204,Classification of Chinese Poetry Forms,Linguistic,Literature,,word,modern poetry
+0,205,Traditional cultural tourist attractions,Everyday,Global,,Mogao Grottoes,Terracotta Warriors and Horses
+1,205,Network language,Linguistic,Slang and synonyms,,Involution,Lie down
+2,205,linguistic theory,Everyday,Math and science,,symbolic interactionism,Sapir-Whorf hypothesis
+0,206,Spring Festival customs,Everyday,traditional culture,,window grilles,Spring couplets
+1,206,Chinese traditional theatrical performance,Everyday,,,music,dance
+2,206,Sports,Pop culture,Sports,,swim,tennis
+0,207,red movie,Pop culture,TV and Movies,,railway guerrillas,red rock
+1,207,The Five Classics,Pop culture,Literature,,The Book of Rites,The Book of Songs
+2,207,Four major fish kinds,Everyday,Animals,,grass carp,silver carp
+0,208,Week,Everyday,,,Tuesday,Wednesday
+1,208,__smile,Linguistic,Fill in the blank,,sneer,wry
+2,208,CBA league team,Pop culture,Sports,,Guangdong Dongguan Bank,Beikong
+0,209,Ruminants,Everyday,Animals,,ox,sheep
+1,209,four gentlemen,Everyday,traditional culture,,chrysanthemum,orchid
+2,209,Earthly Branch,Everyday,traditional culture,,Xu,Shen
+0,210,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,Pig's trotters,Songhua eggs
+1,210,Traditional Culture,Everyday,traditional culture,,Traditional Chinese Medicine,Tai Chi
+2,210,The character with water radical,Linguistic,,,light,river
+0,211,Italian Football League,Pop culture,Sports,,AC Milan,Turin
+1,211,Traditional cultural tourist attractions,Everyday,Global,,Great Wall,Forbidden City
+2,211,historical period,Everyday,History,,Information age,Industrial Revolution
+0,212,art genre,Pop culture,Art,,Expressionism,Impressionism
+1,212,football technical moves,Pop culture,Sports,,stop,dribble
+2,212,fruit,Everyday,Foods,,banana,orange
+0,213,Sports,Pop culture,Sports,,football,basketball
+1,213,four gentlemen,Everyday,traditional culture,,chrysanthemum,plum
+2,213,Jazz drum composition,Pop culture,Music,,Tread,Hanging
+0,214,Chinese loanwords,Linguistic,,,radar,coffee
+1,214, ___ tree,Linguistic,,,pear,locust
+2,214,literature,Everyday,Literature,,satire,autobiographical novel
+0,215,scientific theorem,Everyday,Math and science,,relativity,Quantum mechanics
+1,215,traditional festival,Everyday,traditional culture,,Ching Ming Festival,Spring Festival
+2,215,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,animal organs,chicken feet
+0,216,Sports,Pop culture,Sports,,tennis,basketball
+1,216,linguistic theory,Everyday,Math and science,,symbolic interactionism,universal grammar theory
+2,216,gem,Everyday,,,ruby,diamond
+0,217,The Five Classics,Pop culture,Literature,,The Book of Changes,Book of Documents
+1,217,Heavenly Stem,Everyday,traditional culture,,Geng,Ji
+2,217,animal,Everyday,Animals,,fish,dog
+0,218,Spring Festival customs,Everyday,traditional culture,,New Year pictures,window grilles
+1,218,season,Everyday,Environment,,winter,spring
+2,218,four gentlemen,Everyday,traditional culture,,orchid,chrysanthemum
+0,219,British Premier League teams,Pop culture,Sports,,Manchester United,Manchester City
+1,219,biological theory,Everyday,Math and science,,Genomics,central dogma of heredity
+2,219,emotion,Everyday,,,hapiness,surprise
+0,220,NBA team,Pop culture,Sports,,Spurs,Heat
+1,220,religion,Everyday,traditional culture,,Legalism,Confucianism
+2,220,Idioms related to Zhuge Liang,Linguistic,traditional culture,,fledgling,Visit the thatched cottage three times
+0,221,season,Everyday,Environment,,spring,summer
+1,221,German Football League,Pop culture,Sports,,Gladbach,Dortmund
+2,221,Heavenly Stem,Everyday,traditional culture,,Ji,Wu
+0,222,scientific theorem,Everyday,Math and science,,Newton's laws of motion,relativity
+1,222,laws of physics,Everyday,Math and science,,Energy conservation law,The principle of entropy increase
+2,222,Study subjects,Everyday,,,English,math
+0,223,legal principles,Everyday,,,justifiable defense,The principle of fairness
+1,223,mathematical theorem,Everyday,Math and science,,Pythagoras theorem,Euler's formula
+2,223,Classic Shandong cuisine,Everyday,Foods,,Sweet and sour carp,Nine turns of large intestine
+0,224,laws of physics,Everyday,Math and science,,The principle of entropy increase,general relativity equivalence principle
+1,224,football technical moves,Pop culture,Sports,,pass,shoot
+2,224,red movie,Pop culture,TV and Movies,,Red Detachment of Women,tunnel warfare
+0,225,German Football League,Pop culture,Sports,,Gladbach,Dortmund
+1,225,biological theory,Everyday,Math and science,,Genomics,central dogma of heredity
+2,225,French Football League,Pop culture,Sports,,Marseille,Nice
+0,226,Online game,Pop culture,Games,,League of Legends,Counter Strike
+1,226,cooking techniques,Everyday,Foods,,saute,Steam
+2,226,Chinese loanwords,Linguistic,,,coffee,tank
+0,227, ___ tree,Linguistic,,,locust,peach
+1,227,Chinese Football Super League team,Pop culture,Sports,,Beijing Guoan,Guangzhou Hengda
+2,227,Study subjects,Everyday,,,physics,Chinese
+0,228,The character with water radical,Linguistic,,,river,lake
+1,228,Heavenly Stem,Everyday,traditional culture,,Wu,Ji
+2,228,literature,Everyday,Literature,,autobiographical novel,tragedy
+0,229,Classic Shandong cuisine,Everyday,Foods,,Sweet and sour carp,Nine turns of large intestine
+1,229,Classic Sichuan Cuisine,Everyday,Foods,,Spicy Chicken,Mapo Tofu
+2,229,red movie,Pop culture,TV and Movies,,Red Detachment of Women,red rock
+0,230,CBA league team,Pop culture,Sports,,Beikong,Beijing Shougang
+1,230,animal,Everyday,Animals,,fish,cat
+2,230,Spring Festival decoration,Everyday,Global,,Spring couplets,lantern
+0,231,cooking techniques,Everyday,Foods,,saute,Steam
+1,231,__smile,Linguistic,Fill in the blank,,smile,sneer
+2,231,Network language,Linguistic,Slang and synonyms,,Broken defense,Lie down
+0,232,musical instrument,Pop culture,Music,,Guitar,piano
+1,232,red movie,Pop culture,TV and Movies,,Red Detachment of Women,tunnel warfare
+2,232,Network language,Linguistic,Slang and synonyms,,Broken defense,Involution
+0,233,philosophical concept,Everyday,Literature,,idealism,pragmatism
+1,233,French Football League,Pop culture,Sports,,Paris,Nice
+2,233,emotion,Everyday,,,sad,hapiness
+0,234,Traditional cultural tourist attractions,Everyday,Global,,Mogao Grottoes,Great Wall
+1,234,The Five Classics,Pop culture,Literature,,Book of Documents,The Book of Changes
+2,234,Classic Sichuan Cuisine,Everyday,Foods,,Kung Pao Chicken,Spicy Chicken
+0,235,The Four Books,Pop culture,Literature,,Mencius,The Doctrine of the Mean
+1,235,linguistic theory,Everyday,Math and science,,universal grammar theory,Sapir-Whorf hypothesis
+2,235,geographical theory,Everyday,Math and science,,human geographical determinism,plate tectonics theory
+0,236,Earthly Branch,Everyday,traditional culture,,You,Hai
+1,236, ___ tree,Linguistic,,,locust,willow
+2,236,musical instrument,Pop culture,Music,,drum,Guitar
+0,237,smell,Everyday,,,salty,sweet
+1,237,linguistic theory,Everyday,Math and science,,universal grammar theory,symbolic interactionism
+2,237,Week,Everyday,,,"Monday
+",Tuesday
+0,238,psychological theory,Everyday,Math and science,,Psychoanalysis,cognitive psychology
+1,238,geographical theory,Everyday,Math and science,,central place theory,environmental determinism
+2,238,traditional invention,Everyday,,,silk,jade
+0,239,NBA team,Pop culture,Sports,,Clippers,Heat
+1,239,geographical theory,Everyday,Math and science,,plate tectonics theory,central place theory
+2,239,Different ways to say computer.,Linguistic,,,calculation machine,desktop
+0,240,Study subjects,Everyday,,,physics,math
+1,240,color,Everyday,,,red,yellow
+2,240,Earthly Branch,Everyday,traditional culture,,Xu,You
+0,241,__smile,Linguistic,Fill in the blank,,smile,ridicule
+1,241,Jazz drum composition,Pop culture,Music,,Tread,Hanging
+2,241,Traditional holiday food,Everyday,Foods,,Lantern Festival,moon cake
+0,242,Chinese traditional theatrical performance,Everyday,,,acrobatics,dance
+1,242,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Visit the thatched cottage three times,Borrowing arrows from a straw boat
+2,242, ___ tree,Linguistic,,,locust,willow
+0,243,Traditional holiday food,Everyday,Foods,,Zongzi,Lantern Festival
+1,243,Classification of Chinese Poetry Forms,Linguistic,Literature,,word,modern poetry
+2,243,Traditional Culture,Everyday,traditional culture,,Traditional Chinese Medicine,Tai Chi
+0,244,Week,Everyday,,,Tuesday,"Monday
+"
+1,244,scientific theorem,Everyday,Math and science,,Quantum mechanics,laws of thermodynamics
+2,244,red movie,Pop culture,TV and Movies,,tunnel warfare,railway guerrillas
+0,245,laws of physics,Everyday,Math and science,,Energy conservation law,Heisenberg uncertainty principle
+1,245,__smile,Linguistic,Fill in the blank,,wry,smile
+2,245,Dragon Boat Festival customs,Everyday,traditional culture,,dragon boat,realgar wine
+0,246,tree composition,Everyday,Environment,,root,Dry
+1,246,Sports,Pop culture,Sports,,tennis,football
+2,246,Different types of articles,Linguistic,Literature,,narrative,argumentative essay
+0,247,Traditional cultural tourist attractions,Everyday,Global,,Forbidden City,Great Wall
+1,247,planet,Everyday,Math and science,,Venus,Mercury
+2,247,French Football League,Pop culture,Sports,,Lyon,Nice
+0,248,a __,Linguistic,Fill in the blank,,sheep,cat
+1,248,color,Everyday,,,green,blue
+2,248,Chinese traditional theatrical performance,Everyday,,,acrobatics,Kungfu
+0,249,art genre,Pop culture,Art,,Impressionism,abstract expressionism
+1,249,natural elements,Everyday,Math and science,,wind,fire
+2,249,geographical theory,Everyday,Math and science,,central place theory,environmental determinism
+0,250,season,Everyday,Environment,,spring,summer
+1,250,Chinese traditional theatrical performance,Everyday,,,dance,acrobatics
+2,250,The character with water radical,Linguistic,,,lake,light
+0,251,The Five Classics,Pop culture,Literature,,The Book of Rites,The Book of Changes
+1,251,CBA league team,Pop culture,Sports,,Beijing Shougang,Liaoning Bengang
+2,251,laws of physics,Everyday,Math and science,,The principle of entropy increase,Energy conservation law
+0,252,Classic Sichuan Cuisine,Everyday,Foods,,Duck Blood in Chili Sauce,Spicy Chicken
+1,252,Heavenly Stem,Everyday,traditional culture,,Geng,Xin
+2,252,legal principles,Everyday,,,justifiable defense,Presumption of innocence
+0,253,CBA league team,Pop culture,Sports,,Beikong,Liaoning Bengang
+1,253,Network language,Linguistic,Slang and synonyms,,Lie down,Broken defense
+2,253,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,animal organs,Pig's trotters
+0,254,smell,Everyday,,,bitter,acid
+1,254,CBA league team,Pop culture,Sports,,Beijing Shougang,Liaoning Bengang
+2,254,The character with metal radical,Linguistic,,,front,"money
+"
+0,255,British Premier League teams,Pop culture,Sports,,Manchester City,Manchester United
+1,255,scientific theorem,Everyday,Math and science,,relativity,Newton's laws of motion
+2,255,Traditional cultural tourist attractions,Everyday,Global,,Great Wall,Terracotta Warriors and Horses
+0,256,Traditional holiday food,Everyday,Foods,,moon cake,Zongzi
+1,256,French Football League,Pop culture,Sports,,Marseille,Lyon
+2,256,Classic Shandong cuisine,Everyday,Foods,,Sixi meatballs,Stewed Meat
+0,257,animal,Everyday,Animals,,fish,bird
+1,257,Four major fish kinds,Everyday,Animals,,silver carp,bighead carp
+2,257,cooking techniques,Everyday,Foods,,fry,bake
+0,258,emotion,Everyday,,,surprise,anger
+1,258,historical period,Everyday,History,,Information age,Renaissance
+2,258,tree composition,Everyday,Environment,,root,bark
+0,259,mathematical theorem,Everyday,Math and science,,Pythagoras theorem,Fermat's Last Theorem
+1,259,The character with ice radical,Linguistic,,,clean,cold
+2,259,British Premier League teams,Pop culture,Sports,,Manchester City,Crystal palace
+0,260,Online game,Pop culture,Games,,Counter Strike,PUBG
+1,260,French Football League,Pop culture,Sports,,Paris,Marseille
+2,260,cooking techniques,Everyday,Foods,,bake,fry
+0,261,Different types of articles,Linguistic,Literature,,narrative,argumentative essay
+1,261,red movie,Pop culture,TV and Movies,,railway guerrillas,red rock
+2,261,color,Everyday,,,red,blue
+0,262,The character with metal radical,Linguistic,,,needle,front
+1,262,economic theory,Everyday,Math and science,,Keynesian,Neo-liberalism
+2,262,Ruminants,Everyday,Animals,,ox,reindeer
+0,263,Online game,Pop culture,Games,,Counter Strike,Starcraft
+1,263,Ruminants,Everyday,Animals,,sheep,ox
+2,263,Earthly Branch,Everyday,traditional culture,,You,Shen
+0,264,French Football League,Pop culture,Sports,,Lyon,Marseille
+1,264,philosophical concept,Everyday,Literature,,pragmatism,idealism
+2,264,Ruminants,Everyday,Animals,,ox,sheep
+0,265,British Premier League teams,Pop culture,Sports,,Manchester United,Manchester City
+1,265,laws of physics,Everyday,Math and science,,Heisenberg uncertainty principle,general relativity equivalence principle
+2,265,smell,Everyday,,,bitter,acid
+0,266,literature,Everyday,Literature,,epic,tragedy
+1,266,color,Everyday,,,blue,green
+2,266,Traditional Culture,Everyday,traditional culture,,Tai Chi,Traditional Chinese Medicine
+0,267,linguistic theory,Everyday,Math and science,,symbolic interactionism,linguistic relativity
+1,267,The Five Classics,Pop culture,Literature,,Book of Documents,The Book of Songs
+2,267,religion,Everyday,traditional culture,,Legalism,Taoist
+0,268,animal,Everyday,Animals,,fish,cat
+1,268,biological theory,Everyday,Math and science,,natural selection theory,central dogma of heredity
+2,268,red movie,Pop culture,TV and Movies,,red rock,railway guerrillas
+0,269,Study subjects,Everyday,,,Chinese,physics
+1,269,color,Everyday,,,red,yellow
+2,269,Week,Everyday,,,"Monday
+",Wednesday
+0,270,objects with gear,Everyday,,,gear,saw
+1,270,economic theory,Everyday,Math and science,,monetarism,Neo-liberalism
+2,270,German Football League,Pop culture,Sports,,Bayern,Bayer Leverkusen
+0,271,natural elements,Everyday,Math and science,,earth,water
+1,271,laws of physics,Everyday,Math and science,,Heisenberg uncertainty principle,The principle of entropy increase
+2,271,objects with gear,Everyday,,,saw,gear
+0,272,biological theory,Everyday,Math and science,,Genomics,central dogma of heredity
+1,272,philosophical concept,Everyday,Literature,,pragmatism,idealism
+2,272,emotion,Everyday,,,anger,hapiness
+0,273,Week,Everyday,,,Tuesday,Wednesday
+1,273,psychological theory,Everyday,Math and science,,Behaviorism,Psychoanalysis
+2,273,red movie,Pop culture,TV and Movies,,tunnel warfare,red rock
+0,274,German Football League,Pop culture,Sports,,Bayer Leverkusen,Dortmund
+1,274,gem,Everyday,,,diamond,ruby
+2,274,Network language,Linguistic,Slang and synonyms,,Involution,Lie down
+0,275,Four major fish kinds,Everyday,Animals,,bighead carp,grass carp
+1,275,The character with metal radical,Linguistic,,,needle,"money
+"
+2,275,Sports,Pop culture,Sports,,football,tennis
+0,276,red movie,Pop culture,TV and Movies,,Red Detachment of Women,red rock
+1,276,French Football League,Pop culture,Sports,,Nice,Marseille
+2,276,Sports,Pop culture,Sports,,tennis,football
+0,277,traditional literati,Everyday,traditional culture,,Mencius,Lao Tzu
+1,277,__smile,Linguistic,Fill in the blank,,smile,wry
+2,277,Dragon Boat Festival customs,Everyday,traditional culture,,Zongzi,dragon boat
+0,278,Jazz drum composition,Pop culture,Music,,Tread,bass drum
+1,278,Dragon Boat Festival customs,Everyday,traditional culture,,Zongzi,mugwort
+2,278,mathematical theorem,Everyday,Math and science,,Gödel's incompleteness theorem,Fermat's Last Theorem
+0,279,gem,Everyday,,,sapphire,ruby
+1,279,musical instrument,Pop culture,Music,,Guitar,piano
+2,279,religion,Everyday,traditional culture,,Legalism,Taoist
+0,280,Italian Football League,Pop culture,Sports,,Inter Milan,Rome
+1,280,economic theory,Everyday,Math and science,,supply and demand theory,Keynesian
+2,280,objects with gear,Everyday,,,saw,gear
+0,281,British Premier League teams,Pop culture,Sports,,Manchester City,Manchester United
+1,281,traditional festival,Everyday,traditional culture,,Ching Ming Festival,Mid-Autumn Festival
+2,281,NBA team,Pop culture,Sports,,Lakers,Heat
+0,282,Spring Festival customs,Everyday,traditional culture,,Spring couplets,New Year pictures
+1,282,literature,Everyday,Literature,,epic,tragedy
+2,282,Four major fish kinds,Everyday,Animals,,herring,grass carp
+0,283,tree composition,Everyday,Environment,,branches,Dry
+1,283,four gentlemen,Everyday,traditional culture,,orchid,plum
+2,283,__smile,Linguistic,Fill in the blank,,ridicule,sneer
+0,284,mathematical theorem,Everyday,Math and science,,Fermat's Last Theorem,Euler's formula
+1,284,Idioms related to Zhuge Liang,Linguistic,traditional culture,,Visit the thatched cottage three times,fledgling
+2,284,gem,Everyday,,,diamond,Emerald
+0,285,emotion,Everyday,,,sad,hapiness
+1,285,Traditional holiday food,Everyday,Foods,,dumpling,Zongzi
+2,285,linguistic theory,Everyday,Math and science,,Sapir-Whorf hypothesis,linguistic relativity
+0,286,Modal,Linguistic,,,ne,a
+1,286,The Five Classics,Pop culture,Literature,,Book of Documents,The Book of Changes
+2,286,Different ways to say computer.,Linguistic,,,computer,desktop
+0,287,biological theory,Everyday,Math and science,,central dogma of heredity,natural selection theory
+1,287,British Premier League teams,Pop culture,Sports,,Manchester United,Arsenal
+2,287,Dragon Boat Festival customs,Everyday,traditional culture,,realgar wine,mugwort
+0,288,Classic Sichuan Cuisine,Everyday,Foods,,Spicy Chicken,Mapo Tofu
+1,288,The character with ice radical,Linguistic,,,cold,cool
+2,288,historical period,Everyday,History,,Industrial Revolution,Renaissance
+0,289,tree composition,Everyday,Environment,,bark,branches
+1,289,linguistic theory,Everyday,Math and science,,symbolic interactionism,universal grammar theory
+2,289,gem,Everyday,,,Emerald,ruby
+0,290,Network language,Linguistic,Slang and synonyms,,Broken defense,Can't hold it tight
+1,290,football technical moves,Pop culture,Sports,,shoot,stop
+2,290,The character with ice radical,Linguistic,,,clean,cool
+0,291,legal principles,Everyday,,,The principle of fairness,Presumption of innocence
+1,291,traditional literati,Everyday,traditional culture,,Zhuangzi,Confucius
+2,291,Ruminants,Everyday,Animals,,sika deer,ox
+0,292,psychological theory,Everyday,Math and science,,cognitive psychology,Behaviorism
+1,292,economic theory,Everyday,Math and science,,Keynesian,monetarism
+2,292,Online game,Pop culture,Games,,Counter Strike,Starcraft
+0,293,Traditional Culture,Everyday,traditional culture,,Tai Chi,Traditional Chinese Medicine
+1,293,The character with ice radical,Linguistic,,,clean,accurate
+2,293,Different dialects for heating water to boiling,Linguistic,Slang and synonyms,,boil water,hot water
+0,294,__smile,Linguistic,Fill in the blank,,sneer,wry
+1,294,objects with gear,Everyday,,,saw,zipper
+2,294,cooking techniques,Everyday,Foods,,bake,fry
+0,295,traditional literati,Everyday,traditional culture,,Zhuangzi,Confucius
+1,295,Network language,Linguistic,Slang and synonyms,,Broken defense,Can't hold it tight
+2,295,legal principles,Everyday,,,Everyone is equal before the law,The principle of fairness
+0,296,scientific theorem,Everyday,Math and science,,laws of thermodynamics,Quantum mechanics
+1,296,Traditional food is difficult for non-Chinese people to accept,Everyday,Foods,,animal organs,Pig's trotters
+2,296,economic theory,Everyday,Math and science,,Keynesian,monetarism
+0,297,NBA team,Pop culture,Sports,,Lakers,Clippers
+1,297,four gentlemen,Everyday,traditional culture,,plum,orchid
+2,297,Spring Festival decoration,Everyday,Global,,Red envelope,Spring couplets
+0,298,The character with metal radical,Linguistic,,,nail,needle
+1,298,traditional literati,Everyday,traditional culture,,Lao Tzu,Mencius
+2,298,smell,Everyday,,,bitter,sweet
+0,299,The character with water radical,Linguistic,,,lake,river
+1,299,Earthly Branch,Everyday,traditional culture,,Xu,Hai
+2,299,Different ways to say computer.,Linguistic,,,calculation machine,computer
