@@ -1,4 +1,4 @@
-% global group logo up here?
+[comment]: <> (GG "logo" up here? Like the one in the poster)
 # Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games
 The repository for data and code associated with the EMNLP Main 2025 paper "Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games", presenting the GlobalGroup dataset and evaluation.
 
