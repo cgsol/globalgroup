@@ -8,11 +8,10 @@ Abstract: Large language models (LLMs) can exhibit biases in reasoning capabilit
 
 This paper is available on [arXiv](https://www.arxiv.org/abs/2510.14030) and in the EMNLP Main 2025 proceedings.
 
-Current:
-- All unscored games datasets
+Currently included in this repository:
+- All unscored & scored games datasets
 - All groupings datasets, including the combined translated groupings datasets for ease of view
 
-To-do:
-- Scored games datasets
-- Model prompting script for game, overlap
-- Evaluation scripts for model responses, games
+To be included in this repository:
+- Model prompting script for GG games & overlap prediction
+- Evaluation scripts for model responses & game metric scoring
